@@ -10,7 +10,7 @@ const fs = require("fs");
 
 const app = express();
 const PORT = process.env.PORT || 3000;
-const PYTHON_API_URL = "http://127.0.0.1:8001";
+const PYTHON_API_URL = process.env.PYTHON_API_URL || "http://127.0.0.1:8001";
 const MONGO_URI = process.env.MONGO_URI || "mongodb://localhost:27017";
 const JWT_SECRET = process.env.JWT_SECRET;
 const JWT_EXPIRES_IN = process.env.JWT_EXPIRES_IN || "7d";

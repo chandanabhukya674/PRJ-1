@@ -1,0 +1,30 @@
+services:
+  # ── Python ML Backend ──────────────────────────────────────────────────────
+  - type: web
+    name: cropsense-python
+    runtime: python
+    buildCommand: pip install -r requirements.txt
+    startCommand: uvicorn backend.main:app --host 0.0.0.0 --port $PORT
+    envVars:
+      - key: GEMINI_API_KEY
+        sync: false          # you set this in Render dashboard
+      - key: AGMARKET_API_KEY
+        sync: false
+      - key: AGMARKET_API_URL
+        sync: false
+
+  # ── Node.js API Gateway + Frontend ────────────────────────────────────────
+  - type: web
+    name: cropsense-node
+    runtime: node
+    buildCommand: npm install
+    startCommand: node server.js
+    envVars:
+      - key: PYTHON_API_URL
+        sync: false          # set to your cropsense-python Render URL
+      - key: JWT_SECRET
+        sync: false
+      - key: MONGO_URI
+        sync: false          # set to your MongoDB Atlas connection string
+      - key: JWT_EXPIRES_IN
+        value: 7d

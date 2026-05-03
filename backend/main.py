@@ -4,7 +4,6 @@ from pathlib import Path
 from typing import List, Dict, Any
 # Removed unused imports that shadowed numpy globals
 
-from click import prompt
 import numpy as np  # type: ignore
 import pandas as pd  # type: ignore
 from fastapi import FastAPI, HTTPException  # type: ignore
