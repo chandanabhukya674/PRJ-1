@@ -7,11 +7,9 @@ services:
     startCommand: uvicorn backend.main:app --host 0.0.0.0 --port $PORT
     envVars:
       - key: GEMINI_API_KEY
-        sync: false          # you set this in Render dashboard
+        value: AIzaSyAtiFNBKz1UFNkrdmk43cBftWkpxz8Xc3Y
       - key: AGMARKET_API_KEY
-        sync: false
-      - key: AGMARKET_API_URL
-        sync: false
+        value: 579b464db66ec23bdd0000013b043953f61f4d9b7563da59975fff9b
 
   # ── Node.js API Gateway + Frontend ────────────────────────────────────────
   - type: web
@@ -21,10 +19,10 @@ services:
     startCommand: node server.js
     envVars:
       - key: PYTHON_API_URL
-        sync: false          # set to your cropsense-python Render URL
-      - key: JWT_SECRET
         sync: false
+      - key: JWT_SECRET
+        value: cropsense-super-secret-jwt-key-2024-xK9mP3qR7vL2nW8
       - key: MONGO_URI
-        sync: false          # set to your MongoDB Atlas connection string
+        value: mongodb+srv://admin:Chandana123@horizoncluster.iytvw65.mongodb.net/crop_recommendation_db
       - key: JWT_EXPIRES_IN
         value: 7d
