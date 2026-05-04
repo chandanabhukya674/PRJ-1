@@ -1,164 +1,2201 @@
 Crop	N	P	K	Temperature	humidity	pH	Rainfall	State	Season	Price
-rice	90	42	43	21	82.00274423	6.502985292	203	Uttar Pradesh	Zaid	19.11
-rice	85	58	41	22	80.31964408	7.038096361	227	West Bengal	Rabi	65.92
-rice	91	53	40	27	81.41753846	5.386167788	265	Tamil Nadu	Rabi	307.33
-rice	91	53	40	27	81.41753846	5.386167788	265	Karnataka	Post-Monsoon	64.61
-rice	85	38	41	22	82.7883708	6.249050656	277	Karnataka	Rabi	162.86
-rice	91	35	39	24	80.41817957	6.970859754	206	Punjab	Rabi	223.17
-rice	99	57	35	27	81.17734011	5.960370061	272	Maharashtra	Zaid	92.7
-rice	62	42	36	23	82.06719137	6.430010215	249	Maharashtra	Post-Monsoon	99.11
-rice	79	43	39	22	80.70960551	7.062779015	211	Maharashtra	Rabi	167.64
-rice	76	60	39	20	80.3477562	6.766240045	209	Karnataka	Kharif	148.06
-rice	65	60	43	22	81.89918197	5.658169482	227	West Bengal	Rabi	65.92
-rice	95	52	36	26	83.83625819	5.543360238	287	Uttar Pradesh	Rabi	78.63
-rice	71	46	40	20	82.1235421	7.236705436	192	Karnataka	Rabi	72.5
-rice	83	58	45	26	83.51827127	5.875345751	246	Karnataka	Kharif	40.61
-rice	70	36	42	22	80.72886384	6.946209881	202	Punjab	Zaid	33.45
-rice	67	45	38	23	82.1706881	7.300410836	261	Karnataka	Post-Monsoon	3.02
-rice	77	36	37	27	81.46033732	6.136131869	195	Punjab	Rabi	276.9
-rice	77	36	37	27	81.46033732	6.136131869	195	Uttar Pradesh	Zaid	102.99
-rice	67	43	39	26	84.96907151	5.999969026	187	Karnataka	Kharif	304.15
-rice	82	43	38	23	81.43321641	5.105588355	242	Maharashtra	Post-Monsoon	174.83
-rice	90	44	38	24	83.88387074	7.473134377	241	West Bengal	Kharif	60.64
-rice	78	40	38	26	83.85642678	7.549873681	248	Karnataka	Kharif	81.91
-rice	78	40	38	26	83.85642678	7.549873681	248	Karnataka	Zaid	56.81
-rice	60	51	36	23	82.81088865	6.028321558	257	Punjab	Rabi	13.62
-rice	78	35	44	27	84.67353597	7.072655622	184	Karnataka	Kharif	288.07
-maize	71	54	16	23	63.69070564	5.749914421	88	Punjab	Rabi	128.52
-maize	89	60	19	25	66.6902901	5.913664501	78	Punjab	Rabi	220.86
-maize	90	49	21	25	68.3584573	6.472523287	74	Karnataka	Post-Monsoon	63.56
-maize	62	52	16	22	58.84015925	6.967057762	64	Punjab	Kharif	128.8
-maize	66	53	19	23	60.1159381	6.033550195	65	Tamil Nadu	Post-Monsoon	15.82
-maize	74	56	22	18	66.65952796	6.829199275	81	Karnataka	Zaid	5.67
-maize	64	35	23	23	61.89472002	5.680361038	63	Punjab	Zaid	114.54
-maize	86	55	21	22	59.64024162	6.803931519	110	Karnataka	Post-Monsoon	119.6
-maize	74	43	23	26	61.89082199	6.325235159	100	Maharashtra	Kharif	133.04
-maize	63	43	17	19	65.47050802	6.807487794	71	Uttar Pradesh	Post-Monsoon	88.51
-maize	99	36	20	21	65.34583901	6.671085817	78	Maharashtra	Post-Monsoon	133.66
-maize	99	36	20	21	65.34583901	6.671085817	78	Tamil Nadu	Zaid	7.32
-maize	66	44	20	19	69.02298571	6.740000688	81	Karnataka	Kharif	202.63
-maize	63	35	16	22	65.35549924	6.272417541	84	Karnataka	Zaid	16.57
-maize	79	45	20	24	59.24537979	5.715208817	90	Karnataka	Rabi	27.26
-maize	75	53	18	21	59.4375337	6.864793607	104	Uttar Pradesh	Post-Monsoon	257.67
-maize	74	39	23	23	65.77472881	6.78073637	88	Punjab	Rabi	128.52
-maize	63	42	21	23	72.33125523	5.798423908	67	Uttar Pradesh	Post-Monsoon	43.04
-maize	90	52	25	26	69.36385721	6.822586546	103	Maharashtra	Post-Monsoon	167.05
-maize	90	52	25	26	69.36385721	6.822586546	103	Karnataka	Rabi	2.58
-maize	71	52	18	25	55.97732754	5.790770203	78	Punjab	Rabi	220.86
-maize	65	60	22	25	72.52054555	6.606984086	108	Tamil Nadu	Post-Monsoon	115.33
-maize	90	57	24	19	72.80086137	6.158860284	82	Punjab	Rabi	123.23
-maize	67	35	22	23	63.24648023	6.385684214	109	West Bengal	Rabi	292.29
-cotton	133	47	23	25	75.62137159	6.827354668	90	Karnataka	Rabi	127.49
-cotton	113	41	20	25	80.53965818	7.256877571	96	Karnataka	Zaid	113.52
-cotton	121	45	22	22	81.30681027	6.443785385	64	Karnataka	Post-Monsoon	307.49
-cotton	121	47	16	24	79.29573149	7.723240151	72	Maharashtra	Post-Monsoon	0.9
-cotton	140	38	15	24	75.88298598	6.021439523	70	Karnataka	Post-Monsoon	174.73
-cotton	102	49	21	25	84.84422454	6.253343655	90	Karnataka	Rabi	127.49
-cotton	135	43	16	23	81.73049149	6.720449769	87	West Bengal	Zaid	89.98
-cotton	101	58	18	26	81.38103349	6.652143699	79	Karnataka	Post-Monsoon	25.34
-cotton	101	58	18	26	81.38103349	6.652143699	79	Karnataka	Zaid	11.63
-cotton	102	46	19	23	82.5993307	6.631005298	81	Karnataka	Rabi	141.17
-cotton	108	46	17	24	84.87668973	6.93221485	65	Maharashtra	Kharif	223.89
-cotton	133	50	25	26	81.19666206	7.569454601	100	Karnataka	Post-Monsoon	84.12
-cotton	127	37	18	25	76.30050373	7.041065585	92	Punjab	Kharif	131.72
-cotton	127	37	18	25	76.30050373	7.041065585	92	Karnataka	Rabi	28.46
-cotton	110	39	25	23	77.34264002	7.208795456	75	Karnataka	Rabi	50.17
-cotton	100	40	20	22	76.25674874	7.432043735	87	Uttar Pradesh	Zaid	124.73
-cotton	100	40	20	22	76.25674874	7.432043735	87	Tamil Nadu	Post-Monsoon	119.19
-cotton	118	50	19	23	82.33733678	6.360812227	66	Tamil Nadu	Kharif	57.79
-cotton	133	57	19	24	75.98203329	7.947011366	84	Tamil Nadu	Zaid	36.17
-cotton	114	40	23	26	81.13668716	6.753978061	95	Karnataka	Kharif	190
-cotton	131	60	17	25	81.79475917	7.425041316	83	Tamil Nadu	Rabi	97.49
-cotton	123	44	21	26	75.00539324	7.641116569	91	Maharashtra	Rabi	78.31
-cotton	112	54	15	25	81.56641891	6.175492306	77	Tamil Nadu	Rabi	33.73
-cotton	100	52	19	23	82.44777468	7.903528673	94	Maharashtra	Post-Monsoon	67.72
-cotton	129	43	16	26	77.85055621	6.73210948	79	Karnataka	Post-Monsoon	25.34
-cotton	129	43	16	26	77.85055621	6.73210948	79	Karnataka	Zaid	11.63
-cotton	117	43	25	25	78.51206972	7.839849298	69	Punjab	Zaid	4.7
-cotton	126	37	21	26	84.16855231	6.61448588	77	Karnataka	Rabi	85.93
-cotton	131	56	20	22	81.83896111	7.762647875	92	Punjab	Zaid	13.43
-cotton	131	56	20	22	81.83896111	7.762647875	92	Karnataka	Post-Monsoon	142.13
-cotton	106	46	20	23	78.63388824	6.200671976	81	Karnataka	Rabi	141.17
-jute	63	41	45	25	86.8870535	7.121933579	197	Karnataka	Rabi	63.91
-jute	96	41	40	24	72.00460848	6.090060478	190	Uttar Pradesh	Kharif	101.52
-jute	96	41	40	24	72.00460848	6.090060478	190	Karnataka	Kharif	281.29
-jute	60	55	40	25	88.95692783	7.02777956	151	Maharashtra	Post-Monsoon	61.22
-jute	60	55	40	25	88.95692783	7.02777956	151	West Bengal	Zaid	159.69
-jute	67	43	38	25	70.88259632	7.299304715	196	West Bengal	Kharif	154.36
-jute	70	38	35	24	79.26861738	7.014063944	164	Maharashtra	Kharif	299.54
-jute	70	38	35	24	79.26861738	7.014063944	164	Karnataka	Zaid	46.06
-jute	74	49	38	23	71.4509053	7.488014404	164	West Bengal	Zaid	142.04
-jute	80	45	42	23	74.99739774	7.380396262	152	West Bengal	Post-Monsoon	141.24
-jute	69	47	40	25	76.2403666	6.130136384	184	Tamil Nadu	Post-Monsoon	24.42
-jute	69	47	40	25	76.2403666	6.130136384	184	Karnataka	Post-Monsoon	283.18
-jute	82	40	45	26	81.70476368	6.667633355	180	Karnataka	Kharif	247.52
-jute	81	36	38	24	87.98329901	6.334837865	150	Karnataka	Rabi	11.27
-jute	67	60	38	25	78.53037059	7.16214284	162	Maharashtra	Zaid	51.83
-jute	67	60	38	25	78.53037059	7.16214284	162	Maharashtra	Zaid	74.15
-jute	67	60	38	25	78.53037059	7.16214284	162	Karnataka	Rabi	150.93
-jute	66	47	36	25	74.4407048	6.57256106	176	Punjab	Zaid	136.97
-jute	66	47	36	25	74.4407048	6.57256106	176	Karnataka	Kharif	15.91
-jute	89	52	45	25	77.01222585	7.207457208	196	West Bengal	Kharif	154.36
-jute	77	51	44	23	82.7015932	7.124333547	166	Maharashtra	Post-Monsoon	26.58
-jute	94	37	41	25	87.06071115	6.463538707	179	Karnataka	Post-Monsoon	99.51
-jute	82	48	36	26	81.76904006	6.352076783	193	Karnataka	Kharif	19.76
-jute	100	58	41	23	87.88255345	6.658769991	161	Punjab	Zaid	96.1
-jute	67	41	40	26	87.81661683	7.333143205	153	Karnataka	Kharif	112.57
-jute	61	41	44	24	82.11319791	6.537914958	160	Uttar Pradesh	Rabi	104.15
-jute	61	41	44	24	82.11319791	6.537914958	160	Karnataka	Kharif	85.4
-jute	77	48	36	26	84.09985284	7.36008498	155	Karnataka	Zaid	139.45
-jute	61	41	35	25	79.47557931	6.842966479	196	West Bengal	Kharif	154.36
-jute	99	57	38	25	82.09281674	6.356295568	156	Uttar Pradesh	Zaid	80.02
-jute	71	56	37	23	86.20899734	6.491506245	176	Uttar Pradesh	Rabi	105.62
-jute	65	54	39	24	71.14782585	7.124571593	160	Uttar Pradesh	Rabi	104.15
-jute	65	54	39	24	71.14782585	7.124571593	160	Karnataka	Kharif	85.4
-jute	60	58	37	26	79.1188943	6.067302109	171	West Bengal	Zaid	31.43
-jute	86	39	43	26	71.23690851	6.432051512	193	Karnataka	Kharif	19.76
-jute	90	50	44	27	73.48655995	6.253408852	171	Tamil Nadu	Post-Monsoon	14.24
-jute	90	50	44	27	73.48655995	6.253408852	171	West Bengal	Zaid	147.84
-jute	87	48	38	24	80.94023552	7.161865733	190	Uttar Pradesh	Kharif	101.52
-jute	87	48	38	24	80.94023552	7.161865733	190	Karnataka	Kharif	281.29
-jute	82	46	41	23	79.79609448	6.581693772	187	Maharashtra	Kharif	200.42
-jute	71	52	43	26	73.96164569	6.732826127	180	Karnataka	Kharif	247.52
-jute	80	43	43	24	74.36794079	6.014572075	173	Karnataka	Rabi	174.43
-jute	80	43	43	24	74.36794079	6.014572075	173	Karnataka	Post-Monsoon	258.05
-jute	77	55	43	25	75.99987588	6.663559451	194	Karnataka	Zaid	256.01
-jute	93	43	38	24	86.14290267	6.987332927	150	Karnataka	Rabi	11.27
-jute	88	52	39	24	88.07112278	6.880204617	155	Maharashtra	Rabi	184.19
-jute	90	39	43	24	82.286484	6.7693455	191	Punjab	Rabi	164.82
-coffee	107	21	26	26	55.32222678	7.235070264	145	Maharashtra	Zaid	129.94
-coffee	107	21	26	26	55.32222678	7.235070264	145	Tamil Nadu	Kharif	149.74
-coffee	83	38	35	26	52.88667115	7.18915558	137	West Bengal	Kharif	10.71
-coffee	116	28	34	23	60.39523266	6.42321105	122	Maharashtra	Rabi	251.4
-coffee	116	28	34	23	60.39523266	6.42321105	122	Maharashtra	Rabi	48.5
-coffee	85	33	25	26	52.50987966	6.910823945	189	Karnataka	Zaid	277.54
-coffee	81	30	31	25	51.93952357	7.027585559	135	Karnataka	Kharif	10.32
-coffee	81	30	31	25	51.93952357	7.027585559	135	Karnataka	Kharif	212.83
-coffee	81	34	30	25	62.26244581	6.647765997	135	Karnataka	Kharif	10.32
-coffee	81	34	30	25	62.26244581	6.647765997	135	Karnataka	Kharif	212.83
-coffee	83	21	28	26	60.49244602	7.466900683	190	West Bengal	Zaid	121.17
-coffee	86	26	27	27	52.89368299	6.081172981	192	Punjab	Rabi	117.59
-coffee	103	27	31	27	51.59100753	6.691541233	126	Punjab	Post-Monsoon	315.89
-coffee	120	40	33	24	54.30329632	6.73410539	115	Maharashtra	Post-Monsoon	72.82
-coffee	98	29	30	26	61.03273481	6.217974349	199	Karnataka	Rabi	95.01
-coffee	97	29	27	28	54.36976075	7.205078785	140	Maharashtra	Post-Monsoon	62.87
-coffee	103	33	25	27	55.7497332	6.911066044	140	Karnataka	Zaid	74.04
-coffee	99	19	33	28	55.51673151	6.273741983	131	Maharashtra	Post-Monsoon	151.03
-coffee	100	40	35	28	54.41094079	6.955787351	178	West Bengal	Rabi	67.39
-coffee	82	24	26	24	53.57285558	6.089443603	184	Tamil Nadu	Post-Monsoon	1.31
-coffee	87	28	35	27	57.1621814	6.759211911	152	Karnataka	Zaid	78.45
-coffee	111	28	26	28	64.47858698	6.937352845	193	Maharashtra	Zaid	59.29
-coffee	116	40	33	25	54.15319242	7.042089492	130	Punjab	Post-Monsoon	161.67
-coffee	116	40	33	25	54.15319242	7.042089492	130	West Bengal	Kharif	160.19
-coffee	95	37	35	27	68.4233391	6.348337519	192	Punjab	Rabi	117.59
-coffee	105	18	35	24	68.44030686	6.743417121	172	Uttar Pradesh	Rabi	26.28
-coffee	105	18	35	24	68.44030686	6.743417121	172	West Bengal	Kharif	130.34
-coffee	80	18	31	24	58.84880599	7.303033217	135	Karnataka	Post-Monsoon	299.32
-coffee	107	38	29	27	57.56695719	6.35118177	145	Karnataka	Kharif	157.55
-coffee	107	31	31	23	52.97841162	6.766184468	153	Karnataka	Post-Monsoon	102.11
-coffee	118	31	34	28	62.88179198	6.123796057	181	Tamil Nadu	Zaid	59.76
-coffee	106	21	35	26	57.04151119	7.428523634	189	Karnataka	Zaid	277.54
-coffee	116	38	34	23	50.04557009	6.020947179	183	Tamil Nadu	Kharif	243.36
-coffee	107	34	32	27	66.4132686	6.78006386	178	Karnataka	Zaid	22.47
-coffee	104	18	30	24	60.39647474	6.779832611	141	Uttar Pradesh	Rabi	168.24
-
+rice	85.58	35.63	37.75	21.56	83.68	6.85	287.06	Uttar Pradesh	Post-Monsoon	19.22
+rice	63.75	40.82	41.02	23.93	83.58	6.9	230.34	Karnataka	Zaid	244.73
+rice	60.26	55.15	41.98	22.38	80.78	7.41	220.39	Uttar Pradesh	Post-Monsoon	38.05
+rice	93.9	50.09	43.07	25.11	82.68	7.45	225.42	Maharashtra	Zaid	250.53
+rice	84.74	56.54	40.77	24.93	80.23	5.96	214.73	Uttar Pradesh	Rabi	261.28
+rice	75.21	46.34	43.34	21.14	81.78	6.84	264.22	Punjab	Kharif	186.65
+rice	66.85	53.23	36.63	22.66	84.95	6.78	246.83	Punjab	Zaid	254.43
+rice	91.04	40.73	35.32	22.21	81.34	5.92	293.15	Punjab	Zaid	71.66
+rice	79.97	57.12	41.43	21.0	80.7	6.99	244.68	Punjab	Post-Monsoon	270.37
+rice	75.98	40.48	44.98	23.57	80.45	5.59	193.16	Punjab	Rabi	239.7
+rice	76.89	36.59	38.82	26.97	82.65	7.44	283.29	Uttar Pradesh	Kharif	207.7
+rice	81.48	41.67	41.41	20.78	82.17	6.41	294.46	Punjab	Zaid	291.85
+rice	90.48	47.69	36.06	24.38	84.21	6.52	203.87	Tamil Nadu	Rabi	166.42
+rice	91.15	48.26	35.01	22.27	80.1	7.36	285.45	Tamil Nadu	Rabi	26.8
+rice	95.12	58.67	35.86	23.4	80.35	7.02	271.9	West Bengal	Post-Monsoon	284.59
+rice	66.61	48.19	41.07	26.75	84.64	7.01	262.78	Punjab	Zaid	125.71
+rice	86.87	44.34	44.0	23.16	81.24	5.63	182.52	Maharashtra	Rabi	180.65
+rice	60.29	52.7	35.59	20.47	80.16	6.16	241.7	Tamil Nadu	Post-Monsoon	72.13
+rice	65.29	58.39	40.71	23.31	83.92	7.11	202.85	Uttar Pradesh	Post-Monsoon	112.75
+rice	76.44	56.6	35.54	24.57	83.23	5.62	267.39	Uttar Pradesh	Rabi	65.56
+rice	81.45	38.5	36.83	23.24	84.37	5.65	276.96	Maharashtra	Kharif	24.67
+rice	99.97	55.9	44.69	26.48	84.24	5.83	238.28	West Bengal	Post-Monsoon	271.71
+rice	66.59	35.05	38.9	26.49	83.93	6.07	263.59	Punjab	Post-Monsoon	54.89
+rice	71.87	59.22	40.79	23.8	83.74	5.61	250.1	Maharashtra	Rabi	26.5
+rice	80.31	56.28	35.69	20.48	84.31	6.31	292.99	Maharashtra	Rabi	177.89
+rice	61.59	37.05	41.57	23.96	81.58	6.02	260.37	Tamil Nadu	Rabi	87.03
+rice	65.24	51.14	39.57	26.5	84.68	5.52	254.54	Maharashtra	Kharif	31.25
+rice	68.53	41.63	44.33	26.17	84.4	6.24	198.93	Maharashtra	Zaid	187.39
+rice	99.49	51.35	35.08	25.72	81.5	6.83	292.67	West Bengal	Zaid	43.47
+rice	64.28	48.83	37.72	24.23	83.59	5.91	256.11	Tamil Nadu	Post-Monsoon	82.83
+rice	96.33	36.27	41.34	25.81	80.22	6.17	195.7	Tamil Nadu	Rabi	224.96
+rice	82.07	45.69	35.1	20.53	84.42	7.31	245.47	Tamil Nadu	Rabi	134.64
+rice	61.67	44.12	44.33	26.81	80.2	6.22	261.85	Punjab	Kharif	112.57
+rice	82.4	56.87	44.74	25.25	84.63	5.97	199.5	West Bengal	Post-Monsoon	17.19
+rice	89.46	43.3	44.31	25.62	84.32	7.12	212.02	Punjab	Kharif	120.94
+rice	61.55	46.77	37.0	26.43	81.75	7.14	284.56	West Bengal	Kharif	201.41
+rice	75.94	41.97	35.69	25.41	81.76	6.52	261.54	Maharashtra	Zaid	282.38
+rice	64.61	59.26	36.79	26.74	81.33	5.72	232.15	Punjab	Zaid	136.55
+rice	99.37	37.89	44.0	21.33	80.22	6.37	242.39	Maharashtra	Rabi	115.62
+rice	62.8	51.61	38.3	22.2	84.24	6.94	216.04	Tamil Nadu	Post-Monsoon	104.59
+rice	87.89	48.86	36.92	24.65	81.9	7.0	200.88	Maharashtra	Zaid	127.76
+rice	93.35	42.6	37.1	25.5	83.03	6.14	233.01	Punjab	Rabi	158.24
+rice	91.75	59.0	42.36	24.61	81.42	6.83	254.31	Uttar Pradesh	Rabi	205.11
+rice	68.99	39.98	35.24	21.71	82.38	7.2	188.74	Karnataka	Rabi	218.32
+rice	75.36	44.99	36.48	24.81	84.46	7.22	286.26	Karnataka	Rabi	61.01
+rice	98.32	47.95	35.5	21.74	84.24	6.41	276.17	Punjab	Zaid	285.51
+rice	95.66	50.32	42.19	23.53	84.15	6.6	287.66	Punjab	Post-Monsoon	140.52
+rice	90.07	56.0	37.77	25.44	82.42	5.98	232.78	Punjab	Zaid	78.0
+rice	73.43	57.33	35.81	21.06	81.92	5.81	205.67	Karnataka	Post-Monsoon	105.96
+rice	78.64	36.56	43.33	22.73	83.85	7.39	182.34	Maharashtra	Post-Monsoon	148.32
+rice	97.71	42.47	38.9	26.24	84.18	6.58	268.16	Maharashtra	Rabi	151.59
+rice	70.92	47.14	38.89	24.68	83.99	6.95	280.86	West Bengal	Kharif	273.01
+rice	83.68	51.57	35.84	23.0	84.33	5.86	211.22	Tamil Nadu	Rabi	141.86
+rice	73.5	56.99	37.78	26.66	82.11	7.17	236.44	Punjab	Kharif	299.97
+rice	74.0	51.25	42.81	24.56	83.77	7.4	203.92	Uttar Pradesh	Rabi	79.18
+rice	78.94	37.86	44.48	23.26	81.28	6.24	252.71	Punjab	Kharif	235.56
+rice	66.55	42.78	40.79	26.5	82.88	7.32	225.04	Punjab	Rabi	32.04
+rice	87.62	50.68	36.02	25.41	84.25	6.7	194.53	Maharashtra	Kharif	110.69
+rice	77.14	44.26	40.06	22.39	84.25	7.14	192.66	Tamil Nadu	Post-Monsoon	215.12
+rice	77.42	53.34	44.65	21.89	84.04	6.58	238.02	Karnataka	Zaid	103.47
+rice	69.82	58.37	37.79	23.16	83.75	6.64	260.18	Tamil Nadu	Kharif	153.35
+rice	73.0	47.19	38.55	21.81	81.4	6.69	285.61	Maharashtra	Kharif	159.82
+rice	67.64	41.03	39.06	23.89	81.2	6.45	265.42	Karnataka	Kharif	36.99
+rice	68.86	52.29	38.06	24.07	82.37	6.56	231.06	Punjab	Zaid	112.03
+rice	78.15	42.67	37.31	25.05	81.58	6.99	294.11	Punjab	Rabi	65.55
+rice	89.54	41.91	40.9	25.32	82.98	7.46	279.92	Tamil Nadu	Rabi	114.66
+rice	72.09	52.7	36.27	20.32	80.27	6.08	293.29	Punjab	Post-Monsoon	39.75
+rice	60.49	42.11	39.79	22.38	84.83	6.0	283.41	Uttar Pradesh	Kharif	126.21
+rice	62.96	50.74	35.54	21.04	82.81	6.11	299.27	Uttar Pradesh	Post-Monsoon	185.83
+rice	91.63	40.64	40.23	23.15	82.21	7.22	298.8	Tamil Nadu	Kharif	186.79
+rice	89.6	58.69	37.08	21.48	83.3	5.81	200.86	Uttar Pradesh	Rabi	10.78
+rice	78.02	49.85	37.91	21.62	83.53	6.91	234.48	Punjab	Rabi	277.93
+rice	91.51	50.63	41.61	26.54	82.13	6.59	257.72	Tamil Nadu	Rabi	30.71
+rice	66.64	42.69	42.49	23.98	81.44	5.75	262.64	Punjab	Post-Monsoon	283.38
+rice	80.02	47.34	35.8	20.28	82.16	6.14	210.04	Uttar Pradesh	Rabi	288.95
+rice	93.44	49.38	44.51	27.0	83.36	6.04	184.83	West Bengal	Post-Monsoon	160.5
+rice	77.69	41.95	44.97	23.05	84.07	7.44	236.4	Karnataka	Zaid	103.11
+rice	64.18	39.02	39.12	23.47	83.31	6.3	271.26	Uttar Pradesh	Post-Monsoon	35.54
+rice	70.1	37.9	42.73	26.05	84.12	5.5	284.32	Karnataka	Post-Monsoon	25.72
+rice	80.74	50.57	39.98	23.09	80.26	6.03	195.72	Tamil Nadu	Post-Monsoon	265.45
+rice	79.39	35.72	41.3	25.6	83.55	6.12	181.64	Karnataka	Kharif	75.16
+rice	93.66	37.84	44.47	24.53	80.77	7.37	215.02	Punjab	Zaid	130.49
+rice	79.3	46.81	39.57	21.01	80.95	6.7	269.56	West Bengal	Kharif	90.11
+rice	91.6	45.37	44.34	23.55	84.1	6.07	215.83	Maharashtra	Post-Monsoon	260.93
+rice	77.86	47.11	38.32	25.34	81.89	7.37	284.35	Punjab	Rabi	175.82
+rice	69.34	54.39	35.44	25.21	83.53	7.12	226.33	Punjab	Rabi	153.65
+rice	61.48	47.56	40.9	26.09	84.37	6.38	243.11	Karnataka	Kharif	219.51
+rice	76.4	51.37	36.54	23.29	84.85	6.18	263.12	Punjab	Kharif	257.01
+rice	94.09	56.48	38.8	22.22	83.59	7.02	284.69	Uttar Pradesh	Kharif	78.08
+rice	87.38	42.18	37.27	20.63	84.89	7.02	264.47	Uttar Pradesh	Post-Monsoon	58.25
+rice	71.98	35.72	38.24	20.39	81.79	6.36	209.3	Karnataka	Rabi	59.3
+rice	63.16	56.77	41.2	21.69	84.56	5.79	235.34	Tamil Nadu	Post-Monsoon	84.04
+rice	60.38	55.12	44.01	24.74	80.79	6.38	221.47	Maharashtra	Zaid	195.29
+rice	76.97	41.25	43.45	21.39	81.92	6.47	208.46	Maharashtra	Zaid	176.7
+rice	99.71	42.38	44.78	24.61	81.37	6.63	262.3	Punjab	Kharif	274.08
+rice	89.81	55.82	44.03	25.43	81.15	7.1	206.28	West Bengal	Zaid	206.55
+rice	88.84	51.48	43.38	24.4	84.52	6.79	217.07	Karnataka	Kharif	178.08
+rice	89.29	37.25	37.95	25.23	80.88	5.76	244.73	Tamil Nadu	Zaid	250.84
+rice	70.28	55.62	39.82	25.65	83.73	6.18	193.82	Uttar Pradesh	Rabi	228.7
+rice	69.02	51.91	41.74	22.78	84.23	6.61	190.84	Karnataka	Kharif	86.69
+maize	64.94	44.21	22.49	20.36	61.48	6.46	78.57	Punjab	Rabi	146.73
+maize	84.78	58.58	18.28	23.49	66.01	6.45	83.21	Punjab	Zaid	198.28
+maize	64.67	36.13	15.37	26.96	56.97	5.85	86.88	Karnataka	Post-Monsoon	117.59
+maize	97.98	52.41	20.4	23.29	67.35	6.83	92.75	Karnataka	Post-Monsoon	282.33
+maize	71.19	52.26	17.17	22.0	59.01	6.04	109.05	Tamil Nadu	Zaid	27.56
+maize	71.04	59.21	24.49	25.42	56.56	5.82	91.97	Uttar Pradesh	Kharif	238.17
+maize	69.74	38.15	20.65	18.62	68.01	5.81	70.8	West Bengal	Zaid	234.57
+maize	91.55	49.9	17.77	26.86	71.79	6.31	99.93	Uttar Pradesh	Kharif	48.22
+maize	74.33	54.71	20.89	18.14	59.51	5.69	81.05	Uttar Pradesh	Kharif	148.11
+maize	91.12	47.83	16.09	22.53	71.07	5.57	99.16	Punjab	Zaid	142.83
+maize	98.56	36.52	19.79	21.61	66.66	6.24	105.49	Uttar Pradesh	Kharif	103.41
+maize	65.93	38.15	21.24	23.27	67.11	6.07	89.87	Tamil Nadu	Post-Monsoon	156.61
+maize	77.21	54.83	16.14	23.89	69.92	6.33	103.27	Karnataka	Post-Monsoon	267.55
+maize	76.55	55.69	18.99	24.57	60.31	5.97	72.74	West Bengal	Post-Monsoon	29.47
+maize	93.27	37.33	15.97	24.65	68.8	6.33	89.32	Maharashtra	Zaid	204.3
+maize	76.43	56.84	24.41	21.81	70.57	5.58	74.38	Tamil Nadu	Zaid	40.04
+maize	80.3	38.87	19.82	25.63	60.95	6.33	65.74	Tamil Nadu	Rabi	244.09
+maize	93.81	59.36	23.18	23.52	65.93	5.54	106.45	Punjab	Zaid	18.4
+maize	70.93	54.06	24.22	21.16	58.08	5.71	92.87	Uttar Pradesh	Rabi	224.88
+maize	98.87	37.29	20.3	21.39	62.71	5.74	75.58	Tamil Nadu	Kharif	266.17
+maize	66.22	53.86	15.5	18.73	62.53	6.14	90.35	Karnataka	Zaid	72.51
+maize	80.49	43.63	16.11	24.1	65.08	6.29	75.42	West Bengal	Post-Monsoon	295.49
+maize	62.19	40.11	24.45	24.91	67.99	5.93	66.0	Karnataka	Post-Monsoon	60.95
+maize	75.21	52.59	20.0	25.5	68.71	5.61	103.09	Uttar Pradesh	Post-Monsoon	15.44
+maize	96.85	56.55	20.76	23.16	67.06	6.13	65.76	Uttar Pradesh	Zaid	59.84
+maize	97.9	46.5	21.9	21.26	62.42	5.66	81.78	Karnataka	Kharif	124.77
+maize	72.41	43.49	18.33	19.51	63.68	5.67	85.5	Tamil Nadu	Zaid	220.94
+maize	92.76	55.38	17.36	19.32	58.35	6.4	98.01	Punjab	Kharif	61.37
+maize	90.91	47.35	22.54	24.84	62.63	6.89	88.22	Punjab	Zaid	260.63
+maize	85.09	38.77	15.68	21.98	60.15	5.91	62.81	Maharashtra	Kharif	100.02
+maize	78.08	36.42	23.32	18.69	69.69	6.78	90.75	Maharashtra	Post-Monsoon	144.19
+maize	82.17	54.8	23.96	22.05	68.77	6.48	76.08	Karnataka	Rabi	287.74
+maize	78.02	55.27	23.37	26.84	56.43	6.47	61.96	Punjab	Post-Monsoon	297.39
+maize	80.96	50.25	18.64	26.26	61.59	6.66	93.94	Uttar Pradesh	Zaid	29.11
+maize	63.78	51.96	17.84	24.51	66.16	6.86	103.66	Tamil Nadu	Kharif	178.99
+maize	65.66	43.75	24.68	24.29	61.66	6.39	106.9	Tamil Nadu	Post-Monsoon	196.61
+maize	73.14	38.19	22.03	26.52	71.95	6.87	64.67	Punjab	Post-Monsoon	157.46
+maize	60.73	42.72	24.51	21.08	68.02	5.79	110.0	West Bengal	Kharif	95.78
+maize	91.52	47.69	20.4	24.65	63.95	6.49	103.82	Maharashtra	Rabi	183.2
+maize	66.17	39.52	21.93	23.62	70.35	6.58	62.18	Tamil Nadu	Rabi	291.18
+maize	84.42	53.81	22.84	20.11	59.07	6.95	99.22	West Bengal	Zaid	206.71
+maize	82.82	46.01	22.69	25.0	63.55	6.13	68.1	West Bengal	Rabi	263.17
+maize	62.09	47.01	18.71	26.41	67.09	6.27	66.23	Uttar Pradesh	Rabi	89.11
+maize	96.21	38.68	19.37	26.52	58.77	6.18	77.48	Uttar Pradesh	Post-Monsoon	25.44
+maize	80.08	40.89	24.95	21.37	55.48	6.9	101.96	Punjab	Zaid	239.5
+maize	65.5	42.17	23.3	24.26	57.36	6.56	82.43	Uttar Pradesh	Kharif	15.51
+maize	68.63	38.74	24.4	23.48	62.2	6.66	71.88	Uttar Pradesh	Kharif	79.15
+maize	85.56	50.57	15.63	25.53	63.5	6.3	91.6	Maharashtra	Rabi	218.38
+maize	71.65	35.04	18.53	23.14	58.18	6.5	86.17	Tamil Nadu	Kharif	286.49
+maize	81.76	54.66	20.08	18.18	69.85	5.57	79.34	Tamil Nadu	Zaid	226.72
+maize	74.28	36.69	17.41	23.91	56.76	6.37	97.83	West Bengal	Kharif	112.17
+maize	73.54	51.07	23.3	24.16	71.67	6.22	69.11	West Bengal	Kharif	217.65
+maize	97.74	35.92	17.02	25.12	70.06	5.97	75.5	Karnataka	Post-Monsoon	83.46
+maize	90.13	39.78	18.57	25.03	69.72	6.0	66.22	Tamil Nadu	Post-Monsoon	267.95
+maize	89.73	57.37	18.87	26.76	63.44	6.25	106.22	Maharashtra	Zaid	242.33
+maize	89.08	36.97	21.02	25.4	64.27	5.98	64.0	Punjab	Zaid	98.88
+maize	84.1	45.65	21.9	21.16	55.72	6.81	77.63	Karnataka	Zaid	195.45
+maize	91.66	36.43	21.71	21.66	63.72	6.62	68.0	Uttar Pradesh	Rabi	256.11
+maize	87.12	45.95	16.26	20.12	65.97	6.04	107.47	Uttar Pradesh	Rabi	206.93
+maize	97.95	44.3	22.63	23.17	64.0	6.1	92.48	West Bengal	Kharif	17.51
+maize	67.44	47.94	24.14	19.06	68.17	6.56	70.73	Maharashtra	Zaid	211.25
+maize	99.95	40.0	16.36	18.67	57.94	6.57	109.86	Punjab	Zaid	203.67
+maize	88.38	48.75	17.9	20.7	57.68	6.56	95.01	West Bengal	Zaid	157.54
+maize	64.85	40.02	16.39	25.11	55.45	6.33	78.45	Maharashtra	Rabi	187.47
+maize	63.45	42.73	25.0	24.47	63.94	6.65	101.17	Uttar Pradesh	Rabi	291.99
+maize	85.69	46.25	21.8	21.1	69.93	6.67	91.99	West Bengal	Rabi	135.46
+maize	96.43	36.39	16.24	19.38	57.8	5.98	95.47	Tamil Nadu	Zaid	255.32
+maize	70.02	50.88	20.51	19.13	60.15	6.3	85.13	West Bengal	Rabi	59.65
+maize	84.98	57.55	18.38	26.32	55.7	6.8	64.06	Punjab	Zaid	198.83
+maize	90.68	45.41	21.39	22.48	65.66	5.93	107.83	Karnataka	Rabi	243.36
+maize	87.4	42.44	15.73	18.54	62.47	6.23	70.2	Maharashtra	Rabi	100.65
+maize	88.73	53.35	23.61	26.78	57.22	6.06	88.08	Tamil Nadu	Rabi	145.28
+maize	70.7	41.2	15.97	20.61	61.53	6.42	72.41	West Bengal	Zaid	280.79
+maize	88.85	39.75	16.59	26.96	62.94	6.82	84.87	Uttar Pradesh	Post-Monsoon	156.58
+maize	98.67	40.38	18.53	18.45	63.41	6.82	92.71	Karnataka	Zaid	165.64
+maize	93.89	45.77	23.82	24.55	67.99	6.05	80.03	Maharashtra	Rabi	115.13
+maize	71.54	44.66	19.5	22.95	69.03	6.43	90.55	West Bengal	Kharif	124.23
+maize	91.8	43.48	24.39	24.79	58.38	6.26	85.0	Uttar Pradesh	Kharif	49.74
+maize	73.32	46.84	19.57	23.46	63.76	5.99	90.65	West Bengal	Post-Monsoon	297.28
+maize	89.57	42.48	18.36	25.45	64.05	6.56	74.99	Uttar Pradesh	Zaid	106.06
+maize	64.38	45.41	18.08	26.09	69.83	6.44	89.85	Tamil Nadu	Rabi	219.21
+maize	83.34	39.26	21.29	23.58	69.3	5.72	94.04	Uttar Pradesh	Kharif	65.33
+maize	77.64	45.47	19.13	19.84	63.53	6.42	83.58	Punjab	Kharif	214.67
+maize	80.75	49.02	24.98	22.31	61.41	6.94	82.98	Maharashtra	Zaid	168.42
+maize	87.03	56.69	21.81	25.23	59.49	6.23	107.87	Tamil Nadu	Zaid	75.21
+maize	98.92	42.44	17.89	19.87	66.98	5.98	77.44	Punjab	Zaid	93.46
+maize	82.94	48.58	23.96	21.55	60.87	6.66	67.32	Uttar Pradesh	Zaid	287.04
+maize	63.16	58.1	21.56	24.73	58.64	6.74	73.56	Maharashtra	Zaid	49.81
+maize	84.63	49.67	17.42	24.03	64.03	6.46	62.62	Karnataka	Zaid	218.03
+maize	64.02	54.27	15.05	22.95	70.79	6.11	106.75	Karnataka	Post-Monsoon	198.66
+maize	90.24	42.18	17.85	18.53	68.07	6.48	71.61	Punjab	Kharif	274.84
+maize	67.0	57.06	16.76	26.28	71.95	6.1	84.77	Punjab	Zaid	264.26
+maize	60.37	49.2	16.07	26.85	59.84	6.98	87.17	Karnataka	Rabi	256.81
+maize	78.72	39.82	16.13	19.46	62.8	5.89	69.31	Punjab	Zaid	239.32
+maize	82.71	53.93	16.75	25.71	70.25	6.74	85.76	Uttar Pradesh	Post-Monsoon	204.08
+maize	67.39	38.52	18.24	20.23	59.43	5.85	97.69	Tamil Nadu	Zaid	178.91
+maize	82.92	41.54	18.6	20.13	66.35	6.2	67.99	Punjab	Zaid	210.18
+maize	85.55	58.52	18.68	19.99	71.28	6.22	82.75	Maharashtra	Zaid	130.6
+maize	81.97	46.77	20.38	23.98	58.71	5.87	97.74	Uttar Pradesh	Post-Monsoon	163.17
+maize	74.47	57.93	16.12	25.46	70.35	5.8	86.83	West Bengal	Zaid	257.8
+chickpea	43.84	68.61	84.34	19.89	21.19	6.39	62.23	West Bengal	Post-Monsoon	142.47
+chickpea	36.15	64.25	86.14	22.23	17.17	7.13	89.83	Maharashtra	Kharif	23.13
+chickpea	41.89	56.28	89.88	24.35	14.55	7.37	61.27	Karnataka	Rabi	233.0
+chickpea	50.32	74.57	82.92	19.2	21.94	6.26	94.78	Karnataka	Post-Monsoon	33.27
+chickpea	54.28	72.49	72.66	23.6	14.95	7.49	75.72	West Bengal	Rabi	252.1
+chickpea	50.12	74.57	79.26	22.19	17.39	6.26	69.19	Karnataka	Zaid	54.99
+chickpea	38.77	72.5	85.31	15.32	19.28	6.73	97.45	Uttar Pradesh	Rabi	69.76
+chickpea	37.02	55.67	81.96	22.03	14.39	6.98	76.09	West Bengal	Rabi	228.77
+chickpea	50.52	57.8	89.87	17.34	21.33	6.65	83.1	Punjab	Zaid	78.7
+chickpea	52.53	74.71	80.43	19.14	16.2	6.61	83.67	Punjab	Rabi	191.54
+chickpea	43.54	64.91	89.45	24.42	19.37	7.07	72.75	Karnataka	Post-Monsoon	53.27
+chickpea	42.53	70.09	79.47	23.49	16.41	6.92	92.23	Uttar Pradesh	Post-Monsoon	290.66
+chickpea	46.15	57.68	74.86	17.03	19.17	7.34	93.89	Uttar Pradesh	Rabi	24.95
+chickpea	42.54	67.1	70.79	15.73	20.44	6.68	86.86	West Bengal	Post-Monsoon	70.58
+chickpea	53.14	61.06	88.18	17.12	15.52	6.98	89.88	Karnataka	Rabi	211.73
+chickpea	49.08	62.93	74.79	18.22	16.26	6.43	85.95	Tamil Nadu	Zaid	114.3
+chickpea	52.66	64.32	86.06	22.22	20.09	6.14	68.13	Tamil Nadu	Post-Monsoon	23.26
+chickpea	52.28	69.83	70.32	20.53	18.67	6.94	71.81	West Bengal	Zaid	76.71
+chickpea	46.4	59.91	81.01	24.43	16.7	7.03	79.54	Punjab	Post-Monsoon	143.64
+chickpea	49.66	62.04	72.8	20.47	15.47	7.28	99.61	Uttar Pradesh	Kharif	253.33
+chickpea	36.49	71.36	70.97	15.06	15.1	6.76	62.72	West Bengal	Kharif	73.43
+chickpea	44.12	56.21	82.75	24.34	21.3	6.82	60.63	Maharashtra	Post-Monsoon	13.44
+chickpea	45.59	60.49	89.55	15.17	20.51	6.85	92.25	West Bengal	Kharif	276.23
+chickpea	45.49	59.82	82.4	17.52	16.84	7.09	63.16	Karnataka	Post-Monsoon	173.85
+chickpea	54.8	59.52	83.68	23.48	19.23	7.22	90.38	Uttar Pradesh	Post-Monsoon	119.99
+chickpea	46.05	56.12	70.19	16.71	18.0	6.37	91.38	Maharashtra	Kharif	269.49
+chickpea	53.38	59.6	88.03	21.92	18.53	6.04	96.97	Punjab	Zaid	270.8
+chickpea	46.27	55.66	88.58	18.14	21.69	6.67	90.09	Punjab	Post-Monsoon	279.37
+chickpea	40.99	66.28	81.33	23.49	19.42	6.58	75.35	Punjab	Rabi	239.24
+chickpea	48.79	56.57	84.91	18.46	14.78	5.96	63.04	Maharashtra	Post-Monsoon	290.99
+chickpea	41.53	67.68	85.67	19.51	15.83	6.61	75.02	West Bengal	Post-Monsoon	34.85
+chickpea	47.37	70.96	84.26	15.82	15.23	6.92	85.36	Punjab	Post-Monsoon	101.84
+chickpea	37.13	55.1	76.17	18.6	16.16	5.77	67.5	Karnataka	Post-Monsoon	39.95
+chickpea	36.79	66.08	81.94	22.84	20.91	5.52	76.55	Uttar Pradesh	Rabi	175.87
+chickpea	38.39	62.61	72.78	18.01	17.94	5.63	77.39	Karnataka	Zaid	150.43
+chickpea	36.54	60.03	74.93	21.25	18.75	5.89	64.28	Tamil Nadu	Kharif	285.16
+chickpea	41.64	67.4	86.08	18.3	16.68	7.13	94.38	Maharashtra	Rabi	97.13
+chickpea	47.06	68.91	79.58	16.78	17.19	6.14	89.39	Punjab	Post-Monsoon	290.65
+chickpea	50.64	61.52	75.61	22.86	16.92	7.36	67.99	Maharashtra	Rabi	207.7
+chickpea	46.0	74.06	79.23	22.08	17.51	6.08	87.71	Karnataka	Post-Monsoon	50.36
+chickpea	41.06	60.05	73.08	19.23	17.02	6.4	83.92	Maharashtra	Post-Monsoon	164.97
+chickpea	53.47	72.39	78.37	15.37	21.75	6.9	92.49	Maharashtra	Kharif	41.72
+chickpea	39.96	68.29	73.33	21.13	18.51	6.79	85.87	Tamil Nadu	Post-Monsoon	40.72
+chickpea	36.97	59.44	84.94	20.58	19.5	5.94	74.96	Karnataka	Rabi	110.04
+chickpea	35.49	57.09	78.32	24.62	14.93	7.38	65.67	Tamil Nadu	Zaid	142.05
+chickpea	39.14	64.66	79.52	19.38	19.57	6.14	72.01	Punjab	Kharif	16.55
+chickpea	41.86	57.19	86.0	24.3	19.92	6.53	82.08	Tamil Nadu	Post-Monsoon	287.95
+chickpea	39.64	63.1	73.69	21.4	17.46	5.56	84.56	West Bengal	Post-Monsoon	181.74
+chickpea	42.78	69.09	74.12	22.52	20.47	5.63	64.07	Maharashtra	Rabi	116.08
+chickpea	38.94	57.28	83.41	19.89	21.73	6.13	75.55	Karnataka	Kharif	110.9
+chickpea	51.91	67.35	86.27	22.06	16.38	6.73	63.39	West Bengal	Zaid	44.18
+chickpea	41.11	58.66	83.87	20.11	17.35	5.78	75.35	West Bengal	Post-Monsoon	194.3
+chickpea	48.87	67.91	90.0	20.55	17.92	5.78	72.58	Karnataka	Kharif	261.0
+chickpea	54.04	64.69	73.9	18.84	18.49	6.81	76.37	Karnataka	Post-Monsoon	215.94
+chickpea	43.88	58.35	81.31	22.96	15.76	5.57	68.99	Tamil Nadu	Rabi	236.41
+chickpea	46.31	70.45	79.91	20.11	18.58	6.04	81.72	Tamil Nadu	Kharif	230.4
+chickpea	43.83	59.37	78.5	22.36	19.23	6.0	94.99	Uttar Pradesh	Post-Monsoon	86.22
+chickpea	52.24	56.74	87.31	16.17	20.5	5.92	89.5	Punjab	Zaid	259.7
+chickpea	47.21	63.56	82.32	22.85	20.51	7.11	82.8	Maharashtra	Zaid	183.09
+chickpea	38.37	74.58	75.85	20.73	21.62	6.53	96.01	Uttar Pradesh	Rabi	289.2
+chickpea	50.71	73.38	89.85	23.67	15.02	7.23	69.99	Punjab	Zaid	250.26
+chickpea	50.23	68.52	79.79	20.77	16.15	6.33	78.08	Punjab	Kharif	126.83
+chickpea	50.0	68.89	87.55	19.55	17.9	6.66	94.76	Punjab	Kharif	221.97
+chickpea	44.17	68.28	77.16	15.63	18.28	5.94	77.19	West Bengal	Post-Monsoon	87.88
+chickpea	51.57	61.76	81.56	20.66	17.88	6.19	87.3	Uttar Pradesh	Kharif	38.88
+chickpea	50.68	64.19	72.48	23.58	17.53	5.5	98.32	West Bengal	Rabi	265.82
+chickpea	41.04	72.49	87.53	15.93	16.88	5.66	86.58	Punjab	Rabi	25.02
+chickpea	47.51	69.52	85.1	19.29	14.73	5.69	68.54	Uttar Pradesh	Rabi	182.17
+chickpea	45.39	63.9	70.16	18.44	14.96	7.22	87.76	Karnataka	Kharif	76.39
+chickpea	36.79	71.12	72.06	18.68	16.39	6.27	92.53	West Bengal	Rabi	29.84
+chickpea	46.27	67.21	73.28	18.51	15.7	7.0	96.8	Maharashtra	Post-Monsoon	259.39
+chickpea	36.73	57.01	85.05	20.9	17.07	7.43	72.58	West Bengal	Rabi	90.32
+chickpea	36.68	66.07	82.0	21.08	20.23	6.88	93.92	Punjab	Zaid	69.58
+chickpea	47.14	58.77	77.84	21.46	20.27	7.09	69.57	Karnataka	Kharif	79.91
+chickpea	47.76	56.42	87.77	15.12	16.89	6.13	75.47	Maharashtra	Post-Monsoon	115.97
+chickpea	48.66	70.25	89.09	22.7	14.13	5.64	70.49	Uttar Pradesh	Kharif	285.12
+chickpea	42.96	60.73	84.25	22.67	17.39	6.3	85.62	Maharashtra	Rabi	90.47
+chickpea	41.2	65.23	74.06	23.08	18.29	6.28	85.37	Punjab	Kharif	99.95
+chickpea	43.75	74.07	74.77	17.44	21.4	5.73	84.49	Uttar Pradesh	Zaid	203.16
+chickpea	48.16	58.51	70.25	16.37	14.09	6.49	73.87	Maharashtra	Zaid	58.42
+chickpea	37.54	70.62	75.38	23.86	20.17	5.56	92.28	Tamil Nadu	Kharif	86.26
+chickpea	54.5	67.55	79.92	20.11	14.44	7.22	66.68	West Bengal	Zaid	234.27
+chickpea	52.89	68.48	72.31	22.41	14.02	7.22	60.49	Uttar Pradesh	Post-Monsoon	115.55
+chickpea	53.4	58.58	89.21	15.35	20.42	6.93	86.23	West Bengal	Zaid	82.0
+chickpea	53.32	61.4	86.52	20.72	14.96	6.85	62.11	West Bengal	Kharif	286.68
+chickpea	36.38	64.3	75.65	23.45	16.62	6.61	60.32	West Bengal	Zaid	173.5
+chickpea	41.08	67.45	79.28	20.92	17.95	7.05	67.82	Maharashtra	Rabi	53.66
+chickpea	53.65	55.48	80.83	21.36	19.55	5.52	73.4	Punjab	Post-Monsoon	256.21
+chickpea	49.54	57.08	80.6	17.38	17.94	5.62	99.88	Punjab	Zaid	36.98
+chickpea	53.43	72.95	80.4	22.01	16.98	7.45	63.4	Uttar Pradesh	Rabi	194.79
+chickpea	42.89	66.84	71.25	21.62	15.05	6.08	94.04	Karnataka	Zaid	102.24
+chickpea	40.44	56.49	74.05	22.8	18.68	5.81	66.57	Karnataka	Zaid	127.89
+chickpea	45.72	74.29	74.15	18.08	16.12	5.74	66.3	Punjab	Zaid	249.65
+chickpea	48.94	55.81	86.72	18.28	14.73	6.0	74.23	Maharashtra	Kharif	206.38
+chickpea	40.2	74.81	70.62	19.04	17.62	7.0	69.99	Karnataka	Kharif	243.13
+chickpea	37.8	55.24	86.61	24.83	15.05	7.15	74.89	Punjab	Kharif	178.87
+chickpea	40.18	71.25	70.44	15.64	21.22	6.39	65.15	Tamil Nadu	Kharif	22.38
+chickpea	44.22	58.36	81.48	23.22	17.16	5.56	87.33	West Bengal	Zaid	72.27
+chickpea	38.74	60.6	87.67	15.35	18.95	5.99	71.8	Karnataka	Post-Monsoon	27.68
+chickpea	40.6	57.74	73.99	23.85	18.21	6.76	92.09	Uttar Pradesh	Post-Monsoon	236.76
+kidneybeans	18.59	65.89	19.85	24.13	21.01	6.08	108.99	Tamil Nadu	Rabi	18.5
+kidneybeans	23.11	60.62	23.09	19.72	20.14	6.38	111.64	West Bengal	Kharif	81.88
+kidneybeans	17.41	65.67	22.91	22.37	22.58	6.92	128.78	Karnataka	Zaid	281.21
+kidneybeans	24.92	58.47	17.37	18.18	22.43	6.04	129.58	Punjab	Zaid	284.79
+kidneybeans	20.64	66.26	16.88	24.88	23.29	6.24	115.45	Karnataka	Kharif	36.17
+kidneybeans	17.33	59.38	20.26	15.01	23.51	5.8	106.52	Punjab	Rabi	276.45
+kidneybeans	23.44	61.47	15.22	20.87	23.5	6.66	142.32	Tamil Nadu	Kharif	118.34
+kidneybeans	24.42	62.91	16.01	18.02	18.82	5.74	147.43	Punjab	Post-Monsoon	198.26
+kidneybeans	16.74	74.37	21.94	24.29	22.72	5.83	129.45	West Bengal	Post-Monsoon	98.98
+kidneybeans	21.88	57.55	22.29	24.49	23.69	6.09	149.71	Maharashtra	Kharif	62.8
+kidneybeans	18.18	71.18	21.11	21.4	18.62	6.24	116.56	Uttar Pradesh	Rabi	110.57
+kidneybeans	18.2	67.72	24.63	23.22	22.02	6.59	116.79	Uttar Pradesh	Zaid	70.81
+kidneybeans	21.93	62.01	22.87	22.2	18.29	6.16	120.98	West Bengal	Post-Monsoon	152.99
+kidneybeans	18.79	65.92	16.01	19.79	23.18	6.48	134.36	West Bengal	Post-Monsoon	31.38
+kidneybeans	23.46	60.9	18.19	24.52	18.45	5.76	118.77	Punjab	Kharif	168.64
+kidneybeans	23.98	56.86	20.94	21.14	20.9	5.55	147.12	West Bengal	Post-Monsoon	55.56
+kidneybeans	16.01	59.11	16.9	21.97	22.33	6.59	113.26	Tamil Nadu	Zaid	78.89
+kidneybeans	15.5	66.44	23.4	16.54	20.16	6.14	114.73	Punjab	Post-Monsoon	67.91
+kidneybeans	15.26	58.42	17.92	15.82	23.06	5.96	119.87	Karnataka	Zaid	36.43
+kidneybeans	20.44	58.7	23.85	18.69	20.67	5.89	123.25	West Bengal	Zaid	173.63
+kidneybeans	16.51	68.93	15.97	21.68	22.85	6.12	137.82	West Bengal	Kharif	253.83
+kidneybeans	23.18	63.37	20.36	23.67	20.85	6.82	123.81	Uttar Pradesh	Post-Monsoon	271.81
+kidneybeans	22.14	65.04	24.0	23.0	22.07	6.43	106.01	Karnataka	Rabi	285.23
+kidneybeans	16.67	59.24	16.93	15.43	18.47	6.52	110.1	Punjab	Rabi	251.89
+kidneybeans	17.58	73.22	24.14	15.67	20.33	6.1	116.31	Tamil Nadu	Post-Monsoon	275.98
+kidneybeans	15.12	69.01	20.88	22.82	18.68	5.72	128.33	Maharashtra	Kharif	278.23
+kidneybeans	20.63	57.02	17.86	20.36	20.06	6.12	119.15	Karnataka	Post-Monsoon	20.87
+kidneybeans	17.75	57.88	21.09	21.94	18.23	6.83	116.57	West Bengal	Kharif	226.27
+kidneybeans	24.21	72.94	15.2	23.17	19.82	5.92	124.58	Punjab	Kharif	292.02
+kidneybeans	17.28	61.01	22.44	22.74	19.93	6.59	130.25	Uttar Pradesh	Rabi	138.1
+kidneybeans	24.13	63.14	19.84	20.17	20.24	5.58	139.57	Uttar Pradesh	Zaid	215.78
+kidneybeans	19.03	70.61	20.24	20.69	19.04	6.81	110.04	Uttar Pradesh	Rabi	19.59
+kidneybeans	15.51	62.21	16.99	18.68	20.79	6.1	146.15	Punjab	Kharif	80.16
+kidneybeans	19.89	63.92	24.61	19.75	21.31	6.02	141.88	Tamil Nadu	Kharif	92.67
+kidneybeans	18.87	58.26	20.72	24.65	23.14	6.47	133.88	Tamil Nadu	Post-Monsoon	158.85
+kidneybeans	23.65	74.34	21.82	19.74	18.79	5.76	140.04	West Bengal	Zaid	186.42
+kidneybeans	24.43	69.25	22.09	17.75	23.37	6.78	122.95	West Bengal	Post-Monsoon	97.62
+kidneybeans	20.21	67.47	20.84	15.07	24.0	6.95	141.97	Maharashtra	Zaid	96.56
+kidneybeans	16.08	56.28	24.88	21.41	23.17	5.89	135.55	Punjab	Zaid	64.62
+kidneybeans	20.17	59.81	15.57	23.57	22.86	6.11	115.98	West Bengal	Kharif	200.07
+kidneybeans	24.97	60.19	19.19	18.88	18.21	6.56	128.6	West Bengal	Zaid	220.7
+kidneybeans	17.22	65.69	22.85	24.07	22.03	6.26	142.27	Punjab	Rabi	95.2
+kidneybeans	19.71	69.82	22.25	20.59	23.48	6.92	144.98	Punjab	Kharif	74.45
+kidneybeans	17.23	72.43	19.2	23.87	20.23	6.38	123.19	Uttar Pradesh	Post-Monsoon	25.57
+kidneybeans	21.34	66.61	21.21	19.72	19.17	5.68	134.03	Maharashtra	Zaid	129.8
+kidneybeans	23.71	58.02	24.92	18.43	23.92	6.84	149.33	West Bengal	Zaid	260.09
+kidneybeans	16.8	56.62	18.33	24.87	19.88	5.59	122.6	West Bengal	Rabi	177.12
+kidneybeans	16.58	70.7	22.8	16.29	20.6	6.14	121.45	Karnataka	Post-Monsoon	11.35
+kidneybeans	20.34	69.61	24.5	23.92	22.54	6.3	100.9	Uttar Pradesh	Rabi	75.62
+kidneybeans	23.77	61.24	16.03	20.03	19.84	5.6	102.29	Tamil Nadu	Post-Monsoon	221.07
+kidneybeans	20.96	61.76	23.88	24.95	20.06	6.85	117.96	West Bengal	Rabi	284.94
+kidneybeans	24.18	63.07	17.28	22.27	18.79	6.6	129.48	West Bengal	Kharif	116.31
+kidneybeans	21.51	55.75	23.77	17.56	21.21	5.57	149.73	Punjab	Kharif	199.53
+kidneybeans	15.2	68.79	19.17	18.8	21.28	6.21	107.66	Punjab	Kharif	97.32
+kidneybeans	21.62	68.25	17.7	21.06	18.82	6.75	105.25	Punjab	Kharif	91.98
+kidneybeans	22.85	64.95	21.09	22.78	22.99	6.96	117.9	Karnataka	Zaid	56.51
+kidneybeans	20.48	73.21	21.88	19.81	19.41	5.52	104.45	Uttar Pradesh	Post-Monsoon	53.25
+kidneybeans	15.9	65.23	22.24	16.01	19.54	5.85	149.43	Tamil Nadu	Zaid	144.64
+kidneybeans	16.0	58.49	15.39	17.91	22.81	5.97	136.93	Uttar Pradesh	Kharif	12.8
+kidneybeans	16.38	67.94	18.29	23.95	23.73	5.9	136.65	Tamil Nadu	Zaid	63.03
+kidneybeans	19.01	74.25	17.72	18.86	23.1	6.7	132.44	West Bengal	Kharif	48.43
+kidneybeans	22.26	74.63	23.44	16.04	23.47	6.22	128.45	Karnataka	Rabi	187.28
+kidneybeans	22.79	67.23	23.63	23.8	22.36	6.84	124.15	Karnataka	Kharif	267.4
+kidneybeans	19.41	56.27	21.55	15.12	23.21	6.29	137.18	Punjab	Rabi	293.59
+kidneybeans	21.7	61.77	20.23	22.01	18.57	6.49	112.43	Tamil Nadu	Post-Monsoon	53.11
+kidneybeans	23.26	72.84	21.13	15.12	23.61	6.26	123.46	Karnataka	Rabi	31.71
+kidneybeans	19.92	59.82	24.7	15.5	19.34	6.46	120.16	West Bengal	Kharif	143.14
+kidneybeans	23.01	63.96	23.57	19.47	18.71	6.25	132.67	Uttar Pradesh	Post-Monsoon	129.58
+kidneybeans	20.57	55.0	15.91	21.04	21.71	5.96	125.42	West Bengal	Post-Monsoon	285.6
+kidneybeans	18.63	56.09	17.23	19.54	21.36	6.43	123.66	Punjab	Zaid	217.61
+kidneybeans	16.14	70.19	17.22	18.41	22.98	6.95	114.6	Maharashtra	Zaid	213.61
+kidneybeans	15.46	58.28	16.4	22.17	22.33	5.66	130.54	West Bengal	Kharif	279.76
+kidneybeans	18.93	64.14	22.81	22.17	18.65	6.12	146.33	Punjab	Kharif	233.92
+kidneybeans	19.51	68.17	24.56	16.35	20.99	6.3	102.43	Karnataka	Post-Monsoon	278.07
+kidneybeans	22.81	73.2	21.92	16.74	22.89	5.66	132.88	Maharashtra	Zaid	156.19
+kidneybeans	18.85	74.59	24.16	22.62	19.64	6.95	148.52	Karnataka	Rabi	50.07
+kidneybeans	21.03	72.73	20.12	23.43	21.29	5.97	136.84	Maharashtra	Rabi	68.26
+kidneybeans	21.24	60.81	18.45	21.72	23.89	6.48	147.92	Maharashtra	Zaid	216.0
+kidneybeans	22.61	66.25	20.83	24.43	22.26	6.51	144.69	Maharashtra	Zaid	264.47
+kidneybeans	19.22	55.26	16.06	18.81	18.32	5.58	113.35	West Bengal	Zaid	208.18
+kidneybeans	16.46	56.24	22.84	17.04	21.25	6.04	122.63	Maharashtra	Rabi	225.3
+kidneybeans	20.61	59.75	22.84	22.99	19.73	6.5	146.32	Karnataka	Post-Monsoon	287.44
+kidneybeans	24.76	61.25	20.52	15.13	19.51	6.43	139.05	Karnataka	Rabi	274.33
+kidneybeans	22.05	67.95	22.55	20.47	21.62	6.66	148.21	Tamil Nadu	Post-Monsoon	61.45
+kidneybeans	21.83	58.74	16.74	20.14	20.26	6.14	127.83	West Bengal	Rabi	179.36
+kidneybeans	17.55	61.61	22.1	16.55	18.92	5.98	102.54	Punjab	Zaid	152.26
+kidneybeans	20.73	62.16	22.84	18.18	19.32	5.78	103.41	Maharashtra	Rabi	130.62
+kidneybeans	20.37	56.84	17.21	17.13	19.99	6.04	110.92	Maharashtra	Post-Monsoon	299.02
+kidneybeans	23.24	74.62	15.09	21.69	20.67	6.86	130.69	Maharashtra	Rabi	288.08
+kidneybeans	21.83	61.42	24.16	24.45	20.32	6.31	114.14	Maharashtra	Zaid	159.15
+kidneybeans	20.09	64.74	17.96	21.52	19.92	5.62	104.8	Maharashtra	Kharif	191.81
+kidneybeans	17.11	67.59	17.13	21.85	23.01	5.81	141.44	Punjab	Post-Monsoon	197.5
+kidneybeans	24.4	69.94	16.54	19.59	19.99	5.63	102.71	Tamil Nadu	Kharif	176.74
+kidneybeans	17.28	60.17	18.88	21.3	20.6	5.53	133.66	Maharashtra	Kharif	196.01
+kidneybeans	21.18	70.12	20.86	22.01	18.44	6.89	105.31	Punjab	Zaid	185.9
+kidneybeans	17.82	73.53	18.81	23.22	18.18	5.73	110.99	Punjab	Post-Monsoon	241.06
+kidneybeans	23.49	60.9	21.34	17.98	23.32	6.95	143.36	Punjab	Zaid	287.64
+kidneybeans	15.11	72.5	16.41	15.42	21.44	6.09	127.38	Uttar Pradesh	Zaid	70.92
+kidneybeans	22.41	69.52	17.12	24.06	23.11	5.71	109.2	Maharashtra	Zaid	66.35
+kidneybeans	16.81	70.99	23.52	23.51	23.59	6.99	123.06	Maharashtra	Kharif	94.29
+pigeonpeas	15.67	56.96	32.26	29.87	51.62	5.26	182.77	Uttar Pradesh	Zaid	189.66
+pigeonpeas	24.0	61.36	29.51	31.16	51.11	6.17	178.28	Tamil Nadu	Zaid	288.01
+pigeonpeas	16.69	61.26	32.86	32.12	57.82	5.55	167.97	Punjab	Zaid	264.59
+pigeonpeas	19.63	62.17	28.05	30.52	48.52	6.21	192.09	West Bengal	Rabi	86.34
+pigeonpeas	23.86	56.53	25.75	25.19	55.14	5.06	179.09	Karnataka	Rabi	272.83
+pigeonpeas	20.52	65.87	34.99	29.72	60.5	5.73	161.17	Maharashtra	Zaid	48.83
+pigeonpeas	20.01	56.81	28.64	25.11	49.78	6.93	199.09	Punjab	Rabi	229.59
+pigeonpeas	16.4	58.18	30.66	30.66	62.44	5.29	186.6	Tamil Nadu	Kharif	73.46
+pigeonpeas	19.88	56.26	28.69	25.43	49.14	6.82	168.06	Karnataka	Post-Monsoon	265.65
+pigeonpeas	15.4	67.97	26.03	34.68	57.67	5.55	187.1	Maharashtra	Rabi	119.23
+pigeonpeas	18.79	66.75	33.98	25.78	50.03	6.95	161.14	Karnataka	Zaid	247.0
+pigeonpeas	18.45	70.85	33.87	25.07	62.64	5.88	161.5	Maharashtra	Zaid	71.34
+pigeonpeas	16.87	62.24	32.17	26.18	49.61	6.62	186.01	Karnataka	Post-Monsoon	148.92
+pigeonpeas	20.91	67.95	29.11	27.44	47.56	6.18	156.74	Maharashtra	Kharif	268.33
+pigeonpeas	16.47	58.33	34.22	30.17	53.11	6.94	181.88	Punjab	Zaid	284.7
+pigeonpeas	17.17	67.13	29.71	29.82	49.39	5.82	157.14	Maharashtra	Rabi	190.73
+pigeonpeas	20.11	58.35	31.86	34.22	56.93	5.14	168.91	West Bengal	Kharif	14.8
+pigeonpeas	20.23	73.19	31.84	33.27	57.11	5.35	195.08	Maharashtra	Kharif	264.55
+pigeonpeas	20.31	70.05	25.93	31.59	63.04	6.08	150.06	Punjab	Post-Monsoon	161.39
+pigeonpeas	18.7	55.87	30.3	27.29	61.05	6.58	169.06	Maharashtra	Kharif	133.39
+pigeonpeas	17.55	70.32	34.1	25.84	56.97	6.09	162.89	Uttar Pradesh	Kharif	177.62
+pigeonpeas	16.18	55.14	31.55	31.88	51.32	5.72	157.74	Punjab	Zaid	85.78
+pigeonpeas	20.36	66.29	31.12	34.92	52.95	5.41	177.61	Maharashtra	Post-Monsoon	61.83
+pigeonpeas	20.59	64.68	34.89	30.78	60.48	5.8	156.9	Punjab	Kharif	226.87
+pigeonpeas	19.47	68.99	26.62	27.14	53.01	5.68	177.53	Punjab	Kharif	56.61
+pigeonpeas	24.65	55.11	25.91	26.45	63.52	5.87	153.2	West Bengal	Zaid	33.21
+pigeonpeas	15.38	62.69	34.84	31.14	55.42	6.42	179.87	West Bengal	Post-Monsoon	137.3
+pigeonpeas	17.02	68.14	33.04	27.86	45.67	6.2	175.79	West Bengal	Rabi	205.47
+pigeonpeas	18.6	68.1	34.76	25.87	50.52	5.8	183.48	Karnataka	Rabi	160.15
+pigeonpeas	22.37	56.37	25.9	27.84	61.6	6.83	167.4	Tamil Nadu	Rabi	185.85
+pigeonpeas	16.95	73.59	30.75	27.61	53.14	5.21	153.62	Tamil Nadu	Zaid	284.63
+pigeonpeas	23.03	74.13	33.76	33.13	56.5	6.39	198.3	Maharashtra	Post-Monsoon	233.29
+pigeonpeas	22.57	74.22	29.59	29.61	56.74	5.05	155.81	Uttar Pradesh	Post-Monsoon	193.76
+pigeonpeas	24.94	68.54	27.3	28.16	64.11	6.03	150.49	Tamil Nadu	Rabi	93.31
+pigeonpeas	18.99	69.98	28.42	30.55	48.57	5.63	160.93	Maharashtra	Zaid	63.01
+pigeonpeas	22.46	73.61	26.9	32.37	49.7	5.48	163.27	West Bengal	Rabi	252.13
+pigeonpeas	23.36	62.12	32.79	26.2	46.57	6.91	174.63	Uttar Pradesh	Kharif	255.92
+pigeonpeas	18.71	61.31	33.98	33.81	56.49	5.55	159.14	Maharashtra	Zaid	125.39
+pigeonpeas	22.5	57.56	30.26	29.23	63.79	5.07	167.36	Punjab	Rabi	142.59
+pigeonpeas	16.2	65.36	28.16	25.08	58.48	5.76	155.04	Tamil Nadu	Zaid	64.27
+pigeonpeas	17.63	60.39	34.59	28.43	48.68	5.85	170.95	Tamil Nadu	Zaid	257.75
+pigeonpeas	17.8	58.6	26.31	30.76	49.57	5.2	163.5	West Bengal	Post-Monsoon	258.33
+pigeonpeas	16.96	71.0	32.39	29.73	45.19	5.84	156.72	Punjab	Zaid	237.75
+pigeonpeas	18.0	66.24	30.68	28.98	58.81	5.12	190.69	Karnataka	Kharif	140.46
+pigeonpeas	18.35	62.22	30.6	34.32	50.15	5.04	156.06	Punjab	Rabi	177.29
+pigeonpeas	21.5	65.77	34.79	27.85	51.5	6.02	188.74	Karnataka	Kharif	120.51
+pigeonpeas	17.87	67.63	26.45	26.68	61.15	5.67	181.56	Maharashtra	Post-Monsoon	256.18
+pigeonpeas	15.71	58.24	27.28	28.17	50.83	5.53	182.23	Tamil Nadu	Post-Monsoon	236.48
+pigeonpeas	24.39	69.96	30.21	29.5	48.35	6.71	156.25	West Bengal	Zaid	282.73
+pigeonpeas	22.01	56.6	26.67	26.03	46.28	6.76	177.42	Uttar Pradesh	Post-Monsoon	161.96
+pigeonpeas	24.96	57.08	31.18	25.84	63.63	5.78	161.47	Punjab	Zaid	138.52
+pigeonpeas	16.26	65.53	26.71	25.35	52.14	6.83	193.21	Karnataka	Zaid	169.08
+pigeonpeas	16.35	73.97	30.39	30.91	54.13	6.5	193.86	Karnataka	Zaid	273.59
+pigeonpeas	19.82	59.54	25.9	28.08	53.24	5.31	150.53	Maharashtra	Rabi	109.73
+pigeonpeas	19.69	55.17	34.22	34.47	54.54	5.02	171.52	Tamil Nadu	Rabi	241.06
+pigeonpeas	20.48	58.77	33.82	29.37	50.0	6.43	182.3	Karnataka	Rabi	86.26
+pigeonpeas	19.22	59.79	32.65	34.1	61.15	6.37	164.23	Punjab	Zaid	129.74
+pigeonpeas	23.53	58.65	27.9	31.37	57.35	5.54	181.14	West Bengal	Zaid	15.62
+pigeonpeas	15.5	65.7	26.86	26.02	50.38	6.43	186.36	West Bengal	Kharif	53.7
+pigeonpeas	19.94	61.84	28.12	32.99	64.96	5.93	189.57	Tamil Nadu	Kharif	254.63
+pigeonpeas	24.52	56.12	32.76	25.71	54.4	5.38	192.08	Karnataka	Kharif	45.37
+pigeonpeas	22.68	59.98	32.71	29.43	59.75	5.07	173.04	Uttar Pradesh	Rabi	147.12
+pigeonpeas	21.81	61.24	28.23	31.29	45.84	6.87	176.05	Tamil Nadu	Post-Monsoon	195.17
+pigeonpeas	16.99	72.75	33.64	27.18	47.26	6.27	166.23	West Bengal	Zaid	179.56
+pigeonpeas	18.96	59.86	34.69	30.81	58.82	6.38	157.75	Uttar Pradesh	Rabi	55.73
+pigeonpeas	15.91	67.37	34.31	34.97	57.5	5.12	182.23	Punjab	Kharif	46.49
+pigeonpeas	17.33	74.63	32.89	32.57	61.11	5.88	159.65	Punjab	Post-Monsoon	113.87
+pigeonpeas	16.35	72.97	29.85	29.38	50.89	6.39	159.49	West Bengal	Zaid	103.87
+pigeonpeas	19.68	72.35	30.99	33.61	48.21	6.06	172.47	Tamil Nadu	Zaid	141.68
+pigeonpeas	22.76	65.12	32.34	33.83	57.39	5.73	181.01	Tamil Nadu	Kharif	200.9
+pigeonpeas	20.39	62.75	30.24	29.98	56.03	6.23	166.13	Punjab	Zaid	42.03
+pigeonpeas	20.23	56.33	33.35	26.3	62.47	5.4	174.27	Uttar Pradesh	Kharif	175.59
+pigeonpeas	23.36	68.16	30.26	32.01	50.12	5.73	180.3	Uttar Pradesh	Kharif	279.76
+pigeonpeas	17.09	64.83	33.9	25.8	61.02	5.12	177.9	Karnataka	Zaid	240.33
+pigeonpeas	15.58	67.34	30.29	32.34	61.69	5.16	160.8	Maharashtra	Kharif	39.36
+pigeonpeas	17.31	62.71	26.93	31.57	56.4	6.9	177.92	Maharashtra	Post-Monsoon	226.37
+pigeonpeas	22.66	66.53	31.74	32.03	53.54	5.21	189.62	Maharashtra	Post-Monsoon	156.36
+pigeonpeas	21.58	65.68	31.0	34.34	63.05	6.1	199.84	Tamil Nadu	Post-Monsoon	231.61
+pigeonpeas	19.31	69.52	31.08	30.63	49.28	6.53	196.31	Tamil Nadu	Zaid	288.88
+pigeonpeas	19.47	62.94	32.26	34.83	56.92	6.04	199.67	Tamil Nadu	Kharif	97.1
+pigeonpeas	17.22	72.11	25.22	33.22	58.79	5.55	177.68	Maharashtra	Rabi	37.34
+pigeonpeas	19.6	58.12	27.65	33.9	50.0	5.51	165.02	Maharashtra	Post-Monsoon	175.03
+pigeonpeas	17.17	56.54	28.25	29.83	54.77	6.8	185.14	Uttar Pradesh	Zaid	20.84
+pigeonpeas	23.08	62.63	32.8	34.22	51.69	6.76	171.72	Uttar Pradesh	Rabi	226.83
+pigeonpeas	23.49	73.57	31.34	31.32	46.08	6.05	165.97	Maharashtra	Rabi	104.78
+pigeonpeas	21.98	58.06	31.74	34.97	64.42	6.51	178.76	Uttar Pradesh	Rabi	135.26
+pigeonpeas	22.86	57.96	28.36	29.76	59.91	6.1	163.13	Karnataka	Post-Monsoon	234.41
+pigeonpeas	16.3	57.7	30.59	29.88	58.04	5.39	180.8	Punjab	Rabi	80.27
+pigeonpeas	17.66	63.6	31.85	30.76	47.25	5.83	168.26	West Bengal	Zaid	109.91
+pigeonpeas	21.55	70.39	26.69	28.5	61.43	6.61	181.16	Karnataka	Kharif	278.02
+pigeonpeas	17.33	68.71	26.56	32.28	46.72	6.48	162.15	Maharashtra	Rabi	261.94
+pigeonpeas	23.2	55.27	31.94	26.11	54.0	5.05	160.45	Maharashtra	Rabi	69.1
+pigeonpeas	20.23	60.17	29.83	32.3	47.83	6.4	150.92	Maharashtra	Kharif	84.08
+pigeonpeas	15.6	59.01	31.97	27.71	54.3	6.89	153.33	Punjab	Zaid	202.26
+pigeonpeas	24.13	62.2	26.08	27.92	62.67	5.77	198.99	Maharashtra	Kharif	272.12
+pigeonpeas	19.85	66.94	25.88	26.99	64.34	6.12	185.62	Uttar Pradesh	Rabi	277.46
+pigeonpeas	18.05	64.8	32.44	25.18	58.69	5.71	165.12	Maharashtra	Zaid	245.45
+pigeonpeas	21.26	72.57	33.9	33.15	45.59	6.11	164.01	West Bengal	Zaid	270.18
+pigeonpeas	21.57	56.76	28.82	34.61	57.25	6.25	161.37	West Bengal	Rabi	133.67
+pigeonpeas	18.12	67.11	29.49	26.32	58.05	6.16	184.2	West Bengal	Rabi	99.61
+mothbeans	22.05	50.48	16.35	34.96	64.52	3.94	58.66	West Bengal	Zaid	29.67
+mothbeans	20.33	54.39	16.84	33.4	47.91	3.59	46.37	Karnataka	Post-Monsoon	97.97
+mothbeans	22.46	56.43	21.37	32.38	48.04	4.06	42.63	Uttar Pradesh	Zaid	185.63
+mothbeans	21.12	51.93	17.31	25.26	46.59	5.84	42.68	Maharashtra	Post-Monsoon	216.49
+mothbeans	18.74	57.04	19.91	26.38	48.87	3.6	55.29	Uttar Pradesh	Zaid	285.56
+mothbeans	17.23	53.43	17.03	27.05	48.54	6.36	48.79	Maharashtra	Post-Monsoon	209.48
+mothbeans	23.67	57.75	19.28	32.76	57.16	5.97	54.4	Karnataka	Kharif	160.99
+mothbeans	19.52	56.54	15.42	34.96	55.37	4.69	54.7	Maharashtra	Post-Monsoon	159.68
+mothbeans	21.31	40.99	17.91	28.98	51.09	5.98	49.23	Karnataka	Zaid	187.81
+mothbeans	15.55	50.34	16.42	33.3	54.03	5.67	42.26	Maharashtra	Rabi	123.99
+mothbeans	18.23	40.5	19.54	33.97	62.92	6.15	41.8	Tamil Nadu	Rabi	218.33
+mothbeans	16.24	42.28	19.49	28.63	55.48	4.65	55.82	Maharashtra	Rabi	119.82
+mothbeans	18.81	55.37	24.12	30.65	58.19	3.95	57.38	West Bengal	Kharif	131.68
+mothbeans	18.1	55.37	19.46	31.26	47.35	3.89	44.06	Maharashtra	Zaid	13.54
+mothbeans	19.98	49.97	23.07	31.08	54.87	4.15	53.19	Karnataka	Post-Monsoon	138.14
+mothbeans	21.01	40.13	23.82	27.78	57.57	5.96	44.15	West Bengal	Rabi	25.97
+mothbeans	18.49	42.91	15.32	30.78	57.07	4.49	41.75	Uttar Pradesh	Post-Monsoon	298.18
+mothbeans	16.61	45.69	21.61	32.0	56.45	5.19	59.33	Punjab	Zaid	280.13
+mothbeans	15.93	45.99	18.69	28.79	46.35	4.78	51.01	Tamil Nadu	Post-Monsoon	49.02
+mothbeans	21.95	45.49	20.27	30.25	58.92	5.34	42.19	Punjab	Kharif	150.26
+mothbeans	21.89	58.68	24.86	27.87	57.18	4.45	50.51	Maharashtra	Zaid	278.86
+mothbeans	21.14	49.93	22.29	29.98	61.16	6.15	44.65	Tamil Nadu	Rabi	10.46
+mothbeans	15.24	52.51	16.18	33.48	60.99	6.5	48.28	Tamil Nadu	Zaid	172.52
+mothbeans	21.38	40.23	17.01	27.82	60.8	4.42	50.13	Tamil Nadu	Kharif	43.01
+mothbeans	18.33	47.92	20.69	34.6	61.64	4.08	56.68	Punjab	Post-Monsoon	275.69
+mothbeans	22.97	52.91	19.81	31.27	62.84	5.11	46.7	Karnataka	Kharif	252.18
+mothbeans	17.99	54.5	18.16	30.36	49.17	5.56	55.99	Tamil Nadu	Kharif	291.19
+mothbeans	17.8	40.62	24.84	31.27	61.85	5.21	47.79	Maharashtra	Kharif	260.73
+mothbeans	22.52	54.11	18.14	25.32	53.28	4.99	44.75	Karnataka	Zaid	72.68
+mothbeans	18.02	42.24	22.85	32.78	63.27	4.83	40.5	Karnataka	Rabi	65.16
+mothbeans	24.24	54.65	20.24	32.76	47.87	6.12	56.44	Maharashtra	Rabi	69.5
+mothbeans	15.37	47.75	23.65	26.16	51.22	3.63	56.96	Uttar Pradesh	Zaid	145.39
+mothbeans	15.46	50.41	21.59	28.12	56.55	4.44	57.84	Tamil Nadu	Rabi	65.84
+mothbeans	17.77	46.38	19.41	26.18	47.99	4.32	40.31	Maharashtra	Kharif	69.91
+mothbeans	18.5	46.37	16.42	32.04	50.67	4.23	41.42	Maharashtra	Zaid	166.77
+mothbeans	15.51	40.58	24.03	25.5	52.67	3.76	47.84	Punjab	Post-Monsoon	188.73
+mothbeans	18.12	56.35	22.13	31.71	55.67	6.42	55.11	Karnataka	Rabi	36.95
+mothbeans	23.02	53.97	15.97	28.1	57.89	5.8	49.41	West Bengal	Rabi	259.72
+mothbeans	21.17	58.26	18.92	32.0	58.3	5.87	57.65	Karnataka	Post-Monsoon	18.78
+mothbeans	19.75	47.03	19.61	26.71	60.36	5.31	42.55	Uttar Pradesh	Post-Monsoon	247.09
+mothbeans	22.97	46.52	21.49	32.92	55.65	4.7	48.27	Maharashtra	Rabi	168.91
+mothbeans	24.74	47.68	18.41	33.14	56.82	5.85	48.71	Tamil Nadu	Rabi	60.19
+mothbeans	21.7	54.79	22.12	33.37	47.29	5.29	46.51	Uttar Pradesh	Post-Monsoon	61.09
+mothbeans	24.56	41.39	16.09	33.14	60.43	4.64	49.89	Punjab	Kharif	36.25
+mothbeans	23.17	57.75	24.03	31.36	45.0	3.94	42.98	Maharashtra	Zaid	123.09
+mothbeans	20.78	43.91	21.82	28.17	56.41	6.24	46.09	Karnataka	Zaid	297.18
+mothbeans	20.83	52.23	20.1	33.48	62.05	3.69	58.02	Uttar Pradesh	Kharif	213.97
+mothbeans	23.21	47.18	23.61	33.66	49.7	5.61	47.89	Tamil Nadu	Post-Monsoon	127.75
+mothbeans	19.35	44.22	16.73	26.39	56.11	6.03	47.21	Karnataka	Rabi	93.66
+mothbeans	23.73	42.51	15.12	31.48	47.88	6.15	53.16	West Bengal	Kharif	49.79
+mothbeans	23.06	57.2	23.94	31.95	63.61	5.37	49.09	Karnataka	Post-Monsoon	121.57
+mothbeans	17.26	48.5	15.07	29.98	59.62	5.64	45.39	Maharashtra	Zaid	19.7
+mothbeans	15.38	49.67	18.69	30.8	64.23	3.74	54.6	Maharashtra	Zaid	144.83
+mothbeans	15.78	57.8	15.88	29.72	59.83	6.38	41.56	Punjab	Zaid	187.78
+mothbeans	24.04	50.7	15.11	29.54	63.12	5.22	46.63	Tamil Nadu	Zaid	93.87
+mothbeans	15.35	58.46	22.49	32.27	56.27	3.68	49.46	West Bengal	Kharif	200.33
+mothbeans	17.92	54.75	15.27	29.85	47.54	3.73	55.68	Tamil Nadu	Rabi	188.58
+mothbeans	17.75	45.14	22.41	31.04	63.2	5.72	53.18	Tamil Nadu	Rabi	85.76
+mothbeans	22.01	49.7	22.99	33.62	51.86	3.75	42.9	West Bengal	Post-Monsoon	228.3
+mothbeans	19.13	47.66	21.61	32.26	48.35	5.23	56.84	Uttar Pradesh	Zaid	229.09
+mothbeans	16.16	43.35	18.99	28.01	59.92	5.76	50.65	Karnataka	Post-Monsoon	147.63
+mothbeans	16.45	57.41	15.12	34.27	53.98	5.54	59.24	Punjab	Kharif	38.24
+mothbeans	20.31	47.08	23.44	31.1	58.04	4.32	45.41	Uttar Pradesh	Zaid	199.76
+mothbeans	18.91	55.46	22.49	32.34	56.77	4.08	46.75	Punjab	Rabi	100.85
+mothbeans	15.11	40.17	15.68	29.11	55.51	5.56	47.03	Punjab	Zaid	83.05
+mothbeans	15.34	52.39	15.57	30.94	62.88	4.15	51.99	Uttar Pradesh	Kharif	35.05
+mothbeans	21.05	47.52	22.64	31.48	61.06	4.05	42.22	West Bengal	Zaid	95.42
+mothbeans	21.6	41.51	19.53	34.95	60.39	5.58	53.35	Tamil Nadu	Zaid	56.97
+mothbeans	15.74	55.54	18.83	28.33	46.2	6.37	45.29	Karnataka	Kharif	152.6
+mothbeans	24.29	52.21	16.78	29.92	47.88	5.81	44.37	Punjab	Kharif	274.66
+mothbeans	22.15	42.07	15.73	30.71	50.01	4.84	57.93	West Bengal	Kharif	280.54
+mothbeans	21.65	45.33	22.0	34.05	56.49	5.05	58.8	Karnataka	Post-Monsoon	136.46
+mothbeans	23.44	55.62	22.85	30.4	45.07	6.36	56.36	Karnataka	Kharif	174.5
+mothbeans	24.35	47.18	21.82	29.01	57.65	6.38	41.81	Maharashtra	Zaid	33.33
+mothbeans	19.6	55.33	21.48	26.77	45.79	4.65	43.82	Punjab	Post-Monsoon	269.97
+mothbeans	21.31	47.19	15.85	31.33	59.71	3.92	43.86	Punjab	Rabi	151.88
+mothbeans	15.63	50.81	18.08	30.34	61.69	4.85	59.92	Uttar Pradesh	Zaid	26.26
+mothbeans	22.88	40.86	16.18	33.07	58.35	4.88	53.56	Maharashtra	Rabi	224.9
+mothbeans	17.33	41.44	22.35	29.89	45.38	6.22	52.37	West Bengal	Rabi	14.17
+mothbeans	21.33	58.09	23.21	25.97	57.22	6.01	41.28	Uttar Pradesh	Kharif	154.17
+mothbeans	22.99	44.41	23.04	29.26	61.23	6.45	53.57	Tamil Nadu	Kharif	293.0
+mothbeans	20.76	42.75	23.36	32.93	60.28	5.28	46.71	Uttar Pradesh	Zaid	50.96
+mothbeans	19.15	53.93	20.53	29.39	63.51	3.62	42.0	Punjab	Post-Monsoon	235.52
+mothbeans	15.16	49.74	15.06	26.79	46.78	5.46	57.74	Karnataka	Post-Monsoon	210.78
+mothbeans	17.06	52.8	20.23	29.12	63.76	5.33	40.75	West Bengal	Post-Monsoon	187.49
+mothbeans	15.88	56.53	18.01	29.19	56.15	4.08	59.73	Uttar Pradesh	Zaid	260.19
+mothbeans	24.87	50.15	19.64	31.26	49.16	3.66	42.25	West Bengal	Post-Monsoon	154.28
+mothbeans	16.6	58.45	15.54	28.64	49.19	4.25	52.34	Karnataka	Kharif	40.28
+mothbeans	15.52	50.75	16.58	25.29	55.3	3.71	44.71	Karnataka	Zaid	131.53
+mothbeans	22.47	57.97	17.3	26.1	49.56	4.21	48.25	West Bengal	Post-Monsoon	268.5
+mothbeans	15.74	51.7	15.54	29.36	49.32	5.33	43.56	Tamil Nadu	Rabi	142.74
+mothbeans	16.94	47.17	17.7	28.36	45.64	5.21	45.61	Uttar Pradesh	Post-Monsoon	142.99
+mothbeans	16.71	46.87	23.86	31.04	60.79	5.41	52.23	West Bengal	Rabi	35.08
+mothbeans	23.57	49.78	24.96	30.92	61.74	4.34	54.6	Punjab	Rabi	81.87
+mothbeans	19.34	44.45	24.27	34.46	63.28	6.19	48.36	Uttar Pradesh	Kharif	297.47
+mothbeans	22.33	50.08	19.26	28.94	61.19	5.59	41.96	Karnataka	Rabi	34.1
+mothbeans	22.53	53.86	19.07	27.18	52.17	4.22	59.98	Uttar Pradesh	Post-Monsoon	204.02
+mothbeans	16.62	49.19	20.7	30.84	64.53	4.89	42.77	Punjab	Post-Monsoon	63.63
+mothbeans	23.72	52.54	22.04	25.01	57.55	4.65	53.82	Maharashtra	Kharif	96.01
+mothbeans	22.53	53.96	21.13	30.75	49.14	5.55	52.41	Tamil Nadu	Kharif	159.27
+mungbean	24.1	62.28	15.52	28.83	86.65	6.24	52.33	Punjab	Kharif	172.62
+mungbean	22.74	57.77	18.35	30.4	88.49	6.94	60.05	Punjab	Rabi	228.42
+mungbean	22.61	61.41	23.98	30.04	86.23	6.25	52.46	Karnataka	Post-Monsoon	155.42
+mungbean	23.3	64.4	20.32	33.25	90.99	6.65	52.36	Punjab	Kharif	64.62
+mungbean	23.84	56.75	18.91	26.79	91.58	6.28	48.3	Uttar Pradesh	Rabi	153.94
+mungbean	23.75	65.41	21.27	27.93	91.7	6.74	47.64	Tamil Nadu	Post-Monsoon	138.72
+mungbean	21.45	60.83	15.63	33.72	84.32	7.15	57.89	Karnataka	Zaid	200.17
+mungbean	22.87	64.72	21.66	30.3	87.48	6.66	56.35	Tamil Nadu	Rabi	238.89
+mungbean	17.27	62.44	17.88	33.46	83.48	6.48	64.12	Maharashtra	Rabi	216.43
+mungbean	17.85	74.46	23.39	31.93	88.66	6.35	49.76	Uttar Pradesh	Zaid	176.61
+mungbean	19.41	62.39	17.05	32.07	88.66	7.18	47.96	Karnataka	Rabi	164.76
+mungbean	16.21	55.5	24.31	32.69	91.48	7.13	48.12	Punjab	Zaid	197.7
+mungbean	17.96	72.92	24.7	32.54	91.94	6.87	60.99	Punjab	Post-Monsoon	108.22
+mungbean	16.12	64.58	15.4	31.78	83.17	6.22	57.35	West Bengal	Post-Monsoon	113.64
+mungbean	18.26	67.16	16.95	30.26	89.81	6.97	48.91	Uttar Pradesh	Post-Monsoon	206.35
+mungbean	24.58	74.52	18.94	29.9	88.03	6.71	46.12	Punjab	Zaid	125.29
+mungbean	22.16	63.55	18.86	25.12	85.45	6.51	53.91	Maharashtra	Kharif	72.55
+mungbean	23.88	69.83	19.16	29.43	83.64	6.93	62.95	Punjab	Post-Monsoon	50.47
+mungbean	20.87	56.72	17.08	29.75	90.68	7.19	46.32	Maharashtra	Post-Monsoon	35.65
+mungbean	19.09	73.29	19.15	30.56	89.1	6.96	47.74	West Bengal	Post-Monsoon	93.94
+mungbean	19.91	71.46	18.02	30.85	86.94	6.94	49.49	Uttar Pradesh	Rabi	86.18
+mungbean	24.56	71.68	19.73	31.54	90.93	6.62	54.84	Punjab	Rabi	18.25
+mungbean	22.65	64.86	24.71	30.99	85.62	6.68	53.72	Tamil Nadu	Post-Monsoon	292.54
+mungbean	23.18	62.46	22.33	25.18	84.6	6.78	47.92	Karnataka	Rabi	113.64
+mungbean	15.53	62.22	21.36	34.55	82.49	6.49	57.78	Uttar Pradesh	Rabi	232.27
+mungbean	16.83	56.89	22.53	30.44	90.72	7.03	58.7	Tamil Nadu	Zaid	208.78
+mungbean	21.88	56.92	20.8	33.23	82.13	6.72	52.46	Karnataka	Post-Monsoon	108.69
+mungbean	24.11	57.05	16.55	27.21	83.88	7.1	57.27	Maharashtra	Kharif	131.03
+mungbean	24.16	57.33	16.31	25.17	85.48	6.89	47.78	Karnataka	Zaid	59.94
+mungbean	18.05	69.89	16.19	26.29	88.94	6.89	51.15	West Bengal	Rabi	294.52
+mungbean	19.25	70.26	16.12	25.19	86.84	6.63	48.93	Uttar Pradesh	Kharif	146.03
+mungbean	24.09	55.87	18.02	25.1	82.97	6.32	57.04	Maharashtra	Rabi	63.59
+mungbean	18.52	56.82	23.46	34.42	91.49	6.55	48.21	Maharashtra	Rabi	156.42
+mungbean	15.68	71.39	22.63	30.29	89.16	7.16	48.44	Maharashtra	Kharif	292.34
+mungbean	15.99	59.28	20.04	32.08	85.66	6.79	53.79	Uttar Pradesh	Rabi	252.08
+mungbean	24.81	63.48	20.14	29.08	89.61	6.51	54.32	Maharashtra	Rabi	153.79
+mungbean	18.61	60.77	22.22	25.82	86.94	6.58	54.14	Punjab	Zaid	209.24
+mungbean	23.41	59.52	19.07	34.85	86.28	7.06	62.9	Karnataka	Zaid	62.0
+mungbean	24.99	64.83	16.05	29.38	88.59	6.29	47.87	Karnataka	Kharif	225.02
+mungbean	23.92	58.37	18.64	26.99	84.0	7.04	53.09	West Bengal	Post-Monsoon	220.31
+mungbean	17.79	69.27	20.82	27.73	89.89	6.84	53.0	Karnataka	Post-Monsoon	296.38
+mungbean	20.11	57.95	19.55	26.22	86.89	6.43	63.85	Uttar Pradesh	Kharif	223.96
+mungbean	23.3	64.96	15.27	26.79	88.05	6.53	51.06	Maharashtra	Kharif	230.45
+mungbean	21.61	65.4	19.92	29.66	84.94	6.7	55.1	Maharashtra	Zaid	244.75
+mungbean	20.41	55.35	22.64	34.91	90.8	6.32	54.0	Karnataka	Post-Monsoon	143.3
+mungbean	15.33	66.13	23.6	28.03	89.06	6.69	47.69	Punjab	Post-Monsoon	151.36
+mungbean	16.09	68.5	21.6	31.85	87.72	6.68	62.09	Maharashtra	Kharif	123.5
+mungbean	19.95	74.42	21.17	28.53	91.78	6.52	45.56	Uttar Pradesh	Rabi	252.71
+mungbean	18.49	69.84	15.27	33.91	85.41	6.3	51.9	Tamil Nadu	Post-Monsoon	111.87
+mungbean	21.61	59.95	21.48	30.93	91.1	6.27	51.1	Tamil Nadu	Rabi	15.72
+mungbean	18.26	64.22	23.63	30.68	91.01	6.47	58.92	Maharashtra	Kharif	295.87
+mungbean	18.78	62.81	20.73	33.08	83.0	6.88	51.72	Maharashtra	Zaid	58.32
+mungbean	18.0	74.39	17.02	31.35	91.74	6.28	62.01	West Bengal	Zaid	86.89
+mungbean	17.97	66.47	23.05	31.25	91.58	6.92	56.56	Maharashtra	Zaid	89.28
+mungbean	20.66	65.62	19.27	28.47	82.77	7.02	55.09	Tamil Nadu	Post-Monsoon	202.4
+mungbean	18.13	63.29	17.51	30.15	88.72	6.75	62.62	Punjab	Rabi	177.28
+mungbean	17.13	74.24	22.42	29.67	91.37	6.73	57.29	Karnataka	Kharif	161.46
+mungbean	18.64	57.95	16.5	31.85	85.0	6.64	51.37	Uttar Pradesh	Rabi	255.33
+mungbean	17.67	60.74	16.61	31.87	84.36	6.44	48.0	Uttar Pradesh	Rabi	241.14
+mungbean	18.11	64.71	24.91	29.22	91.06	6.4	50.45	Uttar Pradesh	Zaid	239.0
+mungbean	17.78	66.01	21.44	25.42	89.22	6.98	46.11	Uttar Pradesh	Zaid	184.46
+mungbean	23.67	73.01	19.07	28.63	88.57	6.29	63.86	Punjab	Rabi	78.45
+mungbean	20.71	65.0	16.21	31.64	87.8	6.98	55.51	Karnataka	Kharif	79.04
+mungbean	16.22	71.13	18.29	30.84	85.9	6.95	49.72	Karnataka	Rabi	51.84
+mungbean	16.75	74.4	19.39	27.54	87.89	6.69	52.49	Uttar Pradesh	Zaid	168.27
+mungbean	19.75	59.93	17.78	32.84	83.45	6.68	52.35	Tamil Nadu	Kharif	197.17
+mungbean	24.05	55.7	22.39	32.99	82.55	7.12	58.43	Tamil Nadu	Post-Monsoon	99.69
+mungbean	24.58	62.26	23.12	26.22	90.67	7.06	52.77	Karnataka	Zaid	97.26
+mungbean	24.36	70.13	17.97	33.59	83.6	6.64	51.34	Punjab	Post-Monsoon	238.9
+mungbean	17.74	56.6	22.79	29.92	89.37	7.13	51.65	Karnataka	Kharif	249.08
+mungbean	21.98	65.13	18.52	31.02	90.13	6.94	54.07	Uttar Pradesh	Kharif	196.0
+mungbean	16.84	63.87	21.41	25.03	84.0	6.51	56.52	Uttar Pradesh	Rabi	82.39
+mungbean	22.14	70.35	21.49	26.3	87.94	6.61	63.79	Karnataka	Post-Monsoon	263.32
+mungbean	16.34	58.47	20.93	28.28	84.82	6.28	52.35	Karnataka	Post-Monsoon	283.98
+mungbean	23.84	59.49	24.48	34.23	88.47	6.83	63.14	Karnataka	Rabi	85.92
+mungbean	23.52	56.0	21.18	31.0	83.49	7.16	48.4	Maharashtra	Kharif	14.09
+mungbean	20.26	70.47	24.28	33.27	86.94	6.42	49.06	Tamil Nadu	Zaid	226.47
+mungbean	18.82	63.63	17.07	27.16	90.24	6.93	48.79	West Bengal	Post-Monsoon	239.81
+mungbean	15.29	74.52	17.35	29.51	84.48	6.78	57.94	Uttar Pradesh	Kharif	145.98
+mungbean	23.71	74.49	18.98	27.12	85.83	6.62	56.94	Uttar Pradesh	Kharif	171.53
+mungbean	15.52	73.62	19.71	28.54	88.06	6.87	61.04	Punjab	Kharif	11.55
+mungbean	20.05	62.62	24.78	31.71	83.32	7.09	45.82	West Bengal	Zaid	59.26
+mungbean	19.93	61.78	19.68	25.9	89.1	6.63	50.21	Tamil Nadu	Kharif	293.77
+mungbean	19.99	74.47	17.81	28.61	86.3	7.1	50.26	Tamil Nadu	Zaid	136.37
+mungbean	16.65	69.74	19.91	34.5	87.56	7.12	57.73	Karnataka	Kharif	64.79
+mungbean	15.55	58.66	19.7	26.64	86.67	6.32	62.9	Karnataka	Kharif	138.04
+mungbean	24.89	66.22	19.58	26.12	89.2	6.35	51.99	West Bengal	Zaid	62.39
+mungbean	16.68	65.17	17.73	33.91	87.86	6.78	64.43	Maharashtra	Rabi	130.76
+mungbean	15.77	70.37	21.77	33.87	82.26	6.88	58.61	Karnataka	Zaid	181.2
+mungbean	24.51	71.74	16.54	25.81	90.31	6.86	54.08	Tamil Nadu	Kharif	105.53
+mungbean	15.44	67.45	19.53	34.47	92.0	7.11	60.94	West Bengal	Rabi	260.35
+mungbean	23.02	60.66	22.98	32.44	87.47	6.8	46.85	Tamil Nadu	Rabi	79.62
+mungbean	22.71	62.98	15.21	27.08	85.89	6.6	57.94	Punjab	Rabi	44.97
+mungbean	19.91	63.65	23.06	28.1	88.85	6.33	58.31	Tamil Nadu	Rabi	151.99
+mungbean	23.85	64.53	20.63	29.23	89.56	7.01	57.28	Karnataka	Post-Monsoon	36.95
+mungbean	20.13	74.47	21.76	31.48	89.14	7.13	55.55	Punjab	Kharif	94.3
+mungbean	19.37	73.14	19.78	26.49	83.28	7.1	61.83	Maharashtra	Post-Monsoon	95.69
+mungbean	15.48	56.53	15.45	26.08	86.25	6.29	58.22	Maharashtra	Zaid	113.08
+mungbean	20.86	70.37	15.16	32.41	86.63	6.99	61.86	Uttar Pradesh	Kharif	130.71
+mungbean	22.04	61.28	22.24	32.57	86.5	7.01	51.83	West Bengal	Rabi	63.68
+blackgram	42.47	67.08	33.72	26.06	67.34	6.01	66.17	West Bengal	Post-Monsoon	143.45
+blackgram	39.05	68.15	32.44	32.26	65.03	7.22	71.17	Punjab	Post-Monsoon	243.35
+blackgram	35.88	57.7	26.91	33.16	68.96	6.28	65.27	Karnataka	Rabi	198.42
+blackgram	39.36	67.52	32.9	26.91	65.01	6.7	69.74	Uttar Pradesh	Kharif	58.17
+blackgram	36.52	69.05	34.64	29.71	70.6	6.88	67.01	Maharashtra	Post-Monsoon	24.77
+blackgram	35.08	67.61	32.13	34.79	70.49	7.11	70.96	Maharashtra	Zaid	20.73
+blackgram	39.0	65.27	32.25	34.35	71.05	7.3	67.32	Uttar Pradesh	Kharif	132.38
+blackgram	38.16	56.27	33.93	29.17	66.73	6.74	74.39	Tamil Nadu	Post-Monsoon	212.28
+blackgram	35.21	60.76	26.92	28.44	64.32	6.33	74.09	Tamil Nadu	Post-Monsoon	48.04
+blackgram	37.93	69.23	34.6	33.33	68.73	7.1	72.96	West Bengal	Rabi	91.91
+blackgram	42.49	68.34	26.29	26.99	68.06	6.15	69.16	Karnataka	Zaid	78.07
+blackgram	40.57	74.99	28.59	27.61	68.77	6.26	73.59	Maharashtra	Kharif	243.98
+blackgram	38.38	57.28	27.27	30.62	66.86	7.49	72.85	Uttar Pradesh	Zaid	269.93
+blackgram	43.53	72.47	31.04	26.04	62.5	7.42	72.99	Uttar Pradesh	Kharif	236.68
+blackgram	41.1	72.17	26.02	30.62	67.07	6.25	66.18	West Bengal	Zaid	55.54
+blackgram	37.92	63.83	30.06	32.33	62.99	6.97	68.35	West Bengal	Kharif	256.09
+blackgram	39.39	63.31	32.69	27.45	70.09	6.51	70.05	Uttar Pradesh	Zaid	118.01
+blackgram	42.55	62.21	31.65	26.52	69.54	6.63	67.28	Karnataka	Post-Monsoon	276.23
+blackgram	43.98	74.04	30.16	31.82	71.44	6.66	72.7	Punjab	Kharif	34.59
+blackgram	38.15	74.64	26.64	25.61	69.59	6.99	71.41	Maharashtra	Kharif	293.54
+blackgram	44.8	70.98	33.76	34.73	66.19	7.33	72.01	Tamil Nadu	Zaid	273.68
+blackgram	35.08	60.6	30.28	34.2	69.0	6.67	67.05	Maharashtra	Post-Monsoon	212.27
+blackgram	43.88	70.63	29.05	26.97	65.02	6.06	68.34	Punjab	Rabi	160.94
+blackgram	40.41	59.27	30.12	28.12	65.41	6.95	65.23	Maharashtra	Zaid	79.99
+blackgram	42.74	69.53	34.87	26.1	62.6	6.56	71.27	Tamil Nadu	Kharif	23.84
+blackgram	41.51	57.49	27.98	32.37	66.53	7.47	73.05	Maharashtra	Rabi	111.6
+blackgram	37.85	70.7	32.15	31.72	69.14	6.78	67.48	Tamil Nadu	Rabi	248.62
+blackgram	38.61	56.96	32.12	33.28	62.82	6.09	73.89	Karnataka	Rabi	139.39
+blackgram	38.69	65.53	30.88	30.19	65.95	6.4	69.99	Karnataka	Post-Monsoon	209.82
+blackgram	44.48	69.63	29.17	26.63	67.06	6.73	69.58	Punjab	Kharif	211.4
+blackgram	39.55	55.65	26.57	30.59	71.22	6.18	73.52	Uttar Pradesh	Kharif	117.18
+blackgram	37.9	65.46	26.18	28.05	65.74	6.44	65.28	West Bengal	Rabi	237.3
+blackgram	39.22	73.74	28.05	27.83	63.83	7.11	65.02	Maharashtra	Zaid	29.59
+blackgram	35.45	64.62	28.1	29.52	65.38	6.57	73.34	Maharashtra	Rabi	230.97
+blackgram	40.05	64.22	29.5	29.49	70.66	6.49	73.0	Punjab	Post-Monsoon	122.3
+blackgram	44.0	61.78	25.46	31.7	66.43	6.42	65.89	West Bengal	Kharif	175.88
+blackgram	42.96	69.15	30.61	26.24	67.59	6.29	71.19	Maharashtra	Kharif	287.61
+blackgram	40.22	70.01	30.03	25.19	68.58	6.8	74.62	Tamil Nadu	Rabi	81.13
+blackgram	42.06	72.75	29.44	33.07	68.07	6.6	65.45	Uttar Pradesh	Zaid	136.74
+blackgram	39.15	72.19	28.17	27.57	63.15	6.15	66.68	West Bengal	Rabi	84.11
+blackgram	35.9	61.14	29.07	26.69	68.14	6.49	65.27	Uttar Pradesh	Zaid	123.08
+blackgram	38.2	63.26	28.24	28.76	70.28	6.18	67.03	Maharashtra	Rabi	152.96
+blackgram	42.52	62.7	26.15	25.61	66.65	6.61	69.84	Karnataka	Rabi	274.98
+blackgram	35.19	66.08	30.86	26.02	69.63	6.98	66.26	Maharashtra	Post-Monsoon	139.33
+blackgram	43.46	65.01	32.83	26.42	67.4	6.25	67.45	Karnataka	Post-Monsoon	22.12
+blackgram	43.13	74.22	31.21	31.53	63.67	6.09	74.22	Tamil Nadu	Zaid	253.45
+blackgram	38.8	62.03	31.32	30.85	67.1	6.07	72.39	Maharashtra	Kharif	97.19
+blackgram	38.95	57.46	26.4	30.56	64.79	6.65	71.1	Tamil Nadu	Zaid	194.2
+blackgram	44.8	69.16	27.73	31.62	65.22	6.32	74.59	Tamil Nadu	Kharif	275.07
+blackgram	36.34	73.45	31.09	25.04	62.1	6.26	70.56	Punjab	Post-Monsoon	231.11
+blackgram	40.38	70.75	31.49	25.78	62.31	7.25	71.72	Punjab	Kharif	112.37
+blackgram	43.13	71.55	28.58	26.77	69.68	7.05	65.08	Karnataka	Zaid	281.51
+blackgram	39.45	59.43	25.2	27.81	71.21	6.54	65.9	Maharashtra	Zaid	244.44
+blackgram	37.21	74.6	34.67	25.37	66.93	7.06	71.06	Uttar Pradesh	Rabi	295.44
+blackgram	41.38	57.22	27.77	30.0	63.7	6.29	72.39	Punjab	Rabi	28.95
+blackgram	36.28	56.3	27.6	30.7	64.28	6.78	72.82	West Bengal	Kharif	297.67
+blackgram	41.93	65.66	27.53	30.6	66.54	7.41	71.41	Punjab	Kharif	257.62
+blackgram	38.23	71.89	29.07	26.22	67.18	6.74	70.17	Uttar Pradesh	Rabi	23.62
+blackgram	44.18	65.65	28.16	28.92	65.35	7.32	73.08	Punjab	Rabi	293.65
+blackgram	39.24	56.49	27.5	26.64	65.11	6.94	65.97	Karnataka	Post-Monsoon	244.34
+blackgram	40.93	67.53	28.34	27.5	63.08	6.36	68.41	Uttar Pradesh	Zaid	160.71
+blackgram	37.37	56.46	31.0	29.39	62.96	6.67	66.25	Uttar Pradesh	Kharif	119.44
+blackgram	43.9	68.87	32.83	25.62	70.02	6.08	71.11	Karnataka	Kharif	39.53
+blackgram	35.56	56.04	33.5	29.02	68.17	6.62	73.65	Punjab	Kharif	141.49
+blackgram	39.64	63.56	31.2	26.01	68.51	7.01	65.26	Maharashtra	Zaid	180.47
+blackgram	36.08	55.25	32.13	30.93	70.41	7.36	66.26	Maharashtra	Zaid	113.06
+blackgram	39.81	67.42	26.86	26.38	62.44	6.19	70.85	Maharashtra	Zaid	100.24
+blackgram	43.85	70.51	26.47	28.09	65.43	6.55	65.08	Maharashtra	Rabi	26.62
+blackgram	40.07	71.7	33.59	29.22	63.95	6.3	74.09	Uttar Pradesh	Zaid	64.91
+blackgram	39.76	68.84	29.67	31.92	70.52	6.85	68.36	Tamil Nadu	Post-Monsoon	105.3
+blackgram	36.05	72.52	34.11	29.96	71.2	6.96	71.93	Karnataka	Rabi	79.32
+blackgram	42.35	74.05	28.32	32.4	64.05	6.28	74.9	Tamil Nadu	Kharif	31.38
+blackgram	35.3	57.3	27.91	26.94	67.86	7.15	65.44	Uttar Pradesh	Rabi	67.37
+blackgram	36.74	72.71	32.19	28.4	67.55	6.27	65.21	Tamil Nadu	Kharif	16.09
+blackgram	41.77	62.58	32.87	26.11	71.36	6.46	67.4	Tamil Nadu	Rabi	282.94
+blackgram	44.77	74.95	33.82	33.78	62.65	6.22	74.24	West Bengal	Rabi	164.44
+blackgram	41.94	61.36	29.3	31.36	71.21	7.14	70.87	Maharashtra	Zaid	238.98
+blackgram	38.28	56.07	32.96	33.73	70.52	7.45	73.86	West Bengal	Kharif	237.55
+blackgram	42.91	67.3	26.67	28.88	70.82	7.13	68.74	Maharashtra	Post-Monsoon	61.91
+blackgram	42.12	65.51	29.83	34.56	66.74	6.87	71.38	Maharashtra	Kharif	70.09
+blackgram	43.95	64.04	27.34	27.19	66.25	6.57	66.57	Tamil Nadu	Zaid	169.66
+blackgram	36.34	56.68	29.45	28.52	67.84	6.7	71.21	Karnataka	Post-Monsoon	145.59
+blackgram	39.09	71.09	28.17	28.82	63.8	6.35	71.45	Tamil Nadu	Kharif	95.41
+blackgram	40.02	65.93	25.78	27.76	64.28	6.18	68.6	Maharashtra	Rabi	106.79
+blackgram	41.75	60.0	32.45	32.68	70.45	6.29	71.04	West Bengal	Zaid	12.47
+blackgram	37.99	71.45	32.83	29.04	66.06	6.87	71.55	Karnataka	Rabi	260.99
+blackgram	37.28	69.47	27.1	27.34	67.87	6.83	69.69	Karnataka	Zaid	239.66
+blackgram	38.13	58.76	32.7	31.98	64.1	6.67	70.58	Tamil Nadu	Rabi	177.48
+blackgram	36.28	73.87	25.1	33.1	70.34	6.51	69.19	Punjab	Post-Monsoon	231.22
+blackgram	41.91	60.99	30.87	30.68	62.32	6.21	74.77	Tamil Nadu	Post-Monsoon	294.25
+blackgram	37.04	62.81	30.34	26.88	63.09	6.85	69.52	Tamil Nadu	Kharif	59.71
+blackgram	41.75	58.55	33.26	31.03	62.27	6.3	74.11	Karnataka	Zaid	69.71
+blackgram	37.91	65.49	29.55	28.69	62.11	6.49	74.1	Karnataka	Rabi	296.98
+blackgram	36.29	63.37	32.43	28.89	71.04	6.31	73.7	Tamil Nadu	Post-Monsoon	247.19
+blackgram	41.65	58.18	30.75	28.1	64.03	7.08	69.59	West Bengal	Kharif	297.41
+blackgram	39.46	71.49	31.05	27.47	65.29	6.85	69.91	Karnataka	Kharif	223.81
+blackgram	37.88	72.62	29.56	32.0	69.12	6.45	71.13	West Bengal	Post-Monsoon	82.25
+blackgram	44.0	69.66	29.58	34.11	63.83	6.85	68.94	Uttar Pradesh	Rabi	266.81
+blackgram	36.58	72.65	30.38	31.67	62.67	7.09	74.02	Karnataka	Post-Monsoon	297.79
+blackgram	40.53	74.91	25.77	26.05	69.67	6.49	69.51	Tamil Nadu	Rabi	156.76
+lentil	19.62	56.46	21.94	22.5	65.81	7.12	43.56	Karnataka	Kharif	13.11
+lentil	16.15	73.34	18.27	22.49	66.85	6.1	40.48	West Bengal	Post-Monsoon	50.67
+lentil	23.2	71.83	16.71	15.18	63.01	6.44	40.35	Karnataka	Rabi	32.5
+lentil	22.64	68.55	16.53	18.58	64.17	6.05	41.75	West Bengal	Post-Monsoon	212.06
+lentil	23.37	71.23	21.41	22.16	70.97	6.59	38.08	Uttar Pradesh	Kharif	24.11
+lentil	18.77	59.03	17.5	24.09	64.0	6.02	35.28	Uttar Pradesh	Zaid	247.95
+lentil	21.8	56.26	24.59	15.97	70.35	7.0	42.24	Uttar Pradesh	Post-Monsoon	158.63
+lentil	23.16	61.45	21.27	21.25	71.34	6.59	39.28	West Bengal	Rabi	40.71
+lentil	18.23	55.3	21.54	15.12	64.13	6.33	41.58	Tamil Nadu	Zaid	22.74
+lentil	23.85	63.22	22.68	20.0	71.9	7.07	42.91	Maharashtra	Rabi	83.06
+lentil	15.95	61.49	21.31	18.89	71.25	7.16	36.33	West Bengal	Zaid	293.63
+lentil	21.66	56.35	15.18	24.12	66.49	6.77	42.42	Maharashtra	Kharif	77.46
+lentil	21.16	72.94	18.09	22.38	69.57	6.93	35.6	Tamil Nadu	Post-Monsoon	96.02
+lentil	16.52	59.09	15.38	24.23	67.98	7.42	42.39	Tamil Nadu	Rabi	90.66
+lentil	21.44	70.21	20.21	24.78	68.48	6.43	35.24	Punjab	Zaid	109.39
+lentil	17.06	56.08	24.18	24.88	70.01	7.04	37.22	Karnataka	Zaid	63.23
+lentil	21.3	56.29	19.92	24.54	62.52	7.49	44.38	West Bengal	Kharif	60.37
+lentil	20.49	70.9	17.04	20.07	66.26	6.7	36.64	West Bengal	Rabi	132.96
+lentil	21.06	61.06	20.76	24.68	64.01	7.29	39.81	Tamil Nadu	Post-Monsoon	119.54
+lentil	19.71	63.45	21.09	19.33	63.56	7.43	39.82	Karnataka	Post-Monsoon	257.67
+lentil	22.59	73.43	20.95	16.53	69.27	6.39	39.64	Karnataka	Zaid	118.79
+lentil	21.06	56.44	16.37	19.69	63.55	6.28	35.13	Maharashtra	Zaid	152.52
+lentil	24.26	73.81	24.7	18.73	66.9	6.96	40.88	Karnataka	Kharif	297.82
+lentil	16.24	73.64	16.62	22.63	71.57	7.16	42.52	Tamil Nadu	Post-Monsoon	194.14
+lentil	18.68	56.15	18.85	19.24	64.47	6.72	44.21	Tamil Nadu	Kharif	212.27
+lentil	21.45	60.23	19.55	21.81	64.54	6.9	44.52	West Bengal	Kharif	43.85
+lentil	15.92	69.23	18.84	22.06	71.74	6.12	44.1	Karnataka	Rabi	250.63
+lentil	17.53	61.04	24.68	21.58	65.83	6.46	39.12	Punjab	Kharif	41.69
+lentil	20.73	70.95	23.14	17.69	64.1	7.12	41.99	Uttar Pradesh	Rabi	246.75
+lentil	15.02	56.4	21.96	20.25	68.55	7.1	36.71	Tamil Nadu	Rabi	214.17
+lentil	16.98	58.64	24.48	19.51	70.14	6.28	35.59	West Bengal	Rabi	85.21
+lentil	24.02	63.18	21.27	21.24	70.68	6.25	37.93	Karnataka	Kharif	90.26
+lentil	18.42	66.71	19.78	21.73	63.01	6.09	42.52	Uttar Pradesh	Kharif	38.08
+lentil	20.22	55.15	21.03	24.87	69.61	7.4	39.73	Tamil Nadu	Post-Monsoon	107.6
+lentil	21.82	61.86	18.15	17.4	65.61	6.6	41.11	Tamil Nadu	Zaid	243.82
+lentil	15.03	72.41	19.02	23.35	71.25	6.04	36.23	Maharashtra	Zaid	285.81
+lentil	22.51	59.97	19.52	21.86	70.7	6.77	41.6	Uttar Pradesh	Zaid	14.82
+lentil	18.6	55.92	23.08	18.26	66.44	6.91	39.0	Maharashtra	Kharif	111.02
+lentil	24.39	73.83	19.76	21.58	68.99	6.15	38.85	Maharashtra	Rabi	216.46
+lentil	23.7	72.52	22.85	22.17	62.32	6.75	35.87	Punjab	Post-Monsoon	58.74
+lentil	19.46	57.31	21.63	17.41	64.12	7.13	41.6	Uttar Pradesh	Kharif	136.12
+lentil	22.16	58.2	24.29	24.03	69.66	6.33	37.58	Karnataka	Kharif	202.99
+lentil	24.23	67.67	19.92	22.96	65.33	6.34	40.76	Maharashtra	Kharif	196.76
+lentil	18.77	69.35	22.36	18.82	68.42	6.84	43.56	West Bengal	Rabi	85.14
+lentil	17.91	57.23	18.4	20.92	63.88	7.41	40.73	West Bengal	Zaid	286.68
+lentil	20.77	55.03	15.62	20.36	70.47	7.47	38.2	Tamil Nadu	Rabi	160.73
+lentil	21.02	59.44	18.95	20.38	66.61	6.22	44.43	West Bengal	Post-Monsoon	207.19
+lentil	16.47	60.67	22.47	23.49	70.28	6.05	38.2	Maharashtra	Kharif	89.3
+lentil	23.48	66.48	21.31	17.16	64.91	7.45	35.59	Tamil Nadu	Rabi	250.09
+lentil	17.11	69.65	23.1	22.0	62.53	7.3	36.79	Karnataka	Post-Monsoon	96.74
+lentil	23.15	73.25	16.59	15.22	65.92	6.63	39.73	Tamil Nadu	Post-Monsoon	123.41
+lentil	20.28	60.66	21.96	16.95	70.56	6.59	36.31	Maharashtra	Kharif	256.44
+lentil	22.1	64.15	16.64	16.38	68.96	6.44	36.45	West Bengal	Rabi	223.24
+lentil	15.09	69.52	20.76	21.78	71.88	6.22	44.5	Karnataka	Rabi	278.54
+lentil	15.96	74.48	16.8	15.52	71.8	6.98	40.93	West Bengal	Post-Monsoon	81.05
+lentil	16.19	62.93	18.03	20.96	63.72	7.12	42.76	Punjab	Kharif	235.54
+lentil	23.65	68.01	17.75	21.53	65.67	6.18	35.83	Karnataka	Rabi	16.68
+lentil	20.73	66.45	17.74	22.45	69.94	6.27	39.84	Punjab	Post-Monsoon	96.53
+lentil	16.25	61.5	22.14	23.62	67.38	6.61	42.01	Karnataka	Post-Monsoon	28.54
+lentil	23.37	65.78	23.19	21.52	69.54	6.31	41.59	Uttar Pradesh	Rabi	259.98
+lentil	21.95	55.11	19.47	18.14	62.39	6.86	41.53	Uttar Pradesh	Zaid	256.92
+lentil	15.35	74.6	20.06	18.64	67.44	6.63	44.45	Uttar Pradesh	Rabi	97.17
+lentil	24.46	65.39	22.83	21.59	66.45	6.87	41.95	Maharashtra	Zaid	185.79
+lentil	20.11	68.76	21.63	15.45	62.37	6.21	43.56	West Bengal	Rabi	184.62
+lentil	17.16	62.18	16.28	21.22	62.74	6.38	38.82	West Bengal	Post-Monsoon	142.26
+lentil	24.45	68.53	24.4	16.43	64.04	6.94	37.69	Punjab	Rabi	217.19
+lentil	20.64	67.96	20.11	16.64	70.22	6.47	42.88	Karnataka	Kharif	289.57
+lentil	17.47	60.4	20.31	21.84	66.07	6.49	35.89	Tamil Nadu	Zaid	52.44
+lentil	22.98	60.47	15.98	24.79	64.22	7.43	42.83	Uttar Pradesh	Rabi	162.68
+lentil	23.76	66.78	23.07	15.96	65.49	6.86	37.82	Tamil Nadu	Kharif	270.01
+lentil	16.71	73.93	18.9	18.45	69.41	7.45	40.32	Maharashtra	Post-Monsoon	148.29
+lentil	16.28	55.19	20.14	16.55	63.26	6.57	42.35	Uttar Pradesh	Zaid	215.18
+lentil	17.49	67.17	22.07	16.83	71.86	7.2	40.02	Tamil Nadu	Post-Monsoon	160.97
+lentil	22.18	73.48	17.29	21.36	62.87	6.46	42.71	Uttar Pradesh	Kharif	32.24
+lentil	17.4	56.87	20.75	15.85	64.86	7.39	43.08	Uttar Pradesh	Post-Monsoon	206.34
+lentil	24.32	57.73	19.98	21.85	68.77	6.8	36.25	Uttar Pradesh	Rabi	274.16
+lentil	22.46	69.28	22.03	22.5	64.44	7.11	44.51	Maharashtra	Kharif	186.14
+lentil	24.65	68.49	23.82	20.24	64.25	6.11	43.39	Maharashtra	Zaid	286.22
+lentil	19.23	62.58	18.73	16.13	71.14	6.37	40.39	Uttar Pradesh	Zaid	96.76
+lentil	17.94	59.26	22.38	20.69	64.17	6.46	44.33	Punjab	Kharif	281.27
+lentil	23.92	71.97	15.57	15.06	66.6	6.45	36.07	Tamil Nadu	Rabi	126.6
+lentil	15.09	63.62	16.98	20.29	70.99	6.62	44.13	Uttar Pradesh	Rabi	233.14
+lentil	17.5	64.41	18.74	18.64	70.92	6.8	37.69	Karnataka	Post-Monsoon	56.93
+lentil	18.54	63.68	18.59	23.71	63.98	6.28	35.4	Karnataka	Post-Monsoon	225.74
+lentil	24.01	58.21	16.99	19.79	68.65	6.4	39.21	Maharashtra	Post-Monsoon	241.95
+lentil	22.14	61.5	22.64	23.82	67.02	7.39	43.43	Karnataka	Rabi	41.82
+lentil	16.08	55.42	16.56	20.0	69.67	6.35	41.78	Tamil Nadu	Post-Monsoon	293.17
+lentil	22.37	63.69	17.89	19.86	69.61	6.37	36.52	Maharashtra	Rabi	82.35
+lentil	22.67	72.28	24.94	17.47	70.21	6.3	42.06	Uttar Pradesh	Rabi	64.71
+lentil	23.55	67.58	16.49	16.2	66.01	6.41	36.92	West Bengal	Post-Monsoon	15.12
+lentil	17.0	72.29	18.8	20.25	69.0	7.47	37.22	Karnataka	Post-Monsoon	27.79
+lentil	19.27	56.03	16.1	18.64	71.43	7.07	37.47	Uttar Pradesh	Rabi	21.86
+lentil	15.52	69.9	17.12	19.72	71.08	6.15	36.85	Karnataka	Zaid	106.94
+lentil	16.12	68.38	21.83	22.7	63.3	6.54	43.1	Punjab	Zaid	79.09
+lentil	17.76	66.69	15.87	16.06	68.3	6.9	35.41	Punjab	Rabi	65.95
+lentil	19.46	56.97	24.42	21.19	65.01	6.71	42.61	Maharashtra	Rabi	22.71
+lentil	16.92	66.01	17.53	23.77	70.53	7.36	44.75	Tamil Nadu	Post-Monsoon	192.66
+lentil	16.17	63.72	19.83	20.24	71.52	7.19	36.67	Tamil Nadu	Rabi	94.0
+lentil	24.56	56.22	24.72	16.9	70.15	6.74	40.32	Maharashtra	Kharif	58.0
+lentil	22.51	62.68	22.79	19.01	64.71	6.28	36.6	West Bengal	Kharif	264.95
+pomegranate	22.91	19.55	22.08	23.25	90.43	5.94	128.33	Maharashtra	Kharif	59.62
+pomegranate	15.46	17.38	15.39	19.48	95.07	7.35	110.82	Uttar Pradesh	Rabi	296.97
+pomegranate	17.1	16.16	21.49	24.33	95.78	6.15	137.86	Maharashtra	Zaid	219.4
+pomegranate	19.08	21.11	18.25	18.57	94.53	7.15	108.77	Tamil Nadu	Rabi	84.24
+pomegranate	15.16	21.57	23.68	27.39	92.67	6.95	127.52	Punjab	Zaid	262.31
+pomegranate	21.34	20.51	23.17	20.21	90.15	6.66	132.31	Karnataka	Rabi	139.36
+pomegranate	22.3	19.34	16.48	22.79	91.97	6.42	132.62	West Bengal	Rabi	175.2
+pomegranate	24.43	16.8	17.82	21.1	95.08	7.13	127.49	West Bengal	Kharif	51.62
+pomegranate	19.26	19.55	21.45	22.03	93.79	5.77	130.02	Uttar Pradesh	Kharif	119.58
+pomegranate	15.21	23.27	22.63	24.44	88.35	6.0	103.34	West Bengal	Kharif	239.8
+pomegranate	15.09	22.92	20.42	26.18	94.82	5.67	105.57	Maharashtra	Post-Monsoon	246.48
+pomegranate	18.07	19.79	17.44	23.44	90.14	6.59	100.85	Uttar Pradesh	Kharif	167.95
+pomegranate	16.03	23.86	19.15	18.01	89.79	5.95	115.42	Tamil Nadu	Zaid	75.51
+pomegranate	23.79	18.85	23.84	26.23	88.9	5.84	104.41	Uttar Pradesh	Zaid	113.62
+pomegranate	21.16	16.18	24.23	27.2	95.16	6.71	107.12	Maharashtra	Zaid	183.89
+pomegranate	21.79	16.5	21.67	21.02	94.54	6.2	104.16	Karnataka	Zaid	280.54
+pomegranate	23.11	22.11	15.76	18.02	95.46	5.8	126.23	Tamil Nadu	Rabi	123.27
+pomegranate	22.21	22.86	19.78	18.67	92.62	7.42	111.14	Uttar Pradesh	Zaid	298.48
+pomegranate	16.82	18.85	18.19	22.24	93.55	6.33	131.74	Tamil Nadu	Rabi	242.62
+pomegranate	21.54	17.46	19.19	22.97	92.27	6.56	132.86	Karnataka	Kharif	178.48
+pomegranate	19.22	20.78	21.93	25.48	93.62	5.97	100.11	Uttar Pradesh	Zaid	171.93
+pomegranate	24.58	24.21	15.6	21.49	94.79	7.23	132.76	Tamil Nadu	Post-Monsoon	51.8
+pomegranate	23.53	24.72	24.13	20.42	94.62	5.61	105.51	Punjab	Rabi	119.46
+pomegranate	15.26	24.65	18.72	25.01	93.3	5.65	133.5	West Bengal	Kharif	52.6
+pomegranate	16.41	17.45	15.12	26.31	91.33	7.03	118.79	West Bengal	Zaid	146.35
+pomegranate	22.23	19.44	21.45	18.13	88.89	5.62	125.7	Maharashtra	Rabi	155.96
+pomegranate	15.11	23.33	21.8	26.76	92.43	7.16	136.77	Maharashtra	Zaid	215.71
+pomegranate	19.24	16.57	24.73	23.22	95.82	5.75	108.47	Maharashtra	Kharif	73.48
+pomegranate	16.84	22.46	20.59	26.42	94.53	6.44	112.53	Punjab	Post-Monsoon	249.9
+pomegranate	16.65	23.03	21.47	19.95	88.87	5.66	124.13	Tamil Nadu	Kharif	79.46
+pomegranate	16.63	16.06	17.12	18.11	95.28	5.88	108.07	Uttar Pradesh	Rabi	88.06
+pomegranate	24.77	20.65	20.64	25.9	88.37	6.13	137.74	Uttar Pradesh	Zaid	227.99
+pomegranate	24.59	20.0	18.14	21.91	90.85	5.76	126.99	Tamil Nadu	Post-Monsoon	269.99
+pomegranate	20.04	20.02	22.75	18.24	94.37	6.45	134.75	Uttar Pradesh	Zaid	56.75
+pomegranate	21.82	15.79	21.26	27.53	89.85	5.93	127.26	West Bengal	Rabi	298.09
+pomegranate	20.02	24.92	21.09	23.23	94.15	6.39	105.25	Tamil Nadu	Zaid	190.81
+pomegranate	24.4	15.4	22.13	24.83	89.91	7.49	124.28	West Bengal	Post-Monsoon	38.25
+pomegranate	15.15	22.66	18.1	26.68	94.38	7.29	119.96	Karnataka	Zaid	59.22
+pomegranate	17.96	15.68	20.77	21.53	88.57	6.92	118.43	Karnataka	Zaid	231.31
+pomegranate	19.42	24.24	24.4	27.72	91.91	6.23	111.47	Karnataka	Rabi	137.84
+pomegranate	20.12	21.25	18.14	18.83	91.31	6.4	135.1	Punjab	Kharif	189.98
+pomegranate	21.44	22.41	17.45	26.21	88.06	7.21	111.63	West Bengal	Post-Monsoon	257.61
+pomegranate	17.23	23.74	21.69	21.49	91.75	6.57	132.73	Uttar Pradesh	Kharif	62.28
+pomegranate	16.08	24.6	18.97	22.33	91.21	5.63	113.7	Maharashtra	Post-Monsoon	71.66
+pomegranate	22.41	16.14	19.55	23.45	95.59	5.79	108.54	Maharashtra	Kharif	296.47
+pomegranate	22.74	15.62	23.09	25.9	95.83	5.93	108.46	Uttar Pradesh	Post-Monsoon	88.26
+pomegranate	21.36	15.84	15.69	22.05	90.39	6.92	134.85	Maharashtra	Rabi	204.2
+pomegranate	17.59	23.31	15.92	27.02	90.74	7.01	106.58	Tamil Nadu	Post-Monsoon	149.67
+pomegranate	20.36	22.84	24.66	22.37	95.3	6.64	132.92	Maharashtra	Rabi	32.56
+pomegranate	21.68	21.17	18.24	27.86	95.51	6.99	129.47	Tamil Nadu	Kharif	53.65
+pomegranate	19.59	16.47	23.64	19.14	95.76	6.31	120.83	Uttar Pradesh	Post-Monsoon	283.56
+pomegranate	23.57	21.34	21.39	23.78	88.29	6.99	107.51	Punjab	Rabi	184.27
+pomegranate	17.16	17.1	16.91	24.8	95.64	6.24	114.55	Tamil Nadu	Zaid	155.6
+pomegranate	23.68	21.99	21.49	22.56	91.28	6.2	121.7	Maharashtra	Zaid	42.88
+pomegranate	16.76	19.28	16.77	23.95	92.34	6.26	133.8	Punjab	Post-Monsoon	193.89
+pomegranate	22.02	24.38	24.06	18.99	88.7	7.17	103.59	Uttar Pradesh	Post-Monsoon	40.07
+pomegranate	22.5	21.24	20.45	24.34	92.03	7.11	126.71	Karnataka	Rabi	74.64
+pomegranate	19.55	18.81	16.96	22.7	89.0	7.44	136.56	Karnataka	Post-Monsoon	12.21
+pomegranate	18.75	17.24	17.84	26.8	90.12	7.18	131.81	Karnataka	Rabi	11.21
+pomegranate	24.09	15.33	15.26	25.91	94.73	6.54	129.65	Tamil Nadu	Zaid	59.42
+pomegranate	20.72	19.3	20.56	21.91	92.93	6.29	102.06	Maharashtra	Post-Monsoon	47.37
+pomegranate	21.36	24.77	16.74	27.04	92.14	6.37	103.98	West Bengal	Kharif	193.12
+pomegranate	22.84	23.43	21.27	20.6	92.42	7.4	108.15	Uttar Pradesh	Kharif	136.85
+pomegranate	21.29	20.93	15.28	25.08	95.36	5.66	115.3	Punjab	Rabi	295.19
+pomegranate	21.34	22.78	16.87	24.53	89.77	5.89	133.62	Punjab	Post-Monsoon	233.41
+pomegranate	21.59	17.75	24.35	24.27	93.11	6.66	104.14	Karnataka	Kharif	41.05
+pomegranate	17.82	23.95	15.93	22.94	90.89	7.18	115.63	Karnataka	Kharif	129.99
+pomegranate	19.87	21.26	17.1	22.2	95.12	6.77	118.04	West Bengal	Rabi	96.64
+pomegranate	24.04	21.6	21.31	26.55	88.94	6.19	113.87	Maharashtra	Kharif	55.93
+pomegranate	22.42	24.27	16.93	18.3	88.18	6.52	106.09	Tamil Nadu	Kharif	270.59
+pomegranate	15.29	16.39	15.83	24.92	89.01	6.05	107.97	Uttar Pradesh	Zaid	215.34
+pomegranate	21.52	19.67	23.09	22.36	95.57	7.34	110.0	West Bengal	Zaid	288.94
+pomegranate	16.03	22.93	20.88	19.66	89.65	6.94	117.34	Karnataka	Post-Monsoon	182.94
+pomegranate	17.72	18.19	16.08	21.83	89.6	6.21	135.92	Uttar Pradesh	Post-Monsoon	58.5
+pomegranate	15.34	20.11	20.87	20.93	94.61	6.79	138.61	Tamil Nadu	Post-Monsoon	18.68
+pomegranate	16.8	18.23	22.91	21.58	88.58	6.81	114.88	Tamil Nadu	Kharif	12.79
+pomegranate	21.88	22.17	17.14	23.67	90.57	5.97	102.65	Tamil Nadu	Rabi	162.91
+pomegranate	16.03	17.78	21.08	26.83	94.88	5.65	135.71	Karnataka	Post-Monsoon	102.16
+pomegranate	18.2	16.97	23.03	22.99	95.92	6.34	104.96	West Bengal	Zaid	181.44
+pomegranate	17.36	15.21	15.18	25.83	92.61	5.51	118.47	West Bengal	Post-Monsoon	20.73
+pomegranate	20.33	20.28	18.37	18.16	91.76	7.16	116.6	Tamil Nadu	Zaid	101.99
+pomegranate	18.46	15.8	22.75	22.94	88.38	6.1	139.36	Karnataka	Kharif	254.49
+pomegranate	24.38	16.03	17.24	26.25	89.11	7.49	134.46	Punjab	Post-Monsoon	75.64
+pomegranate	15.88	22.24	23.12	26.16	92.3	5.51	127.53	Uttar Pradesh	Zaid	266.16
+pomegranate	15.43	15.48	18.04	20.64	93.5	7.08	115.18	Punjab	Rabi	278.21
+pomegranate	20.83	16.2	18.19	19.48	92.67	7.2	135.82	Punjab	Post-Monsoon	203.79
+pomegranate	20.22	17.41	19.78	22.9	90.24	7.05	119.31	Uttar Pradesh	Zaid	232.2
+pomegranate	22.11	18.53	23.36	20.42	93.18	7.21	127.8	Uttar Pradesh	Post-Monsoon	27.48
+pomegranate	15.13	17.16	23.19	19.88	88.84	5.92	123.62	Maharashtra	Zaid	230.54
+pomegranate	18.12	19.54	16.54	23.05	95.31	5.94	114.55	Karnataka	Rabi	236.21
+pomegranate	16.88	17.78	16.64	21.07	94.96	6.8	105.89	Uttar Pradesh	Kharif	79.76
+pomegranate	23.94	16.87	15.29	24.62	91.62	6.03	137.08	Uttar Pradesh	Zaid	135.13
+pomegranate	16.51	20.02	20.08	18.53	90.18	5.7	125.94	Punjab	Post-Monsoon	66.24
+pomegranate	16.89	16.77	17.76	24.07	92.15	5.72	101.99	West Bengal	Kharif	73.68
+pomegranate	15.53	15.36	17.66	18.66	88.81	5.95	124.81	Punjab	Post-Monsoon	123.65
+pomegranate	16.01	22.34	23.8	20.68	89.65	7.07	113.91	Tamil Nadu	Zaid	222.83
+pomegranate	15.94	20.03	22.0	22.77	90.44	7.31	109.54	Tamil Nadu	Kharif	58.33
+pomegranate	18.32	19.55	24.62	24.66	91.42	5.54	138.97	Uttar Pradesh	Rabi	206.97
+pomegranate	23.53	20.94	24.7	23.83	91.91	6.0	104.38	Uttar Pradesh	Zaid	252.25
+pomegranate	20.25	16.67	16.47	18.94	90.44	6.97	118.1	Punjab	Zaid	297.04
+banana	98.86	79.73	48.64	25.14	78.53	6.57	144.57	Punjab	Post-Monsoon	42.7
+banana	105.29	84.56	45.21	34.79	83.56	6.49	107.08	Karnataka	Kharif	80.87
+banana	106.12	89.47	48.59	32.44	76.94	6.93	131.94	Tamil Nadu	Post-Monsoon	296.33
+banana	108.14	73.5	54.1	28.49	78.31	6.38	147.26	Tamil Nadu	Zaid	65.27
+banana	103.69	84.04	53.34	26.23	82.95	6.35	139.63	Tamil Nadu	Zaid	41.96
+banana	95.13	88.54	46.47	31.81	80.23	5.93	127.91	West Bengal	Zaid	151.18
+banana	95.97	75.89	49.54	27.17	83.25	5.69	124.42	Uttar Pradesh	Post-Monsoon	112.15
+banana	107.51	71.0	46.38	33.79	82.85	6.25	147.93	Maharashtra	Rabi	286.57
+banana	105.7	72.85	52.33	29.32	84.18	5.94	101.61	Tamil Nadu	Rabi	245.4
+banana	104.56	78.45	54.67	25.98	77.61	5.95	115.54	Maharashtra	Post-Monsoon	206.89
+banana	99.84	81.56	51.83	27.0	76.36	6.33	115.05	Uttar Pradesh	Zaid	174.33
+banana	104.42	80.92	48.76	33.76	79.37	5.71	122.1	Tamil Nadu	Zaid	145.83
+banana	101.42	78.41	49.1	25.28	80.59	6.94	121.05	West Bengal	Zaid	238.12
+banana	103.7	77.46	51.21	34.0	83.78	5.58	142.26	West Bengal	Post-Monsoon	204.32
+banana	101.94	85.26	50.18	33.39	75.85	5.91	149.31	Uttar Pradesh	Zaid	182.36
+banana	107.33	81.31	51.91	33.64	76.21	6.38	125.54	Punjab	Kharif	213.46
+banana	102.74	81.24	54.67	26.36	83.95	6.46	107.74	Punjab	Zaid	218.55
+banana	109.05	86.11	51.24	27.01	75.67	5.73	143.99	Maharashtra	Kharif	81.69
+banana	96.55	70.49	50.06	28.91	84.26	5.95	124.19	West Bengal	Rabi	254.1
+banana	103.2	86.43	51.81	33.59	81.17	6.15	131.81	West Bengal	Rabi	247.38
+banana	104.86	73.42	52.42	30.47	79.76	5.94	133.38	Maharashtra	Post-Monsoon	116.53
+banana	99.13	77.72	53.0	29.64	83.13	5.72	114.17	Uttar Pradesh	Post-Monsoon	13.2
+banana	99.54	82.9	53.93	31.2	75.43	6.86	148.14	Karnataka	Post-Monsoon	90.3
+banana	109.73	77.15	53.56	30.03	78.49	6.56	119.53	Uttar Pradesh	Rabi	200.22
+banana	100.28	84.38	48.39	32.15	82.87	5.92	138.13	Tamil Nadu	Post-Monsoon	29.78
+banana	107.59	79.67	54.63	31.06	76.8	6.56	125.35	Punjab	Zaid	47.53
+banana	99.86	89.1	48.48	31.17	79.04	5.57	142.6	West Bengal	Rabi	38.0
+banana	96.59	88.68	49.76	32.6	84.81	6.71	136.63	West Bengal	Kharif	270.94
+banana	97.61	87.85	52.56	29.2	75.64	6.42	105.72	Punjab	Kharif	138.04
+banana	100.61	82.63	45.29	26.74	76.08	6.17	106.66	Punjab	Rabi	66.76
+banana	102.37	83.58	47.25	32.42	79.34	6.29	139.5	Uttar Pradesh	Kharif	192.44
+banana	105.03	74.07	53.1	33.93	78.6	6.11	127.33	Uttar Pradesh	Zaid	63.74
+banana	105.95	88.22	51.42	29.96	83.32	6.36	123.69	Tamil Nadu	Zaid	189.36
+banana	103.38	72.76	45.67	29.28	78.76	5.61	103.91	Maharashtra	Zaid	39.26
+banana	102.48	71.03	50.41	25.23	83.21	5.93	141.41	Karnataka	Zaid	29.71
+banana	108.07	89.36	45.75	30.75	83.53	6.9	125.0	Karnataka	Kharif	168.32
+banana	108.38	81.66	54.37	34.85	81.53	5.55	121.07	West Bengal	Zaid	267.53
+banana	95.89	74.08	53.17	28.3	82.57	6.87	103.12	Karnataka	Kharif	243.64
+banana	103.46	82.2	53.35	33.07	78.46	5.61	120.81	Punjab	Kharif	267.38
+banana	102.18	72.59	52.23	26.04	79.97	5.84	117.51	Karnataka	Zaid	236.65
+banana	108.15	74.56	54.31	25.26	82.82	5.79	130.41	Karnataka	Kharif	170.22
+banana	95.78	85.31	51.95	29.3	79.27	5.71	121.9	Maharashtra	Zaid	112.02
+banana	100.15	88.36	47.38	25.92	75.1	6.12	137.63	Maharashtra	Kharif	297.37
+banana	95.22	84.4	53.13	25.77	76.27	5.77	102.19	Tamil Nadu	Rabi	299.45
+banana	96.95	77.96	51.58	31.57	75.76	6.91	110.29	Punjab	Zaid	270.32
+banana	107.88	78.87	48.03	28.67	80.51	6.8	112.21	Tamil Nadu	Zaid	212.35
+banana	102.55	71.08	54.0	32.06	81.22	5.92	110.18	West Bengal	Rabi	98.43
+banana	103.29	72.45	52.25	32.88	75.36	5.85	122.01	Karnataka	Kharif	16.17
+banana	107.54	75.41	50.88	28.0	84.65	5.59	142.73	Karnataka	Post-Monsoon	15.47
+banana	100.74	78.88	47.24	28.79	81.6	6.3	133.02	Uttar Pradesh	Zaid	281.79
+banana	108.65	85.09	48.36	33.28	77.63	6.63	110.83	Uttar Pradesh	Zaid	220.48
+banana	104.32	87.31	52.83	34.29	82.52	6.71	127.66	Punjab	Zaid	258.97
+banana	109.07	79.27	50.73	30.68	80.19	5.74	119.06	Punjab	Rabi	48.24
+banana	95.23	85.99	54.51	25.86	77.5	6.31	116.88	Karnataka	Kharif	188.51
+banana	100.43	83.18	52.82	33.1	81.08	5.69	128.42	Tamil Nadu	Zaid	255.8
+banana	101.66	70.35	45.09	25.37	78.59	6.46	127.83	Karnataka	Kharif	178.08
+banana	96.19	87.94	50.51	34.53	79.4	5.89	139.34	Tamil Nadu	Post-Monsoon	46.89
+banana	104.46	72.94	51.18	25.5	76.14	5.56	134.22	Karnataka	Zaid	22.17
+banana	105.76	71.22	52.15	27.59	77.57	6.52	142.87	Tamil Nadu	Kharif	184.17
+banana	100.25	71.55	49.44	30.11	77.37	5.99	118.57	Punjab	Post-Monsoon	30.7
+banana	101.4	75.66	45.25	31.07	78.6	6.96	144.87	Tamil Nadu	Post-Monsoon	283.32
+banana	99.41	70.62	48.68	27.91	76.5	6.39	105.31	West Bengal	Zaid	158.13
+banana	106.71	80.16	50.81	28.44	77.15	6.75	101.63	Punjab	Rabi	120.52
+banana	109.97	71.57	45.77	34.36	77.25	6.26	128.72	Maharashtra	Post-Monsoon	166.3
+banana	96.82	87.57	52.98	31.07	81.59	6.28	115.85	West Bengal	Zaid	274.21
+banana	99.93	85.98	54.77	27.31	78.15	6.96	134.65	Karnataka	Post-Monsoon	114.95
+banana	100.28	80.11	54.15	31.53	81.05	6.17	120.94	Maharashtra	Rabi	278.46
+banana	98.67	88.19	51.74	31.66	81.06	6.69	117.08	Uttar Pradesh	Kharif	128.47
+banana	102.58	72.97	49.94	33.81	76.98	5.77	122.7	West Bengal	Kharif	131.4
+banana	106.48	84.23	49.7	26.01	83.69	6.75	101.2	West Bengal	Kharif	48.39
+banana	108.0	88.37	54.04	28.54	79.02	6.34	135.6	Uttar Pradesh	Zaid	270.25
+banana	108.48	81.83	51.17	34.94	75.45	6.61	117.75	Karnataka	Post-Monsoon	192.94
+banana	106.11	78.71	52.58	32.0	82.33	6.59	129.48	Maharashtra	Kharif	54.15
+banana	95.12	81.86	51.74	29.54	78.2	5.77	136.13	Tamil Nadu	Kharif	77.36
+banana	102.4	70.97	50.18	30.25	80.08	6.89	114.26	Karnataka	Zaid	229.62
+banana	109.3	70.84	54.45	33.82	82.31	6.15	113.91	Maharashtra	Zaid	38.85
+banana	99.27	72.37	47.74	29.39	83.85	5.93	145.88	Maharashtra	Kharif	278.11
+banana	105.0	72.82	47.07	33.39	82.55	5.54	145.13	Maharashtra	Rabi	11.93
+banana	107.49	70.52	47.03	34.42	80.71	6.6	126.04	Karnataka	Zaid	276.22
+banana	105.74	88.38	46.2	33.89	79.93	5.63	106.84	Tamil Nadu	Kharif	290.85
+banana	107.05	84.89	47.22	25.74	76.57	6.0	122.67	Punjab	Kharif	214.97
+banana	99.72	88.49	49.33	34.32	82.94	5.98	142.07	Punjab	Kharif	285.26
+banana	104.41	74.92	50.86	33.72	77.2	5.79	123.51	Karnataka	Rabi	222.73
+banana	99.24	73.97	53.76	34.51	83.57	6.62	100.16	Uttar Pradesh	Post-Monsoon	171.74
+banana	98.13	73.56	49.18	27.63	78.8	6.38	131.89	Karnataka	Rabi	264.59
+banana	107.61	87.5	51.68	29.9	81.3	6.4	127.17	Tamil Nadu	Kharif	73.49
+banana	109.44	87.94	52.64	29.2	79.47	5.87	121.24	West Bengal	Post-Monsoon	287.33
+banana	104.91	76.95	48.98	26.28	83.82	6.76	143.2	Maharashtra	Post-Monsoon	209.29
+banana	95.43	75.36	47.15	33.51	79.09	6.34	116.16	Punjab	Zaid	129.26
+banana	107.14	78.5	47.61	25.55	79.86	5.83	131.81	Uttar Pradesh	Zaid	139.81
+banana	98.32	87.51	50.36	32.8	76.1	6.95	130.54	West Bengal	Kharif	285.58
+banana	95.32	77.58	52.8	28.33	78.53	6.65	103.17	Uttar Pradesh	Rabi	115.01
+banana	97.98	73.14	50.36	33.6	77.29	6.7	145.53	Tamil Nadu	Post-Monsoon	72.53
+banana	106.0	88.8	45.36	25.2	84.4	5.65	119.9	Karnataka	Kharif	55.51
+banana	99.52	74.6	52.72	27.47	77.72	5.69	139.2	Punjab	Post-Monsoon	48.05
+banana	106.11	75.4	45.85	25.74	82.22	6.64	120.77	Uttar Pradesh	Rabi	37.71
+banana	103.82	77.82	53.31	33.59	82.85	6.14	137.17	Tamil Nadu	Zaid	143.08
+banana	96.5	89.39	50.76	28.77	79.3	5.83	120.32	Tamil Nadu	Post-Monsoon	92.48
+banana	105.54	80.13	48.82	34.93	82.28	6.93	138.14	Punjab	Kharif	141.16
+banana	103.67	70.5	52.71	29.47	79.77	5.66	115.53	West Bengal	Kharif	37.66
+mango	16.69	23.65	19.9	27.5	46.41	6.73	99.47	Punjab	Rabi	27.09
+mango	19.93	19.12	22.41	33.34	45.37	6.88	101.97	Uttar Pradesh	Zaid	210.22
+mango	22.55	22.95	20.46	28.13	51.52	6.14	104.18	Maharashtra	Kharif	277.16
+mango	19.26	15.78	16.27	25.14	50.2	5.74	93.95	Uttar Pradesh	Kharif	266.8
+mango	19.95	21.26	20.25	26.4	53.74	6.34	90.19	Uttar Pradesh	Post-Monsoon	298.77
+mango	22.2	23.8	17.71	28.22	53.9	6.63	93.32	Tamil Nadu	Rabi	242.82
+mango	24.52	18.71	21.05	29.72	47.11	6.16	104.94	West Bengal	Rabi	162.07
+mango	23.29	15.1	19.16	26.5	45.67	7.45	96.24	West Bengal	Rabi	211.27
+mango	20.38	18.31	15.61	29.69	46.56	6.2	101.18	West Bengal	Zaid	192.36
+mango	24.28	17.75	23.21	33.68	50.84	6.11	102.49	Karnataka	Zaid	172.72
+mango	21.42	17.03	20.93	26.03	47.16	5.86	101.27	West Bengal	Post-Monsoon	105.75
+mango	22.72	20.92	17.77	33.07	53.71	6.84	99.47	West Bengal	Kharif	237.18
+mango	24.89	15.91	23.03	26.46	46.65	7.25	96.47	Uttar Pradesh	Rabi	158.39
+mango	19.4	21.65	18.27	30.0	46.17	6.62	97.55	Karnataka	Post-Monsoon	112.95
+mango	23.39	18.17	15.78	31.05	47.14	5.83	102.68	Tamil Nadu	Rabi	253.56
+mango	20.6	19.9	22.89	31.85	50.58	6.37	96.96	Uttar Pradesh	Zaid	258.06
+mango	22.71	18.46	19.24	31.17	53.76	7.34	93.82	Tamil Nadu	Rabi	280.63
+mango	24.95	16.96	18.61	26.95	50.86	6.16	108.22	Tamil Nadu	Kharif	185.96
+mango	15.34	17.75	19.79	25.44	51.95	6.01	102.51	Maharashtra	Kharif	260.32
+mango	24.28	24.97	21.32	29.9	49.73	7.25	105.01	Uttar Pradesh	Kharif	117.16
+mango	21.13	22.13	22.06	26.77	53.51	5.67	106.68	Uttar Pradesh	Kharif	138.58
+mango	22.11	18.14	23.58	27.77	53.53	6.81	104.75	Tamil Nadu	Zaid	270.34
+mango	16.69	24.86	22.22	28.66	45.14	6.83	98.33	Punjab	Kharif	28.84
+mango	23.25	20.02	22.29	25.84	49.43	6.05	93.97	Maharashtra	Post-Monsoon	60.16
+mango	22.47	23.38	15.03	27.74	48.51	6.18	101.36	Punjab	Kharif	174.19
+mango	19.63	16.16	15.91	32.3	46.86	6.68	109.32	West Bengal	Kharif	73.08
+mango	18.75	15.81	22.24	27.47	53.37	6.78	108.03	West Bengal	Rabi	100.04
+mango	18.79	17.87	17.79	30.65	49.14	7.17	95.46	West Bengal	Rabi	293.99
+mango	17.59	19.4	15.92	28.55	48.64	7.04	100.46	Punjab	Rabi	20.65
+mango	23.35	18.86	20.38	27.11	52.02	6.19	106.22	Tamil Nadu	Rabi	109.23
+mango	24.68	20.52	22.43	27.69	50.13	5.92	94.37	Tamil Nadu	Kharif	277.36
+mango	20.17	21.31	19.75	29.67	48.23	6.63	103.17	Uttar Pradesh	Zaid	213.37
+mango	21.29	23.69	15.08	29.21	48.35	6.8	92.0	Tamil Nadu	Zaid	57.2
+mango	20.47	22.52	19.39	31.17	50.94	6.89	104.62	Karnataka	Rabi	83.25
+mango	18.73	18.38	21.79	28.0	54.71	7.25	105.26	Maharashtra	Kharif	132.09
+mango	22.74	24.54	19.01	25.29	50.12	7.34	107.73	Punjab	Rabi	285.93
+mango	20.68	16.4	21.63	32.89	45.54	5.68	105.86	West Bengal	Zaid	143.03
+mango	16.65	15.01	16.47	33.83	48.01	5.66	94.72	West Bengal	Post-Monsoon	36.15
+mango	17.45	21.85	23.46	28.74	49.77	6.19	99.42	Punjab	Post-Monsoon	212.65
+mango	24.13	21.68	23.31	32.06	52.63	5.69	92.57	West Bengal	Post-Monsoon	234.25
+mango	23.98	23.2	22.3	29.25	48.94	5.64	99.77	Punjab	Kharif	74.29
+mango	21.09	22.68	18.69	28.4	53.23	6.72	105.03	Uttar Pradesh	Rabi	50.04
+mango	16.88	17.11	19.35	28.4	51.54	6.35	95.7	Karnataka	Post-Monsoon	20.1
+mango	24.59	19.22	16.64	31.82	53.34	6.43	91.65	Punjab	Kharif	200.2
+mango	19.04	23.07	16.61	26.29	50.07	6.87	90.23	Punjab	Post-Monsoon	132.51
+mango	15.55	19.25	22.42	26.16	53.07	7.32	100.04	Karnataka	Zaid	254.81
+mango	24.72	16.12	16.79	29.24	52.6	7.24	91.6	Uttar Pradesh	Zaid	284.98
+mango	22.08	17.58	20.15	31.15	53.72	6.37	99.3	Uttar Pradesh	Kharif	261.69
+mango	19.6	15.5	20.99	28.69	49.26	6.85	105.34	Uttar Pradesh	Zaid	61.83
+mango	18.57	15.18	18.25	31.36	50.96	6.21	90.73	Punjab	Post-Monsoon	82.1
+mango	15.84	15.95	22.27	31.33	49.31	6.05	109.44	Punjab	Rabi	276.44
+mango	24.04	24.32	23.2	30.69	45.41	6.15	90.77	Maharashtra	Kharif	120.75
+mango	24.8	15.79	24.27	32.49	49.23	5.54	109.01	Tamil Nadu	Kharif	252.69
+mango	19.33	16.16	16.92	27.61	48.03	6.53	107.08	West Bengal	Kharif	118.53
+mango	19.73	22.61	19.37	32.47	52.78	6.05	103.43	Maharashtra	Post-Monsoon	273.83
+mango	21.78	17.73	19.07	25.19	49.14	5.76	95.34	Maharashtra	Zaid	38.17
+mango	17.25	22.09	17.21	31.11	52.28	6.72	99.21	Karnataka	Zaid	167.02
+mango	19.76	20.58	18.43	28.2	53.23	5.8	107.09	Karnataka	Rabi	164.35
+mango	16.7	18.9	19.03	31.61	50.71	5.66	99.73	Tamil Nadu	Kharif	70.19
+mango	24.85	18.69	17.92	28.15	51.75	5.56	102.5	West Bengal	Zaid	173.82
+mango	19.15	22.65	22.51	27.84	52.44	7.48	97.51	Maharashtra	Rabi	119.74
+mango	24.49	16.23	18.96	27.11	46.11	6.08	107.3	Punjab	Post-Monsoon	169.52
+mango	18.52	17.18	24.0	27.79	52.7	6.76	103.28	Punjab	Zaid	155.67
+mango	20.33	17.25	19.04	32.57	47.86	7.35	93.14	West Bengal	Post-Monsoon	93.64
+mango	20.33	18.34	19.64	26.72	54.07	6.27	103.06	Karnataka	Post-Monsoon	64.77
+mango	15.29	17.24	21.1	30.03	45.81	6.64	98.18	Uttar Pradesh	Zaid	186.85
+mango	16.66	21.25	21.84	34.52	45.23	6.7	105.8	Karnataka	Rabi	256.59
+mango	16.61	18.69	23.75	26.75	54.37	7.34	96.45	Tamil Nadu	Kharif	269.39
+mango	17.07	19.61	17.45	31.03	54.9	7.09	109.46	Maharashtra	Kharif	243.07
+mango	23.38	23.72	24.09	27.45	52.22	5.64	104.97	Punjab	Post-Monsoon	261.45
+mango	24.96	23.62	15.7	29.17	47.6	6.93	92.42	Maharashtra	Kharif	137.17
+mango	23.28	15.6	23.12	33.28	52.25	5.58	97.99	Maharashtra	Post-Monsoon	134.29
+mango	16.24	16.46	17.62	33.25	52.54	5.72	93.38	Karnataka	Zaid	51.17
+mango	17.43	19.83	17.65	28.3	51.94	6.42	104.18	West Bengal	Zaid	109.31
+mango	21.89	18.31	19.5	27.58	47.75	5.57	92.8	Maharashtra	Zaid	17.52
+mango	23.8	20.64	22.14	28.07	52.16	6.64	96.09	Punjab	Post-Monsoon	205.25
+mango	16.54	23.05	16.29	31.07	53.59	6.01	94.56	West Bengal	Zaid	53.03
+mango	15.12	18.64	20.09	33.7	50.17	6.45	108.0	Tamil Nadu	Rabi	180.27
+mango	20.01	20.23	18.78	34.26	51.48	7.24	99.64	Karnataka	Post-Monsoon	14.13
+mango	24.47	18.42	18.09	27.24	47.78	7.06	105.79	Punjab	Rabi	113.39
+mango	19.59	24.13	24.06	33.4	53.46	7.07	100.48	West Bengal	Rabi	115.43
+mango	15.33	21.26	24.52	30.07	47.71	7.42	106.93	Maharashtra	Kharif	291.43
+mango	15.56	20.67	17.48	27.56	52.39	6.88	103.02	West Bengal	Rabi	209.99
+mango	19.56	15.4	21.09	30.52	45.91	5.88	106.61	Uttar Pradesh	Rabi	161.54
+mango	15.61	17.28	20.86	30.81	49.64	6.57	105.63	Tamil Nadu	Kharif	66.96
+mango	16.16	15.83	16.97	30.42	47.15	6.47	101.39	Maharashtra	Post-Monsoon	259.73
+mango	16.12	23.87	22.77	26.95	53.06	6.73	99.13	Uttar Pradesh	Zaid	228.82
+mango	21.01	19.93	16.77	30.07	50.14	7.4	95.99	Maharashtra	Rabi	108.93
+mango	21.78	20.03	21.26	26.11	52.57	5.86	90.13	Maharashtra	Post-Monsoon	153.78
+mango	16.79	22.6	21.73	25.95	53.62	6.18	103.74	West Bengal	Rabi	235.85
+mango	22.63	17.13	20.02	28.2	50.3	5.71	96.0	Maharashtra	Rabi	175.59
+mango	16.55	16.56	22.66	32.86	53.52	6.72	93.14	Maharashtra	Post-Monsoon	199.51
+mango	22.89	22.8	17.69	34.33	49.72	7.21	96.07	West Bengal	Zaid	106.78
+mango	18.54	22.45	19.5	29.25	48.94	6.33	105.24	Karnataka	Kharif	290.92
+mango	18.54	23.05	24.75	32.67	45.19	6.91	94.17	Punjab	Zaid	95.49
+mango	18.73	18.22	22.91	28.26	50.6	5.9	94.3	Maharashtra	Post-Monsoon	258.36
+mango	16.07	17.43	18.25	29.8	52.21	6.44	109.42	Uttar Pradesh	Post-Monsoon	209.46
+mango	24.09	19.87	17.8	31.07	48.75	5.7	102.79	Tamil Nadu	Zaid	137.06
+mango	17.84	19.72	23.81	25.74	54.77	6.96	106.49	West Bengal	Zaid	176.49
+mango	20.62	19.38	18.28	30.47	51.61	6.61	106.35	Punjab	Kharif	50.74
+grapes	22.7	23.71	21.99	15.39	89.57	6.04	72.73	Punjab	Rabi	63.4
+grapes	19.68	19.61	18.33	14.78	87.04	5.88	72.48	Uttar Pradesh	Rabi	44.57
+grapes	19.11	18.96	19.86	8.48	85.28	6.87	70.12	Uttar Pradesh	Post-Monsoon	298.74
+grapes	24.6	23.73	18.27	13.39	82.83	6.0	65.67	Uttar Pradesh	Kharif	292.53
+grapes	22.81	20.32	22.99	16.46	80.88	6.88	71.1	West Bengal	Kharif	232.46
+grapes	19.31	17.77	19.51	16.81	87.39	6.48	65.73	Punjab	Zaid	141.67
+grapes	22.81	22.39	24.49	16.89	84.01	5.94	71.24	Karnataka	Kharif	12.48
+grapes	18.22	16.5	23.56	13.84	87.68	6.3	71.54	West Bengal	Zaid	269.04
+grapes	22.15	20.77	16.89	9.48	83.08	5.65	70.33	Uttar Pradesh	Rabi	166.62
+grapes	24.55	18.27	18.15	10.3	82.09	5.95	69.24	Tamil Nadu	Rabi	281.53
+grapes	17.17	18.55	16.37	16.99	84.4	6.75	68.75	Karnataka	Rabi	120.32
+grapes	19.47	18.99	17.06	11.81	88.14	5.64	66.75	Maharashtra	Kharif	57.24
+grapes	17.1	24.41	22.41	11.58	89.95	6.12	67.1	Uttar Pradesh	Zaid	148.61
+grapes	20.09	24.45	15.16	11.8	84.2	6.94	66.0	Tamil Nadu	Zaid	252.6
+grapes	19.34	23.48	18.01	18.0	80.84	6.47	68.9	Karnataka	Kharif	285.88
+grapes	17.75	21.47	18.23	9.41	82.49	6.35	66.28	West Bengal	Rabi	211.57
+grapes	22.62	15.61	23.02	16.66	86.61	6.06	69.15	West Bengal	Post-Monsoon	60.0
+grapes	24.36	24.65	22.42	16.1	81.82	6.82	66.09	West Bengal	Kharif	154.29
+grapes	18.06	21.25	24.09	10.65	83.21	6.67	68.32	Karnataka	Kharif	223.14
+grapes	16.44	19.08	20.39	15.63	87.23	5.75	66.0	Tamil Nadu	Rabi	36.72
+grapes	24.88	16.12	19.76	17.83	88.56	6.31	66.34	Maharashtra	Kharif	100.31
+grapes	19.69	24.03	16.28	14.56	83.66	6.42	72.16	Karnataka	Post-Monsoon	227.13
+grapes	23.52	16.96	17.19	9.3	89.42	5.84	65.82	Uttar Pradesh	Post-Monsoon	91.87
+grapes	21.15	17.5	17.51	15.3	83.01	6.57	69.62	Maharashtra	Zaid	230.37
+grapes	16.32	19.22	21.61	13.79	89.35	5.55	74.06	Karnataka	Kharif	240.32
+grapes	24.8	15.14	21.35	16.35	82.38	6.1	65.12	Karnataka	Post-Monsoon	258.73
+grapes	16.88	23.7	24.71	12.06	89.93	6.18	67.63	Karnataka	Kharif	226.04
+grapes	21.55	20.14	18.37	17.97	81.86	6.01	73.72	Maharashtra	Post-Monsoon	202.34
+grapes	21.68	18.42	20.19	8.63	83.65	6.46	74.65	West Bengal	Kharif	75.87
+grapes	19.57	16.11	20.5	10.96	88.73	5.96	69.36	Uttar Pradesh	Rabi	125.29
+grapes	24.41	24.99	16.95	16.4	82.22	5.53	72.33	Tamil Nadu	Rabi	173.24
+grapes	20.31	15.47	20.33	13.39	86.94	7.0	66.67	West Bengal	Kharif	207.32
+grapes	21.35	23.59	17.26	17.31	87.16	6.31	74.55	Karnataka	Rabi	90.74
+grapes	24.59	24.49	17.96	17.01	89.72	6.84	69.68	West Bengal	Zaid	10.1
+grapes	17.51	20.56	18.12	17.23	86.13	6.94	65.59	Karnataka	Rabi	51.7
+grapes	23.22	22.65	23.07	17.51	82.42	6.68	71.46	Karnataka	Rabi	82.09
+grapes	18.5	17.26	24.49	9.4	84.01	6.59	70.86	Punjab	Rabi	69.69
+grapes	16.42	17.75	18.27	14.37	85.21	6.29	72.72	Maharashtra	Post-Monsoon	77.33
+grapes	19.38	23.22	20.41	14.1	81.54	6.82	72.54	Punjab	Zaid	263.82
+grapes	24.49	15.41	23.38	10.55	86.27	6.14	66.68	Punjab	Post-Monsoon	229.95
+grapes	17.25	16.03	24.98	14.03	85.99	6.04	73.69	Punjab	Post-Monsoon	252.65
+grapes	24.63	19.22	21.38	16.65	82.8	6.59	67.76	Tamil Nadu	Zaid	131.7
+grapes	23.36	24.83	15.83	9.01	88.06	5.86	69.95	Maharashtra	Post-Monsoon	203.03
+grapes	16.04	22.81	22.09	13.61	88.37	6.06	70.19	Punjab	Post-Monsoon	22.21
+grapes	16.08	23.38	21.43	8.99	80.95	6.95	67.39	Maharashtra	Post-Monsoon	246.43
+grapes	22.18	15.4	21.47	12.4	84.61	6.8	65.37	Karnataka	Post-Monsoon	204.03
+grapes	15.26	20.67	15.24	17.46	80.99	6.88	73.02	Punjab	Post-Monsoon	256.33
+grapes	17.54	23.18	18.44	17.74	82.49	6.17	65.48	Karnataka	Zaid	232.9
+grapes	16.61	20.58	23.63	14.48	87.41	6.63	72.81	West Bengal	Post-Monsoon	258.43
+grapes	18.34	21.16	22.4	16.36	82.28	6.74	66.01	Punjab	Kharif	195.44
+grapes	18.13	19.97	16.86	11.83	82.65	6.56	68.51	Karnataka	Zaid	228.88
+grapes	24.59	18.23	16.11	13.82	89.09	6.55	70.6	Maharashtra	Rabi	125.41
+grapes	21.96	16.99	15.91	13.98	88.77	6.11	67.63	Punjab	Zaid	164.52
+grapes	18.97	24.21	16.04	17.56	88.15	6.83	67.94	Maharashtra	Kharif	103.91
+grapes	17.25	23.26	17.46	9.55	89.93	5.54	67.24	Punjab	Rabi	81.15
+grapes	17.26	21.48	17.16	8.12	82.44	5.53	71.12	Karnataka	Post-Monsoon	171.33
+grapes	24.98	16.92	16.86	13.19	84.0	6.36	74.02	Karnataka	Zaid	214.96
+grapes	24.82	23.03	17.64	11.7	89.0	6.91	68.2	Tamil Nadu	Kharif	287.85
+grapes	16.34	23.6	24.86	10.47	85.38	5.69	74.81	Maharashtra	Post-Monsoon	165.25
+grapes	16.05	23.26	17.28	11.48	87.02	6.96	73.21	West Bengal	Post-Monsoon	88.05
+grapes	23.37	19.6	19.38	13.91	80.65	6.99	65.22	Karnataka	Kharif	269.79
+grapes	19.77	22.06	15.64	11.54	89.55	5.91	67.52	Punjab	Kharif	216.95
+grapes	19.91	22.04	24.43	17.86	82.15	6.18	70.38	Punjab	Zaid	105.85
+grapes	20.7	23.76	24.46	9.44	85.4	6.52	68.14	Uttar Pradesh	Kharif	216.51
+grapes	18.58	16.2	24.77	14.14	85.3	6.6	72.33	West Bengal	Rabi	252.36
+grapes	15.29	24.29	22.29	11.32	80.94	6.11	72.01	Punjab	Post-Monsoon	243.43
+grapes	18.81	19.74	23.47	9.83	83.11	5.77	69.3	Tamil Nadu	Post-Monsoon	36.31
+grapes	17.61	17.01	18.51	14.47	80.82	6.18	65.94	Tamil Nadu	Kharif	265.0
+grapes	15.61	20.57	21.83	8.95	80.02	6.98	65.13	Tamil Nadu	Post-Monsoon	98.82
+grapes	23.0	20.68	18.75	8.69	81.72	6.45	69.98	Maharashtra	Rabi	292.97
+grapes	15.97	21.83	16.55	11.74	81.77	6.16	73.46	West Bengal	Rabi	246.16
+grapes	19.45	21.22	24.35	16.88	87.94	5.68	74.34	Tamil Nadu	Kharif	111.23
+grapes	16.8	20.18	24.0	12.98	86.04	7.0	74.2	Karnataka	Post-Monsoon	237.38
+grapes	24.44	21.69	15.65	10.46	81.41	6.94	69.91	Karnataka	Kharif	113.91
+grapes	24.17	24.21	23.11	17.1	87.08	6.76	65.99	Maharashtra	Kharif	202.42
+grapes	18.21	20.27	20.75	13.32	83.94	6.32	67.01	Tamil Nadu	Rabi	139.89
+grapes	16.98	24.44	19.26	12.35	80.82	5.54	66.04	Maharashtra	Post-Monsoon	186.8
+grapes	18.06	24.92	22.71	15.71	86.99	6.29	65.42	Uttar Pradesh	Zaid	268.71
+grapes	22.48	20.71	16.73	11.14	80.48	5.54	74.67	Karnataka	Rabi	112.01
+grapes	20.38	23.24	21.84	12.34	85.08	6.77	70.09	Punjab	Kharif	274.09
+grapes	15.99	24.5	23.92	15.12	80.73	5.81	67.07	Punjab	Kharif	23.12
+grapes	18.81	24.0	16.16	10.9	89.04	6.49	74.15	Tamil Nadu	Rabi	296.25
+grapes	23.27	18.72	23.38	8.45	81.42	5.87	71.69	Karnataka	Zaid	69.41
+grapes	23.79	22.37	17.73	14.9	84.16	6.12	67.78	West Bengal	Post-Monsoon	83.49
+grapes	15.1	21.93	15.42	15.67	81.29	6.53	65.71	Uttar Pradesh	Kharif	56.09
+grapes	22.91	15.67	20.37	9.67	87.4	6.93	72.15	Punjab	Post-Monsoon	92.59
+grapes	17.86	23.56	17.61	15.61	83.95	6.83	67.02	Uttar Pradesh	Post-Monsoon	68.23
+grapes	20.18	15.36	19.79	9.11	80.38	6.08	65.84	Punjab	Kharif	80.11
+grapes	21.15	19.38	16.43	13.97	80.41	6.9	72.67	West Bengal	Rabi	220.22
+grapes	15.44	15.14	16.53	16.59	82.51	5.76	69.62	Punjab	Kharif	123.48
+grapes	16.53	17.92	15.64	9.84	81.94	6.49	69.39	Karnataka	Kharif	254.59
+grapes	21.02	17.88	16.61	13.47	83.18	5.67	65.65	Maharashtra	Kharif	189.39
+grapes	16.7	24.33	18.7	9.43	81.04	5.85	68.81	Maharashtra	Kharif	245.97
+grapes	22.69	16.2	17.25	14.28	85.64	5.61	71.49	Karnataka	Post-Monsoon	91.92
+grapes	21.16	19.5	22.48	14.83	86.13	6.02	74.88	Karnataka	Post-Monsoon	276.63
+grapes	16.53	20.36	18.6	9.44	86.37	5.76	74.67	Tamil Nadu	Rabi	116.74
+grapes	15.21	23.05	16.44	12.6	87.11	6.31	67.27	Karnataka	Rabi	253.64
+grapes	18.53	24.42	19.21	12.18	87.33	6.17	68.88	Tamil Nadu	Zaid	104.54
+grapes	18.99	22.23	17.06	10.17	81.91	5.79	73.74	Punjab	Zaid	271.1
+grapes	20.48	22.64	19.08	14.44	82.14	5.71	66.09	Punjab	Post-Monsoon	97.09
+watermelon	107.49	15.75	51.24	25.51	84.17	6.55	46.57	Karnataka	Post-Monsoon	62.29
+watermelon	101.64	14.94	48.86	31.67	84.73	6.75	50.63	West Bengal	Post-Monsoon	176.77
+watermelon	107.01	9.51	48.16	27.46	89.38	6.76	49.87	Maharashtra	Kharif	206.09
+watermelon	106.8	8.86	45.09	33.62	82.53	6.85	48.13	Tamil Nadu	Rabi	225.64
+watermelon	109.37	11.08	45.66	31.23	85.16	6.9	49.47	Tamil Nadu	Rabi	94.02
+watermelon	96.52	13.62	54.01	26.52	86.15	6.53	51.18	West Bengal	Post-Monsoon	212.96
+watermelon	99.22	16.48	47.49	26.13	91.45	6.91	45.97	Uttar Pradesh	Rabi	265.27
+watermelon	102.09	12.77	52.67	30.86	91.88	6.36	49.41	Maharashtra	Rabi	139.73
+watermelon	95.3	12.92	51.72	28.44	85.4	6.09	48.7	West Bengal	Rabi	190.97
+watermelon	105.16	17.17	46.11	34.35	91.6	6.2	51.34	Tamil Nadu	Kharif	112.87
+watermelon	109.75	12.95	51.22	30.9	91.92	6.37	47.53	Maharashtra	Zaid	294.79
+watermelon	108.56	8.23	48.19	26.67	88.49	6.7	47.63	Karnataka	Zaid	21.73
+watermelon	106.25	15.6	49.58	25.8	87.51	6.13	54.78	Maharashtra	Kharif	223.05
+watermelon	95.29	11.81	54.05	28.8	82.36	6.67	51.97	Tamil Nadu	Zaid	242.91
+watermelon	107.8	15.84	49.07	28.42	91.43	6.72	50.52	Karnataka	Zaid	87.34
+watermelon	108.7	17.19	45.85	31.66	85.19	6.51	46.14	West Bengal	Kharif	80.46
+watermelon	97.66	8.65	50.72	27.37	82.87	6.08	52.23	Punjab	Zaid	262.35
+watermelon	104.26	9.56	51.26	33.71	86.61	6.87	52.86	Uttar Pradesh	Kharif	26.29
+watermelon	97.08	17.18	54.27	26.86	89.18	6.09	49.33	Punjab	Rabi	70.96
+watermelon	105.75	11.87	51.25	26.93	90.18	6.71	49.95	Punjab	Rabi	146.07
+watermelon	105.97	13.92	53.61	29.43	87.08	6.08	54.74	Tamil Nadu	Rabi	264.67
+watermelon	103.63	9.89	46.24	32.62	83.88	6.85	52.56	West Bengal	Rabi	124.45
+watermelon	107.54	10.97	49.12	31.41	84.18	6.25	48.45	West Bengal	Kharif	199.9
+watermelon	109.52	10.52	52.54	25.65	82.63	6.34	52.33	Maharashtra	Post-Monsoon	33.19
+watermelon	106.47	15.16	45.12	32.44	82.88	6.59	54.16	Tamil Nadu	Kharif	175.07
+watermelon	105.91	11.19	48.58	33.11	85.7	6.3	49.89	Maharashtra	Rabi	76.15
+watermelon	97.56	14.91	49.1	33.8	85.24	6.8	54.45	Karnataka	Post-Monsoon	261.92
+watermelon	101.97	9.53	52.38	28.86	91.5	6.87	52.88	Karnataka	Rabi	125.83
+watermelon	95.21	15.91	51.62	26.73	87.93	6.18	45.95	Karnataka	Post-Monsoon	53.47
+watermelon	100.06	8.22	48.92	28.04	91.55	6.55	47.28	Karnataka	Post-Monsoon	135.53
+watermelon	109.21	9.6	54.69	25.6	91.61	6.07	48.23	Karnataka	Zaid	51.03
+watermelon	102.78	12.94	47.16	29.91	91.57	6.63	48.39	Tamil Nadu	Post-Monsoon	187.37
+watermelon	103.99	13.3	48.41	28.73	88.89	6.13	50.65	Karnataka	Kharif	15.14
+watermelon	100.55	10.46	54.45	31.88	91.1	6.9	51.34	Karnataka	Zaid	170.95
+watermelon	103.66	11.31	46.94	26.27	85.22	6.63	54.71	West Bengal	Rabi	245.86
+watermelon	98.74	13.63	53.91	28.13	90.81	6.38	46.48	Tamil Nadu	Kharif	163.48
+watermelon	101.94	17.0	54.47	32.28	82.67	6.39	46.93	Tamil Nadu	Rabi	115.5
+watermelon	106.67	12.74	47.23	25.03	85.56	6.62	50.62	Tamil Nadu	Zaid	150.56
+watermelon	99.71	16.83	47.0	33.11	83.88	6.92	51.05	Tamil Nadu	Kharif	223.29
+watermelon	97.92	15.99	47.82	32.91	86.23	6.82	45.11	Tamil Nadu	Rabi	51.78
+watermelon	95.38	14.52	52.62	25.79	86.65	6.91	46.48	Punjab	Post-Monsoon	171.03
+watermelon	103.91	15.58	46.08	27.74	84.76	6.71	49.53	West Bengal	Rabi	103.61
+watermelon	95.25	8.52	48.27	29.77	83.42	6.83	48.75	Uttar Pradesh	Post-Monsoon	197.44
+watermelon	100.93	11.27	53.36	25.35	84.83	6.57	50.69	Maharashtra	Kharif	219.61
+watermelon	105.7	12.97	54.27	26.4	83.02	6.16	52.14	Uttar Pradesh	Zaid	291.97
+watermelon	100.07	12.13	52.51	29.92	87.45	6.52	51.42	Karnataka	Rabi	168.95
+watermelon	96.34	10.07	46.59	32.63	90.69	6.23	45.57	Punjab	Kharif	25.22
+watermelon	107.64	10.26	45.42	27.19	84.33	6.15	53.7	Maharashtra	Zaid	103.66
+watermelon	106.34	14.7	45.19	32.66	86.92	6.67	51.97	Maharashtra	Kharif	21.64
+watermelon	103.85	10.09	50.83	25.07	89.02	6.58	48.68	West Bengal	Post-Monsoon	71.71
+watermelon	103.04	17.15	52.44	27.81	87.56	6.51	46.6	West Bengal	Zaid	107.0
+watermelon	99.91	10.6	46.19	27.85	82.29	6.6	51.51	Maharashtra	Post-Monsoon	69.33
+watermelon	96.69	11.87	46.07	34.33	84.06	6.76	52.36	Tamil Nadu	Rabi	267.13
+watermelon	107.27	11.61	45.54	31.26	87.67	6.88	47.52	Maharashtra	Kharif	99.87
+watermelon	98.25	9.81	48.34	30.0	89.2	6.72	49.58	Karnataka	Rabi	277.04
+watermelon	102.2	13.97	52.95	31.67	91.38	6.08	46.07	Uttar Pradesh	Kharif	189.59
+watermelon	107.86	17.47	54.3	28.03	85.81	6.57	46.59	Uttar Pradesh	Zaid	72.44
+watermelon	97.86	12.23	53.76	25.76	86.17	6.02	52.7	Uttar Pradesh	Zaid	51.13
+watermelon	101.85	17.32	54.83	34.15	83.2	6.64	54.52	Uttar Pradesh	Post-Monsoon	60.63
+watermelon	96.69	15.25	49.55	33.86	88.95	6.27	45.23	Maharashtra	Post-Monsoon	28.35
+watermelon	105.38	10.15	48.98	28.77	82.37	6.43	49.66	West Bengal	Kharif	177.26
+watermelon	95.66	8.63	52.7	27.81	84.82	6.48	53.02	Uttar Pradesh	Zaid	289.32
+watermelon	97.82	14.9	53.1	34.96	82.44	6.56	53.57	Maharashtra	Post-Monsoon	239.67
+watermelon	105.73	15.43	47.87	25.88	85.67	6.82	50.45	Tamil Nadu	Zaid	220.6
+watermelon	103.11	11.21	51.39	29.07	87.8	6.37	54.84	Tamil Nadu	Rabi	246.13
+watermelon	106.27	12.95	50.42	28.6	86.32	6.6	53.85	Tamil Nadu	Zaid	197.18
+watermelon	101.76	13.39	51.8	33.9	85.43	6.92	54.83	West Bengal	Zaid	166.66
+watermelon	107.48	9.59	52.99	26.4	90.16	6.21	51.93	Uttar Pradesh	Post-Monsoon	265.41
+watermelon	109.86	13.44	50.2	30.75	84.55	6.55	54.42	Punjab	Rabi	208.36
+watermelon	106.82	12.89	48.25	33.36	85.73	6.94	50.23	Karnataka	Rabi	177.34
+watermelon	106.25	14.88	54.88	27.26	88.44	6.16	51.94	West Bengal	Kharif	269.02
+watermelon	109.54	16.0	49.95	34.16	88.95	6.31	52.56	Tamil Nadu	Rabi	167.17
+watermelon	96.45	16.14	45.24	25.31	83.21	6.19	52.76	Uttar Pradesh	Kharif	83.5
+watermelon	109.27	12.22	48.58	29.03	88.98	6.3	48.88	West Bengal	Zaid	134.27
+watermelon	103.85	12.78	51.15	25.42	86.91	6.03	48.2	Uttar Pradesh	Zaid	213.18
+watermelon	107.92	11.84	50.39	25.98	88.89	6.62	48.51	Punjab	Post-Monsoon	298.45
+watermelon	100.7	17.63	52.59	25.87	84.52	6.09	47.45	Punjab	Kharif	141.86
+watermelon	106.24	10.41	54.84	25.34	85.1	6.78	53.55	West Bengal	Post-Monsoon	37.54
+watermelon	105.26	13.93	51.75	25.28	87.06	6.07	46.81	Tamil Nadu	Post-Monsoon	242.38
+watermelon	103.03	15.24	47.53	26.18	87.17	6.17	49.52	West Bengal	Kharif	94.18
+watermelon	99.97	9.1	46.55	33.37	83.99	6.49	45.06	Punjab	Rabi	234.01
+watermelon	95.66	9.83	48.4	31.83	90.46	6.23	49.45	Punjab	Kharif	39.45
+watermelon	97.09	15.4	54.47	30.63	86.38	6.37	51.99	Uttar Pradesh	Zaid	194.1
+watermelon	96.59	12.74	47.79	30.57	86.22	6.07	47.63	Punjab	Zaid	147.64
+watermelon	102.61	10.43	54.28	26.38	82.24	6.09	46.87	West Bengal	Post-Monsoon	201.36
+watermelon	103.19	13.57	49.78	34.71	88.56	6.58	46.16	Uttar Pradesh	Rabi	68.71
+watermelon	99.51	15.47	48.91	28.72	87.1	6.01	50.25	Tamil Nadu	Kharif	97.97
+watermelon	107.17	11.2	47.44	29.8	84.14	6.66	49.78	West Bengal	Kharif	60.0
+watermelon	103.3	14.27	53.59	25.71	88.67	6.86	46.45	Uttar Pradesh	Post-Monsoon	158.88
+watermelon	109.81	13.66	47.47	32.53	90.4	6.36	47.25	Tamil Nadu	Post-Monsoon	27.31
+watermelon	101.48	16.71	52.81	25.28	88.72	6.93	48.91	Maharashtra	Rabi	227.1
+watermelon	96.91	14.15	52.9	33.89	88.46	6.76	46.57	Maharashtra	Zaid	154.17
+watermelon	96.13	14.0	49.17	30.62	89.04	6.78	52.73	Uttar Pradesh	Zaid	90.44
+watermelon	99.21	14.5	54.87	28.41	90.36	6.61	54.19	Karnataka	Post-Monsoon	121.97
+watermelon	108.07	14.88	51.95	34.23	88.05	6.66	50.74	Karnataka	Zaid	36.39
+watermelon	102.35	11.42	50.17	31.31	84.52	6.27	47.71	Tamil Nadu	Rabi	100.78
+watermelon	108.59	17.07	50.66	28.49	85.06	6.83	50.18	Karnataka	Zaid	86.53
+watermelon	101.36	14.59	52.68	33.91	83.39	6.77	47.95	Punjab	Zaid	216.66
+watermelon	103.29	10.04	49.63	30.2	83.17	6.72	47.91	West Bengal	Rabi	183.46
+watermelon	104.5	11.37	53.87	33.1	85.75	6.39	52.17	Maharashtra	Post-Monsoon	165.85
+muskmelon	97.2	14.06	47.53	34.67	94.5	7.48	20.03	West Bengal	Zaid	279.06
+muskmelon	101.82	17.91	50.84	27.77	92.54	6.3	20.51	Karnataka	Post-Monsoon	182.63
+muskmelon	102.15	11.87	46.19	26.81	90.89	7.2	20.55	Uttar Pradesh	Zaid	41.16
+muskmelon	103.03	9.27	45.96	32.43	91.39	6.06	26.6	Uttar Pradesh	Kharif	42.32
+muskmelon	109.65	15.2	47.84	27.41	89.76	6.91	27.52	Maharashtra	Zaid	253.82
+muskmelon	97.28	13.54	48.17	27.2	94.45	7.24	22.03	Maharashtra	Kharif	286.8
+muskmelon	96.37	15.4	54.79	27.7	91.89	6.14	28.45	West Bengal	Rabi	143.26
+muskmelon	97.48	9.74	47.2	26.07	89.91	6.46	25.8	Maharashtra	Post-Monsoon	139.39
+muskmelon	98.48	16.47	49.09	29.44	89.2	7.33	28.51	Karnataka	Kharif	166.97
+muskmelon	99.08	16.82	49.92	32.9	92.19	6.48	24.99	Maharashtra	Post-Monsoon	253.08
+muskmelon	104.1	11.73	52.03	31.01	93.59	6.57	27.88	West Bengal	Rabi	101.12
+muskmelon	101.08	10.49	47.91	27.31	92.8	6.7	20.24	Maharashtra	Rabi	197.19
+muskmelon	95.97	15.13	45.22	30.72	90.88	6.03	24.36	Karnataka	Post-Monsoon	35.94
+muskmelon	98.82	10.29	48.67	34.97	91.83	6.25	28.54	Punjab	Rabi	255.31
+muskmelon	109.69	11.65	52.61	25.9	95.33	6.14	26.95	Uttar Pradesh	Zaid	32.98
+muskmelon	108.98	12.53	47.93	33.59	90.23	7.37	22.29	Tamil Nadu	Rabi	160.95
+muskmelon	98.48	8.92	45.52	31.55	94.27	7.43	29.42	West Bengal	Zaid	168.9
+muskmelon	109.13	16.95	47.36	33.08	89.56	7.07	20.67	Uttar Pradesh	Zaid	247.01
+muskmelon	97.68	9.24	49.63	32.61	93.79	6.23	29.32	West Bengal	Kharif	104.39
+muskmelon	97.58	10.72	53.13	30.01	95.16	6.59	21.67	Karnataka	Rabi	255.5
+muskmelon	98.63	14.09	48.67	32.83	91.7	6.68	27.1	Punjab	Rabi	57.01
+muskmelon	104.09	8.42	54.83	26.36	90.3	6.79	24.9	Karnataka	Post-Monsoon	267.75
+muskmelon	102.0	14.47	50.2	32.86	92.62	7.26	24.05	Tamil Nadu	Post-Monsoon	58.4
+muskmelon	107.87	9.26	45.36	25.73	95.96	7.26	21.16	Karnataka	Post-Monsoon	119.02
+muskmelon	100.6	11.15	46.99	25.16	91.48	6.96	21.47	Maharashtra	Rabi	198.23
+muskmelon	99.53	10.44	45.16	27.27	91.51	6.73	24.66	Karnataka	Zaid	265.89
+muskmelon	101.95	12.16	45.51	34.48	95.18	7.38	22.95	Uttar Pradesh	Zaid	144.88
+muskmelon	100.8	14.53	49.33	30.98	90.84	6.77	24.77	Karnataka	Kharif	112.22
+muskmelon	97.9	17.22	46.66	34.92	89.17	7.07	22.7	Uttar Pradesh	Rabi	192.9
+muskmelon	100.57	12.48	48.34	31.13	90.78	6.49	23.68	Maharashtra	Kharif	266.22
+muskmelon	106.38	12.33	50.14	31.66	92.38	7.12	25.06	West Bengal	Post-Monsoon	105.74
+muskmelon	105.71	15.31	51.35	26.44	94.1	6.29	26.17	Tamil Nadu	Post-Monsoon	73.87
+muskmelon	95.66	8.12	46.33	29.18	89.55	7.2	28.83	Karnataka	Zaid	297.22
+muskmelon	98.16	17.91	46.63	25.37	93.82	7.18	22.19	West Bengal	Post-Monsoon	43.13
+muskmelon	105.04	16.12	48.43	32.28	90.98	6.7	29.57	Maharashtra	Zaid	193.14
+muskmelon	99.9	9.56	51.82	32.17	92.16	6.42	25.94	West Bengal	Rabi	246.33
+muskmelon	101.51	10.72	54.4	28.01	95.78	7.49	20.51	Maharashtra	Zaid	242.49
+muskmelon	98.86	16.24	50.55	33.44	89.75	7.43	24.64	West Bengal	Kharif	212.24
+muskmelon	102.59	12.13	49.0	30.67	90.39	6.36	26.23	Punjab	Kharif	234.74
+muskmelon	108.89	8.57	49.06	29.32	91.31	7.47	23.34	Tamil Nadu	Kharif	99.32
+muskmelon	102.3	17.98	54.28	28.96	89.71	6.65	22.35	West Bengal	Rabi	107.47
+muskmelon	103.97	13.93	53.53	26.01	88.66	7.11	21.5	Karnataka	Post-Monsoon	270.01
+muskmelon	109.02	15.94	51.97	26.52	88.41	6.71	20.33	Tamil Nadu	Zaid	206.83
+muskmelon	108.77	15.0	51.66	25.88	89.32	6.46	21.0	Maharashtra	Kharif	296.57
+muskmelon	104.22	16.21	46.92	26.7	91.13	7.49	21.08	Maharashtra	Zaid	188.48
+muskmelon	102.89	16.32	47.84	25.65	92.85	6.39	26.43	Punjab	Kharif	153.96
+muskmelon	98.36	10.84	48.93	28.39	89.3	6.71	24.53	Maharashtra	Zaid	95.16
+muskmelon	105.58	12.01	53.07	27.35	95.88	6.46	23.27	West Bengal	Post-Monsoon	53.13
+muskmelon	97.33	8.79	50.88	26.18	88.86	6.67	21.49	Uttar Pradesh	Zaid	233.41
+muskmelon	105.32	13.79	52.19	29.35	88.98	6.97	29.43	Maharashtra	Zaid	281.86
+muskmelon	98.15	12.73	45.34	26.57	89.53	6.1	20.31	Tamil Nadu	Post-Monsoon	64.1
+muskmelon	102.46	14.58	48.97	32.09	90.59	6.2	23.27	Punjab	Post-Monsoon	200.94
+muskmelon	109.37	15.52	53.68	26.84	94.95	6.25	22.51	Uttar Pradesh	Post-Monsoon	263.9
+muskmelon	100.02	8.42	46.4	30.13	91.96	6.42	22.02	West Bengal	Post-Monsoon	21.15
+muskmelon	95.14	11.61	48.43	31.15	90.7	6.16	27.72	Maharashtra	Rabi	71.21
+muskmelon	99.99	14.59	52.37	30.05	92.25	7.33	29.94	Maharashtra	Rabi	136.13
+muskmelon	109.25	16.0	49.55	32.19	92.38	6.81	27.56	Uttar Pradesh	Zaid	106.46
+muskmelon	101.11	14.27	52.92	29.75	95.03	7.39	29.14	Maharashtra	Rabi	277.7
+muskmelon	107.52	10.23	47.65	33.92	94.82	7.23	26.68	Maharashtra	Zaid	124.5
+muskmelon	95.06	10.29	47.22	33.22	89.91	6.0	20.48	Uttar Pradesh	Zaid	165.22
+muskmelon	108.49	17.4	45.16	33.69	93.86	7.15	27.88	Maharashtra	Kharif	154.02
+muskmelon	103.7	13.34	50.52	32.8	94.84	7.39	23.89	Punjab	Zaid	61.4
+muskmelon	104.84	8.14	49.3	28.29	89.96	6.72	20.99	Punjab	Zaid	59.02
+muskmelon	99.38	10.57	46.62	29.26	93.83	6.54	27.65	Tamil Nadu	Zaid	299.39
+muskmelon	105.37	14.39	45.76	26.56	88.97	7.41	29.54	Uttar Pradesh	Zaid	289.89
+muskmelon	96.7	12.51	46.21	32.66	94.24	6.7	21.22	Punjab	Zaid	237.79
+muskmelon	100.34	8.92	46.76	33.07	92.36	6.38	20.18	Maharashtra	Kharif	297.72
+muskmelon	97.43	11.42	50.22	31.9	89.55	7.49	27.57	Tamil Nadu	Kharif	108.65
+muskmelon	100.84	15.57	46.04	30.12	94.49	6.32	21.9	Punjab	Post-Monsoon	234.3
+muskmelon	106.22	8.67	54.93	27.27	93.26	7.37	24.94	Karnataka	Post-Monsoon	103.44
+muskmelon	100.53	17.0	45.36	26.88	92.57	6.03	26.65	Tamil Nadu	Zaid	130.5
+muskmelon	107.56	17.7	53.62	25.85	94.74	6.89	25.61	Uttar Pradesh	Rabi	147.29
+muskmelon	103.3	13.52	52.62	26.2	94.49	7.18	26.38	West Bengal	Zaid	165.75
+muskmelon	101.38	8.39	46.07	34.39	93.32	7.5	26.96	Karnataka	Rabi	91.39
+muskmelon	107.75	17.81	54.75	28.64	91.99	7.11	24.07	Uttar Pradesh	Zaid	105.05
+muskmelon	105.68	16.7	54.31	31.03	94.81	6.54	20.95	Tamil Nadu	Zaid	102.31
+muskmelon	96.86	13.76	50.82	25.79	88.39	6.47	27.61	Maharashtra	Kharif	245.36
+muskmelon	103.23	13.77	51.9	27.97	92.42	6.45	28.95	Uttar Pradesh	Zaid	276.46
+muskmelon	101.3	14.58	47.69	25.52	88.55	7.42	25.88	Uttar Pradesh	Post-Monsoon	22.33
+muskmelon	107.14	12.06	46.07	26.59	95.52	7.34	22.48	Tamil Nadu	Rabi	63.69
+muskmelon	108.77	15.01	46.04	33.12	91.76	7.09	21.27	Punjab	Rabi	297.0
+muskmelon	95.08	13.23	47.73	32.95	94.21	6.28	25.48	Uttar Pradesh	Post-Monsoon	71.19
+muskmelon	105.0	9.92	50.28	28.44	91.24	6.89	29.11	Tamil Nadu	Zaid	82.22
+muskmelon	107.84	9.25	49.2	31.48	91.98	7.47	24.06	West Bengal	Zaid	210.48
+muskmelon	103.65	16.14	50.8	34.67	89.99	7.07	22.31	West Bengal	Kharif	222.06
+muskmelon	105.26	9.33	47.18	34.59	92.6	6.98	27.17	Punjab	Kharif	129.87
+muskmelon	100.12	12.47	46.47	31.48	88.99	6.55	29.77	Karnataka	Zaid	138.59
+muskmelon	98.02	14.35	47.07	28.53	94.96	7.29	26.62	Karnataka	Post-Monsoon	285.25
+muskmelon	101.56	10.52	49.33	26.59	94.25	7.25	27.48	Maharashtra	Zaid	69.11
+muskmelon	96.66	10.87	47.83	26.77	94.15	6.71	27.63	Uttar Pradesh	Post-Monsoon	110.87
+muskmelon	104.66	12.49	51.88	27.76	91.81	6.59	21.6	West Bengal	Post-Monsoon	272.39
+muskmelon	95.26	10.34	49.86	27.19	95.59	6.76	29.34	Uttar Pradesh	Zaid	219.16
+muskmelon	102.83	14.9	47.72	31.58	94.4	7.12	20.2	Maharashtra	Kharif	79.96
+muskmelon	99.24	16.1	52.58	31.68	92.45	6.92	27.99	Maharashtra	Rabi	191.98
+muskmelon	109.66	8.03	54.59	28.27	93.52	6.83	25.68	Uttar Pradesh	Post-Monsoon	66.09
+muskmelon	96.63	11.06	52.64	27.51	94.44	6.88	26.29	Punjab	Zaid	37.87
+muskmelon	102.08	9.96	47.45	25.46	90.69	6.71	22.41	Tamil Nadu	Post-Monsoon	76.0
+muskmelon	109.36	8.16	45.76	30.65	89.1	6.62	20.44	Karnataka	Post-Monsoon	165.14
+muskmelon	106.08	9.03	54.9	30.49	93.75	6.33	22.15	Tamil Nadu	Kharif	20.62
+muskmelon	95.18	13.87	46.2	27.8	92.71	6.67	22.09	Tamil Nadu	Rabi	187.41
+apple	0.94	10.5	203.97	7.46	95.51	5.86	111.9	Tamil Nadu	Rabi	200.62
+apple	6.96	8.06	207.63	8.17	89.73	6.12	108.27	Uttar Pradesh	Rabi	278.2
+apple	2.78	12.27	200.23	3.57	91.62	6.54	100.67	Uttar Pradesh	Kharif	203.52
+apple	1.93	16.22	198.51	0.45	89.44	6.74	104.94	Tamil Nadu	Post-Monsoon	27.77
+apple	4.49	14.19	195.47	7.26	93.79	6.05	118.91	Tamil Nadu	Post-Monsoon	54.64
+apple	0.63	17.01	202.11	0.08	91.0	6.3	117.11	Karnataka	Kharif	34.6
+apple	1.58	8.73	201.23	4.35	93.6	5.75	117.84	Punjab	Zaid	267.05
+apple	1.57	17.97	202.99	5.67	95.63	6.14	115.27	Karnataka	Zaid	101.56
+apple	6.06	17.26	206.97	8.36	89.57	5.94	119.31	Karnataka	Kharif	263.67
+apple	1.15	14.95	208.51	2.3	93.6	6.92	102.83	Karnataka	Post-Monsoon	273.71
+apple	5.81	15.38	197.03	5.18	92.31	5.85	103.16	Uttar Pradesh	Kharif	80.03
+apple	5.52	11.39	203.06	2.6	90.66	5.7	104.46	Karnataka	Post-Monsoon	256.57
+apple	2.05	16.03	198.31	6.36	92.14	6.44	101.79	Punjab	Kharif	223.94
+apple	3.22	9.65	199.14	8.47	88.24	6.65	119.5	Punjab	Kharif	260.24
+apple	7.23	8.84	197.47	7.42	93.1	5.62	117.2	Karnataka	Kharif	137.3
+apple	8.94	14.48	195.86	6.31	95.75	5.54	103.74	Tamil Nadu	Zaid	119.92
+apple	1.15	17.14	204.68	7.53	90.09	5.63	120.32	Maharashtra	Post-Monsoon	93.28
+apple	5.22	15.68	197.26	8.24	90.31	6.43	101.06	Karnataka	Post-Monsoon	21.71
+apple	4.35	8.26	203.99	0.03	90.09	5.87	108.63	Tamil Nadu	Kharif	114.83
+apple	5.16	13.3	201.08	5.63	89.89	5.72	106.74	West Bengal	Zaid	117.17
+apple	0.49	11.1	197.55	5.77	93.84	6.33	100.98	Karnataka	Kharif	127.95
+apple	2.4	14.02	204.21	4.6	90.84	7.0	119.31	Punjab	Rabi	46.47
+apple	0.61	16.02	208.92	8.65	90.02	6.29	122.26	Maharashtra	Kharif	85.87
+apple	7.33	17.62	204.66	5.47	91.79	6.82	106.23	West Bengal	Post-Monsoon	218.27
+apple	1.88	14.48	201.0	2.42	93.38	5.71	110.0	Punjab	Zaid	220.54
+apple	5.22	14.45	205.0	3.07	90.38	5.53	121.99	Punjab	Rabi	116.79
+apple	7.25	13.28	198.21	3.1	94.23	5.62	121.84	Karnataka	Zaid	284.18
+apple	6.32	9.57	209.19	3.74	90.32	6.81	104.66	West Bengal	Zaid	108.58
+apple	6.83	10.94	209.39	9.11	88.19	5.63	109.43	Karnataka	Zaid	260.29
+apple	5.13	17.6	202.96	9.16	88.18	5.84	102.72	West Bengal	Rabi	250.82
+apple	2.75	15.25	197.01	6.1	93.58	6.51	108.5	Tamil Nadu	Kharif	298.01
+apple	2.91	10.05	198.24	9.7	94.59	5.79	113.16	Maharashtra	Zaid	266.21
+apple	1.22	15.28	207.1	8.06	88.72	6.57	111.37	Karnataka	Kharif	167.87
+apple	6.06	9.99	203.9	6.31	89.58	5.83	110.12	Tamil Nadu	Rabi	21.37
+apple	4.07	8.35	196.15	0.84	94.0	6.64	112.42	Tamil Nadu	Post-Monsoon	37.64
+apple	9.61	16.58	206.68	7.2	92.2	5.51	122.79	West Bengal	Kharif	299.21
+apple	0.29	9.07	206.68	1.12	89.02	6.4	123.11	West Bengal	Post-Monsoon	106.82
+apple	6.37	12.97	205.94	8.23	92.77	6.94	122.7	Uttar Pradesh	Rabi	123.61
+apple	6.1	11.46	208.29	0.76	92.83	6.71	121.77	Punjab	Zaid	41.57
+apple	2.92	10.31	202.95	3.43	88.21	5.71	124.92	West Bengal	Rabi	246.33
+apple	1.58	10.16	204.03	1.48	89.92	5.91	108.44	Uttar Pradesh	Kharif	83.99
+apple	0.36	15.46	205.96	1.3	92.29	6.91	101.07	Tamil Nadu	Kharif	235.63
+apple	3.37	12.92	200.93	4.35	94.33	5.57	117.34	Uttar Pradesh	Rabi	133.69
+apple	8.47	17.39	209.16	8.75	88.44	6.83	109.03	Karnataka	Kharif	247.27
+apple	7.63	11.86	205.27	0.73	95.52	5.82	123.82	West Bengal	Zaid	270.27
+apple	3.56	16.17	202.64	1.83	92.58	6.23	121.19	Karnataka	Rabi	190.14
+apple	9.84	16.31	199.36	9.63	88.93	5.96	113.86	Maharashtra	Post-Monsoon	236.27
+apple	3.43	10.37	207.94	9.13	93.89	6.29	110.19	West Bengal	Rabi	197.09
+apple	6.15	9.24	196.54	3.71	93.53	5.53	120.56	Maharashtra	Zaid	298.03
+apple	5.81	8.65	199.34	5.74	95.48	6.57	111.33	Tamil Nadu	Rabi	126.83
+apple	5.98	13.73	209.14	4.21	93.0	6.71	121.74	Punjab	Zaid	250.78
+apple	6.42	15.59	206.19	6.76	94.09	6.78	102.24	Maharashtra	Zaid	52.1
+apple	7.84	13.79	204.55	5.69	89.18	6.35	107.36	Maharashtra	Zaid	175.15
+apple	7.92	16.57	209.3	8.91	88.87	6.76	120.18	West Bengal	Zaid	236.35
+apple	7.76	12.3	203.46	9.61	88.44	6.43	100.57	Maharashtra	Post-Monsoon	54.95
+apple	6.4	12.57	201.27	8.92	93.14	5.76	105.4	Maharashtra	Rabi	160.8
+apple	2.2	14.7	204.04	3.62	89.95	6.93	103.46	Maharashtra	Kharif	252.43
+apple	9.81	16.28	208.46	9.6	95.1	5.68	103.56	Punjab	Post-Monsoon	108.99
+apple	5.49	16.49	197.21	5.91	90.87	6.51	110.85	Tamil Nadu	Kharif	237.24
+apple	3.82	11.78	201.1	0.73	94.63	5.52	112.05	Karnataka	Kharif	204.88
+apple	6.86	9.46	197.85	5.29	92.57	6.97	118.76	Tamil Nadu	Rabi	235.39
+apple	3.99	9.49	203.81	7.73	94.8	5.91	122.47	Uttar Pradesh	Rabi	148.74
+apple	2.24	8.07	207.78	4.34	91.13	6.83	101.57	Uttar Pradesh	Kharif	251.78
+apple	7.63	13.04	196.13	6.68	94.51	6.0	124.24	Uttar Pradesh	Kharif	284.15
+apple	3.75	8.56	204.72	0.8	93.04	5.61	118.44	Uttar Pradesh	Post-Monsoon	128.26
+apple	1.77	14.3	197.94	5.82	91.55	6.12	103.59	Punjab	Zaid	73.95
+apple	2.8	8.17	202.43	4.43	90.25	5.74	117.86	Karnataka	Rabi	220.55
+apple	7.63	12.12	196.95	1.37	88.16	6.7	118.65	Karnataka	Post-Monsoon	277.62
+apple	9.23	17.82	203.48	9.32	88.53	6.67	100.57	Maharashtra	Zaid	29.48
+apple	1.95	10.03	198.48	9.37	95.63	5.97	117.87	West Bengal	Rabi	109.97
+apple	9.61	9.09	203.17	0.79	88.09	6.77	122.48	West Bengal	Kharif	32.79
+apple	1.63	11.8	198.28	4.22	94.6	6.97	107.94	Karnataka	Post-Monsoon	168.37
+apple	9.76	11.76	197.86	4.47	95.13	6.32	107.68	Maharashtra	Kharif	220.54
+apple	1.69	13.79	195.72	8.64	90.35	5.56	120.44	Karnataka	Zaid	92.58
+apple	0.53	12.52	205.23	8.32	91.19	6.3	123.19	Karnataka	Post-Monsoon	203.51
+apple	1.7	9.87	195.21	1.61	88.74	6.24	120.52	Maharashtra	Rabi	39.68
+apple	1.93	13.19	209.61	1.72	92.37	6.6	112.28	Punjab	Post-Monsoon	77.82
+apple	4.26	16.26	208.12	5.39	95.01	6.77	104.43	Punjab	Zaid	128.44
+apple	3.38	13.72	201.74	7.39	91.94	6.55	113.61	Punjab	Post-Monsoon	126.81
+apple	9.27	9.19	202.17	0.61	94.89	6.24	122.51	Maharashtra	Rabi	259.43
+apple	0.15	15.65	200.64	1.44	93.27	5.76	105.6	Tamil Nadu	Zaid	205.43
+apple	0.86	11.93	208.1	3.66	94.22	6.31	111.18	Uttar Pradesh	Zaid	127.43
+apple	1.5	8.73	204.77	9.37	88.58	6.36	108.18	Karnataka	Post-Monsoon	228.94
+apple	9.55	13.58	203.01	6.82	89.88	6.44	113.55	Maharashtra	Kharif	286.4
+apple	1.27	17.19	207.76	7.98	95.61	6.54	105.74	Maharashtra	Post-Monsoon	292.75
+apple	5.98	14.91	202.61	2.92	89.04	6.82	108.44	Punjab	Kharif	197.71
+apple	2.84	12.52	203.19	4.58	94.48	6.87	117.38	Karnataka	Kharif	113.51
+apple	1.79	16.95	201.02	3.9	89.57	6.65	116.42	Uttar Pradesh	Post-Monsoon	89.72
+apple	7.8	17.64	195.95	6.28	95.79	6.24	113.3	Karnataka	Rabi	258.54
+apple	5.75	12.36	202.46	8.46	94.7	5.69	112.9	West Bengal	Post-Monsoon	298.32
+apple	0.38	14.43	199.77	5.24	91.19	5.78	115.63	West Bengal	Zaid	25.04
+apple	2.69	8.3	208.42	3.6	95.96	6.07	115.49	Punjab	Post-Monsoon	175.07
+apple	0.31	9.25	199.19	5.42	94.23	6.01	109.36	Tamil Nadu	Rabi	280.93
+apple	3.93	13.94	197.94	3.53	94.52	5.94	115.96	Punjab	Rabi	208.22
+apple	7.39	16.47	206.84	8.3	89.78	6.91	113.65	Maharashtra	Kharif	108.65
+apple	1.64	8.8	205.21	3.28	92.26	6.01	124.73	Karnataka	Rabi	275.05
+apple	3.43	9.68	203.63	4.04	92.71	6.8	105.56	Maharashtra	Zaid	39.64
+apple	8.6	17.4	196.59	7.11	90.95	5.54	116.15	Maharashtra	Zaid	287.32
+apple	9.5	13.59	195.23	3.2	91.9	6.52	120.62	West Bengal	Kharif	66.31
+apple	6.28	9.2	205.13	5.12	92.62	6.89	102.83	Karnataka	Post-Monsoon	57.8
+orange	1.99	16.33	11.34	12.36	94.35	6.13	109.11	Karnataka	Zaid	35.58
+orange	2.94	9.08	16.28	12.02	89.73	6.26	115.48	West Bengal	Post-Monsoon	148.0
+orange	8.46	13.25	10.38	14.26	94.81	6.07	124.0	Tamil Nadu	Rabi	212.17
+orange	6.43	9.09	17.5	17.92	88.28	6.53	111.42	Maharashtra	Kharif	211.86
+orange	5.24	13.61	14.05	18.35	94.06	6.01	109.02	West Bengal	Zaid	126.64
+orange	8.9	17.35	13.57	19.13	94.21	6.62	123.89	Maharashtra	Post-Monsoon	239.77
+orange	4.5	12.42	10.99	11.68	91.94	6.51	108.43	Punjab	Zaid	166.99
+orange	3.4	13.88	17.65	17.97	90.54	7.07	115.34	West Bengal	Rabi	98.32
+orange	6.14	9.19	8.83	16.93	95.88	6.04	123.31	Uttar Pradesh	Kharif	22.43
+orange	8.02	11.73	10.3	16.47	89.86	7.44	103.28	Uttar Pradesh	Zaid	261.86
+orange	0.69	8.06	11.4	10.34	89.63	6.95	113.89	West Bengal	Kharif	92.33
+orange	2.84	13.2	14.17	13.86	92.96	7.08	103.6	Punjab	Rabi	132.69
+orange	8.99	15.89	15.19	12.93	91.31	7.12	103.24	Maharashtra	Rabi	276.58
+orange	2.88	17.5	8.7	12.18	94.51	7.06	120.19	Uttar Pradesh	Rabi	65.22
+orange	0.63	10.0	9.43	18.41	88.06	6.46	102.32	Karnataka	Kharif	266.79
+orange	5.2	12.15	12.9	12.04	92.42	6.52	113.31	Karnataka	Post-Monsoon	160.42
+orange	0.87	12.56	15.87	19.0	91.84	6.48	118.67	Tamil Nadu	Zaid	150.31
+orange	3.79	16.63	17.42	13.25	92.95	6.77	119.39	Punjab	Post-Monsoon	120.9
+orange	6.58	10.41	9.02	10.53	94.95	7.08	124.01	Punjab	Post-Monsoon	60.91
+orange	4.57	10.15	12.43	17.17	89.74	6.85	114.56	West Bengal	Kharif	104.49
+orange	1.73	13.77	13.67	16.15	93.93	7.32	123.88	Punjab	Post-Monsoon	241.83
+orange	6.57	13.85	14.4	12.36	92.41	6.35	104.16	Punjab	Zaid	213.72
+orange	2.45	13.78	16.95	12.03	92.45	6.46	110.45	Karnataka	Post-Monsoon	223.76
+orange	8.83	10.19	16.08	12.9	95.54	6.86	106.53	Tamil Nadu	Post-Monsoon	187.25
+orange	7.25	9.8	12.47	18.25	94.88	6.66	104.67	West Bengal	Post-Monsoon	30.27
+orange	0.55	10.46	17.01	14.69	92.22	6.75	102.81	Karnataka	Zaid	50.1
+orange	9.51	17.46	13.19	11.31	88.22	7.01	124.3	West Bengal	Zaid	125.17
+orange	7.91	16.63	13.48	11.73	95.07	6.4	113.86	Maharashtra	Post-Monsoon	160.4
+orange	5.06	13.69	11.49	12.11	93.92	7.06	109.3	Maharashtra	Zaid	63.55
+orange	6.37	11.94	8.61	18.38	94.0	7.5	119.21	West Bengal	Kharif	90.66
+orange	3.02	17.23	14.45	18.15	94.84	6.86	102.74	Uttar Pradesh	Zaid	252.2
+orange	1.63	10.1	15.28	18.99	94.94	6.03	103.73	Maharashtra	Rabi	235.97
+orange	7.3	13.87	11.48	10.24	90.42	6.72	116.34	Punjab	Rabi	26.44
+orange	8.23	17.12	13.77	19.92	88.66	7.03	112.5	Maharashtra	Kharif	52.1
+orange	0.48	9.51	9.52	12.07	88.94	7.03	117.51	Karnataka	Post-Monsoon	145.3
+orange	6.6	8.54	14.06	17.46	88.71	6.17	110.07	West Bengal	Rabi	22.14
+orange	6.18	8.32	9.36	13.43	93.94	6.79	110.94	West Bengal	Rabi	278.39
+orange	7.47	10.14	10.94	11.92	91.04	6.31	100.34	West Bengal	Post-Monsoon	198.68
+orange	6.65	11.01	13.21	11.5	94.28	6.26	102.25	Uttar Pradesh	Post-Monsoon	191.35
+orange	1.41	11.37	8.09	16.65	95.86	6.23	107.17	West Bengal	Kharif	253.6
+orange	5.91	15.01	11.67	19.68	93.77	7.26	101.65	Punjab	Kharif	243.56
+orange	2.15	14.67	13.96	11.28	93.56	6.74	100.43	Uttar Pradesh	Rabi	290.98
+orange	1.19	10.75	12.24	13.59	90.61	6.55	107.67	West Bengal	Rabi	255.44
+orange	2.59	8.75	15.43	11.56	89.13	6.72	101.35	Uttar Pradesh	Zaid	188.13
+orange	4.79	13.58	10.78	11.66	92.96	6.66	118.04	Uttar Pradesh	Post-Monsoon	133.6
+orange	5.91	12.12	9.3	18.6	92.25	7.42	102.68	Tamil Nadu	Zaid	286.35
+orange	1.59	16.79	14.32	10.08	93.61	7.3	100.81	Uttar Pradesh	Kharif	14.89
+orange	3.63	17.05	17.57	15.64	94.15	6.68	110.58	Tamil Nadu	Kharif	117.56
+orange	5.9	15.78	11.48	12.85	94.75	7.42	106.28	Uttar Pradesh	Rabi	252.66
+orange	2.51	12.34	9.11	15.55	94.15	7.2	112.85	Uttar Pradesh	Rabi	17.73
+orange	9.11	15.93	13.54	11.0	91.19	7.15	102.25	West Bengal	Post-Monsoon	159.72
+orange	5.44	13.17	16.12	16.7	91.58	6.22	100.76	Punjab	Kharif	292.52
+orange	7.04	12.63	9.95	10.42	91.62	6.37	111.55	West Bengal	Zaid	33.12
+orange	0.48	16.7	11.61	15.31	90.2	6.45	120.03	West Bengal	Kharif	214.18
+orange	0.25	13.65	9.82	15.32	92.22	6.53	110.65	Karnataka	Zaid	153.89
+orange	2.05	13.61	11.34	20.0	94.43	7.17	115.17	West Bengal	Post-Monsoon	277.37
+orange	8.38	16.9	12.37	11.49	90.83	6.1	106.01	West Bengal	Post-Monsoon	15.5
+orange	0.58	10.66	12.15	11.0	95.72	6.94	100.62	Uttar Pradesh	Kharif	24.67
+orange	5.89	14.67	9.24	12.52	88.16	6.98	114.64	Maharashtra	Kharif	247.96
+orange	5.63	15.0	15.08	16.96	92.59	6.47	116.69	Punjab	Kharif	101.83
+orange	1.72	10.56	14.09	10.38	92.72	6.97	114.95	Karnataka	Post-Monsoon	237.16
+orange	5.29	12.93	10.24	10.65	91.71	6.66	103.01	Karnataka	Post-Monsoon	184.87
+orange	7.5	9.02	17.08	19.55	89.19	6.73	123.81	Karnataka	Post-Monsoon	175.6
+orange	2.48	16.31	15.62	14.37	89.69	7.03	112.88	Maharashtra	Zaid	179.03
+orange	9.12	17.96	12.46	10.15	93.69	7.37	104.13	Karnataka	Rabi	17.63
+orange	4.67	13.16	16.2	15.41	89.37	6.13	101.37	West Bengal	Kharif	192.94
+orange	6.6	10.59	16.5	19.02	92.37	7.46	102.09	Tamil Nadu	Post-Monsoon	271.24
+orange	8.97	8.84	12.44	10.22	94.69	6.76	114.69	Tamil Nadu	Kharif	246.44
+orange	8.51	17.71	17.28	18.94	90.43	6.21	118.95	Karnataka	Zaid	161.36
+orange	7.37	10.33	17.83	19.73	90.99	7.4	113.48	Uttar Pradesh	Kharif	85.26
+orange	0.47	12.74	12.73	10.94	94.74	7.26	109.51	Uttar Pradesh	Zaid	182.75
+orange	0.92	14.48	8.84	11.58	95.13	7.01	114.76	West Bengal	Post-Monsoon	172.31
+orange	5.05	12.63	15.52	15.79	95.99	7.4	111.93	Punjab	Kharif	87.47
+orange	5.89	10.29	9.18	19.05	88.71	6.87	102.81	Karnataka	Kharif	153.36
+orange	5.52	10.48	12.88	16.74	94.47	6.83	105.6	Punjab	Post-Monsoon	112.67
+orange	7.79	12.6	15.98	18.05	93.36	6.6	107.32	Uttar Pradesh	Post-Monsoon	213.58
+orange	2.83	14.1	11.84	12.49	90.12	6.92	100.64	Karnataka	Zaid	53.99
+orange	4.44	9.53	11.38	13.86	89.28	7.4	114.5	West Bengal	Post-Monsoon	89.81
+orange	5.47	8.0	17.68	19.6	94.23	6.4	110.0	Punjab	Rabi	188.08
+orange	8.8	9.37	10.59	14.8	95.92	7.13	111.13	Maharashtra	Kharif	133.23
+orange	6.23	8.63	11.0	12.14	94.64	6.88	118.92	Punjab	Rabi	113.75
+orange	7.55	14.0	16.15	19.99	94.99	7.07	102.7	West Bengal	Post-Monsoon	218.72
+orange	8.94	11.42	17.81	10.44	90.04	6.83	102.36	Tamil Nadu	Kharif	273.9
+orange	3.6	17.56	15.5	14.96	90.1	6.92	110.72	Punjab	Kharif	263.18
+orange	6.97	10.74	15.88	14.16	94.76	6.71	118.51	Punjab	Kharif	234.0
+orange	1.27	10.59	13.38	17.53	93.04	6.82	123.91	Punjab	Kharif	261.23
+orange	4.62	13.51	8.97	10.8	90.17	6.78	124.88	West Bengal	Zaid	190.54
+orange	9.19	14.27	17.47	15.46	92.93	6.81	120.12	West Bengal	Post-Monsoon	211.98
+orange	5.5	11.12	13.07	15.67	93.51	7.3	108.18	Maharashtra	Zaid	293.88
+orange	8.04	8.49	9.24	11.35	92.79	6.27	121.12	Karnataka	Zaid	81.45
+orange	9.29	16.89	8.44	11.13	91.8	6.63	118.2	West Bengal	Post-Monsoon	70.07
+orange	3.14	12.11	15.09	11.26	92.12	6.39	109.31	Uttar Pradesh	Post-Monsoon	150.8
+orange	0.49	13.94	14.51	13.01	89.09	6.8	114.51	West Bengal	Kharif	95.06
+orange	3.76	11.75	16.65	17.86	93.92	6.84	110.87	Karnataka	Post-Monsoon	24.5
+orange	7.89	10.62	8.14	17.91	90.49	6.64	109.1	Karnataka	Zaid	165.88
+orange	0.29	12.51	17.53	17.68	95.72	6.29	112.66	Maharashtra	Kharif	133.29
+orange	2.43	15.82	10.58	14.04	91.05	6.2	115.84	Karnataka	Zaid	213.17
+orange	0.54	11.96	11.34	16.08	89.83	6.08	117.37	Punjab	Post-Monsoon	56.48
+orange	1.87	9.75	10.94	19.63	94.39	6.64	122.03	Punjab	Post-Monsoon	100.08
+orange	1.34	11.16	8.67	10.28	88.63	6.42	124.59	Uttar Pradesh	Zaid	274.11
+papaya	53.52	53.15	47.51	40.97	93.12	7.49	145.06	Maharashtra	Kharif	41.42
+papaya	50.89	54.82	49.81	37.95	92.47	6.7	145.79	Maharashtra	Zaid	138.79
+papaya	52.86	45.14	53.02	37.46	95.95	6.91	147.63	West Bengal	Post-Monsoon	32.08
+papaya	52.3	54.2	45.53	38.29	89.83	7.26	149.79	West Bengal	Post-Monsoon	110.26
+papaya	50.89	48.86	52.53	33.48	92.43	7.47	151.36	Tamil Nadu	Zaid	284.92
+papaya	46.75	46.28	51.72	39.95	89.86	6.82	147.53	Tamil Nadu	Kharif	19.12
+papaya	54.45	47.54	51.53	35.85	91.74	7.24	153.7	Uttar Pradesh	Kharif	50.58
+papaya	46.94	54.35	54.85	35.85	92.3	7.27	152.31	Karnataka	Kharif	140.72
+papaya	54.01	48.98	47.06	39.64	93.16	7.18	146.66	West Bengal	Kharif	65.57
+papaya	53.33	50.39	51.85	41.2	95.18	6.85	145.13	Maharashtra	Kharif	242.35
+papaya	45.67	52.84	54.62	41.27	90.04	7.21	146.94	Karnataka	Rabi	104.25
+papaya	50.45	53.3	47.67	41.94	90.65	6.73	148.06	Uttar Pradesh	Kharif	159.26
+papaya	52.15	48.96	49.74	35.87	95.24	7.34	148.45	West Bengal	Zaid	83.69
+papaya	54.17	54.56	47.62	37.27	94.61	6.71	150.35	Tamil Nadu	Kharif	147.78
+papaya	51.2	49.5	52.84	34.07	93.13	7.15	154.1	Punjab	Zaid	79.87
+papaya	50.96	46.47	49.56	38.02	93.29	7.37	152.35	Maharashtra	Post-Monsoon	296.57
+papaya	50.28	52.76	53.85	40.64	92.79	6.81	154.85	Karnataka	Rabi	252.88
+papaya	46.05	53.4	51.81	35.54	89.86	7.31	153.62	Maharashtra	Post-Monsoon	216.04
+papaya	46.75	46.32	47.04	38.57	89.81	6.95	150.21	West Bengal	Kharif	53.77
+papaya	46.13	51.46	50.5	33.3	95.36	6.66	153.82	West Bengal	Rabi	159.95
+papaya	50.15	45.49	50.78	42.24	89.34	6.62	153.16	Uttar Pradesh	Rabi	76.71
+papaya	53.89	45.16	51.92	36.86	91.47	6.61	154.1	Maharashtra	Post-Monsoon	217.31
+papaya	46.22	50.48	53.18	34.89	91.07	6.59	145.62	Punjab	Rabi	270.34
+papaya	47.89	48.19	47.44	42.43	92.72	7.26	152.86	Tamil Nadu	Post-Monsoon	237.08
+papaya	52.66	50.5	46.38	36.15	91.27	7.48	148.16	Punjab	Kharif	20.11
+papaya	46.99	52.73	45.17	41.35	91.23	6.68	148.7	Tamil Nadu	Zaid	286.22
+papaya	50.88	49.38	45.75	33.2	93.51	6.94	154.72	Punjab	Post-Monsoon	132.4
+papaya	45.92	45.13	51.47	42.16	90.39	6.59	145.9	West Bengal	Zaid	10.46
+papaya	49.47	48.24	48.99	41.18	95.33	6.77	151.19	Uttar Pradesh	Kharif	116.51
+papaya	50.62	46.95	49.2	35.02	92.43	6.88	152.26	Maharashtra	Post-Monsoon	56.2
+papaya	51.07	52.85	50.28	38.4	92.46	7.02	151.35	Uttar Pradesh	Post-Monsoon	163.45
+papaya	51.82	51.41	52.82	33.73	88.25	7.3	149.29	Tamil Nadu	Post-Monsoon	254.73
+papaya	50.69	53.97	45.23	38.95	89.01	7.44	146.33	Punjab	Zaid	141.82
+papaya	54.63	50.22	50.59	41.73	91.04	6.8	145.79	Uttar Pradesh	Zaid	281.01
+papaya	54.41	52.84	48.61	38.1	95.77	6.62	149.87	Tamil Nadu	Kharif	204.58
+papaya	46.38	47.97	51.02	40.84	88.77	7.17	153.35	Maharashtra	Rabi	91.3
+papaya	51.09	50.92	54.4	37.36	89.42	6.64	154.43	Tamil Nadu	Kharif	140.29
+papaya	53.11	53.82	54.13	35.64	93.85	6.77	146.32	Maharashtra	Zaid	207.49
+papaya	48.73	53.33	45.45	37.35	92.05	6.5	150.78	West Bengal	Zaid	154.11
+papaya	45.0	50.75	54.38	33.5	93.06	6.72	152.04	Tamil Nadu	Post-Monsoon	89.78
+papaya	45.53	46.72	53.27	35.78	94.92	7.49	150.03	Maharashtra	Zaid	267.35
+papaya	53.85	47.8	45.58	37.85	93.22	7.41	150.17	West Bengal	Zaid	217.95
+papaya	47.4	46.36	49.2	36.89	95.47	7.42	152.95	Tamil Nadu	Kharif	149.63
+papaya	45.59	48.51	50.62	39.98	95.59	6.59	150.74	Uttar Pradesh	Rabi	254.71
+papaya	53.86	46.09	53.16	33.86	89.49	6.58	153.8	Punjab	Zaid	75.95
+papaya	53.17	52.94	45.53	38.7	89.6	6.53	145.71	Karnataka	Zaid	207.34
+papaya	45.05	49.84	54.06	41.3	93.23	7.38	150.74	Tamil Nadu	Zaid	212.75
+papaya	47.27	51.46	52.97	38.22	91.31	7.06	147.13	Karnataka	Zaid	48.14
+papaya	47.57	54.57	52.66	37.13	93.86	7.46	152.93	Maharashtra	Rabi	293.45
+papaya	47.02	48.11	50.38	35.13	94.16	7.27	145.36	Tamil Nadu	Kharif	54.58
+papaya	52.75	51.64	49.03	39.85	88.55	7.39	147.13	Punjab	Zaid	136.98
+papaya	50.24	53.81	47.42	41.71	89.21	7.03	149.06	Tamil Nadu	Post-Monsoon	21.29
+papaya	49.29	46.94	50.48	42.9	95.97	7.39	154.31	Maharashtra	Rabi	168.68
+papaya	54.68	48.18	47.28	42.21	94.38	7.13	153.5	Karnataka	Rabi	166.66
+papaya	48.31	45.53	53.16	42.27	93.64	6.89	149.49	Tamil Nadu	Zaid	33.22
+papaya	54.61	46.59	50.65	40.29	88.08	6.53	154.37	Tamil Nadu	Kharif	22.33
+papaya	51.29	48.09	45.28	42.9	88.81	6.73	154.51	Uttar Pradesh	Post-Monsoon	235.88
+papaya	54.41	45.95	54.86	33.19	90.63	6.79	154.42	Punjab	Post-Monsoon	25.66
+papaya	52.03	46.68	45.24	40.17	90.97	6.73	153.18	Tamil Nadu	Kharif	207.95
+papaya	54.98	53.93	51.67	34.82	95.21	7.28	154.0	Tamil Nadu	Kharif	13.07
+papaya	53.6	52.6	52.0	33.51	90.56	6.84	153.63	West Bengal	Zaid	290.32
+papaya	51.55	51.86	47.6	39.34	92.94	6.53	147.83	Karnataka	Kharif	231.85
+papaya	52.04	53.45	49.64	38.51	95.45	7.21	150.9	Tamil Nadu	Kharif	274.9
+papaya	51.66	53.29	45.48	42.83	90.3	7.18	147.16	Tamil Nadu	Kharif	68.95
+papaya	53.97	46.19	47.77	34.26	88.25	6.71	145.46	Maharashtra	Zaid	28.68
+papaya	50.43	51.27	54.1	42.55	95.92	6.84	151.15	West Bengal	Zaid	110.37
+papaya	52.5	54.09	51.86	36.4	88.37	6.89	145.33	Karnataka	Post-Monsoon	175.12
+papaya	50.78	51.44	48.98	37.28	95.31	7.32	145.59	Maharashtra	Post-Monsoon	217.97
+papaya	49.78	45.44	51.95	35.42	91.83	6.77	151.8	Punjab	Rabi	202.04
+papaya	50.7	47.89	50.81	42.63	91.0	6.73	145.03	Karnataka	Post-Monsoon	119.32
+papaya	53.48	46.57	48.28	35.18	93.06	7.33	145.73	West Bengal	Post-Monsoon	100.8
+papaya	46.3	48.91	47.86	37.59	90.04	7.08	151.28	Punjab	Rabi	73.46
+papaya	47.21	48.31	45.95	33.15	94.3	7.07	151.43	Karnataka	Kharif	113.29
+papaya	45.06	52.64	50.41	42.14	92.08	6.74	146.51	Uttar Pradesh	Kharif	121.37
+papaya	49.44	52.95	51.16	33.06	95.17	6.83	154.75	Karnataka	Zaid	228.73
+papaya	54.96	50.56	54.82	37.51	94.86	7.36	145.88	Maharashtra	Post-Monsoon	100.39
+papaya	48.95	47.31	53.43	37.19	94.43	6.68	145.08	Punjab	Rabi	142.7
+papaya	48.54	46.87	47.56	42.83	95.12	7.19	146.26	Karnataka	Kharif	36.34
+papaya	48.44	46.62	52.14	38.51	89.45	6.93	154.57	Uttar Pradesh	Rabi	29.58
+papaya	54.07	50.24	46.24	38.73	91.91	6.5	148.66	Uttar Pradesh	Post-Monsoon	40.86
+papaya	46.12	49.37	50.36	36.32	92.4	7.23	153.81	Maharashtra	Post-Monsoon	210.18
+papaya	49.7	52.04	45.94	38.56	88.36	6.55	154.92	Tamil Nadu	Rabi	148.84
+papaya	52.66	51.99	53.58	33.67	95.83	7.11	146.55	Maharashtra	Post-Monsoon	270.77
+papaya	53.04	47.76	54.61	36.11	88.43	6.6	150.14	West Bengal	Post-Monsoon	57.13
+papaya	45.54	50.51	51.15	38.37	93.0	7.34	147.29	Punjab	Rabi	27.16
+papaya	45.89	47.79	54.87	39.55	93.85	7.42	153.6	Punjab	Kharif	29.15
+papaya	54.74	54.57	50.77	40.11	93.61	7.17	152.36	Punjab	Kharif	47.0
+papaya	51.34	54.79	47.77	40.14	89.19	7.35	146.31	Karnataka	Post-Monsoon	114.16
+papaya	54.3	51.95	46.03	36.73	89.55	7.4	152.59	Maharashtra	Kharif	131.2
+papaya	53.86	49.07	48.96	33.03	95.87	6.56	152.15	Maharashtra	Rabi	281.12
+papaya	49.4	49.6	48.98	38.85	92.89	6.72	152.68	Punjab	Kharif	199.01
+papaya	54.91	45.9	51.83	41.13	95.83	6.57	147.99	Maharashtra	Kharif	259.57
+papaya	46.59	52.49	50.31	34.19	94.28	6.76	153.42	Punjab	Zaid	29.4
+papaya	48.87	46.62	50.67	41.01	89.62	6.62	149.87	Maharashtra	Kharif	116.4
+papaya	50.57	48.69	53.41	41.41	95.26	6.96	152.53	Uttar Pradesh	Post-Monsoon	77.82
+papaya	48.94	46.53	50.7	41.04	90.9	6.56	150.81	Tamil Nadu	Zaid	200.25
+papaya	49.41	49.31	54.8	39.85	92.84	6.69	147.25	Karnataka	Zaid	12.48
+papaya	51.47	48.77	49.54	34.29	89.35	6.63	153.82	Uttar Pradesh	Kharif	95.7
+papaya	46.47	47.16	49.11	34.37	94.63	6.84	151.55	Punjab	Zaid	87.3
+papaya	46.51	51.79	53.5	39.36	95.64	7.03	149.93	Maharashtra	Kharif	224.57
+coconut	24.3	16.48	27.4	28.11	94.57	5.25	151.01	Punjab	Post-Monsoon	86.46
+coconut	17.01	18.39	27.39	26.34	95.73	7.97	154.47	West Bengal	Zaid	203.35
+coconut	18.65	17.36	27.46	34.49	95.59	5.1	151.9	Uttar Pradesh	Kharif	214.86
+coconut	18.66	21.68	30.0	25.28	95.84	5.8	153.64	Punjab	Post-Monsoon	275.68
+coconut	20.64	17.69	28.31	29.54	92.69	7.68	152.97	Tamil Nadu	Zaid	284.63
+coconut	18.6	17.4	28.71	29.72	94.86	6.18	154.31	Maharashtra	Post-Monsoon	289.06
+coconut	15.64	17.09	27.8	25.79	90.75	6.11	150.35	Uttar Pradesh	Zaid	278.33
+coconut	24.37	24.17	28.06	25.88	90.73	7.28	150.96	Tamil Nadu	Zaid	176.96
+coconut	18.97	23.44	26.82	33.53	89.92	6.36	154.81	West Bengal	Rabi	116.7
+coconut	22.17	24.87	27.66	28.85	95.47	5.86	154.98	Tamil Nadu	Rabi	81.87
+coconut	23.97	24.41	33.17	28.01	90.53	5.93	152.18	Uttar Pradesh	Post-Monsoon	174.31
+coconut	17.2	22.7	27.26	34.61	93.45	5.05	150.34	Punjab	Kharif	153.75
+coconut	20.31	18.56	26.67	34.32	88.64	7.19	149.47	Maharashtra	Zaid	102.32
+coconut	17.09	23.16	31.58	32.39	89.41	7.67	150.05	Karnataka	Zaid	87.45
+coconut	21.8	23.9	29.98	26.12	89.55	7.89	153.7	Punjab	Kharif	210.54
+coconut	19.11	18.41	32.42	26.48	95.24	6.39	146.32	Karnataka	Post-Monsoon	207.77
+coconut	19.07	16.95	25.03	27.79	88.5	7.48	154.25	Punjab	Zaid	246.43
+coconut	23.14	24.32	25.63	34.28	90.94	6.95	151.58	Uttar Pradesh	Kharif	17.34
+coconut	16.52	23.56	26.78	26.28	90.47	5.96	151.63	West Bengal	Kharif	133.37
+coconut	21.04	17.27	30.74	32.92	94.15	5.65	148.98	Punjab	Kharif	153.37
+coconut	16.64	15.35	26.22	28.78	90.77	7.13	150.18	Karnataka	Rabi	272.88
+coconut	15.27	21.45	30.76	31.31	91.88	5.74	146.28	Tamil Nadu	Zaid	249.9
+coconut	23.6	21.83	34.1	26.48	89.21	7.08	153.15	West Bengal	Rabi	269.15
+coconut	21.03	16.74	27.87	33.53	93.53	7.48	152.82	West Bengal	Zaid	75.4
+coconut	17.27	19.27	30.07	34.72	91.76	5.27	145.49	Karnataka	Kharif	158.32
+coconut	18.89	19.98	34.6	32.64	94.46	7.49	147.0	Uttar Pradesh	Kharif	14.11
+coconut	16.25	18.96	28.54	33.45	94.59	6.66	153.93	Maharashtra	Rabi	214.77
+coconut	24.64	19.93	32.94	31.3	95.38	7.29	150.34	Tamil Nadu	Post-Monsoon	148.76
+coconut	18.24	22.54	26.31	27.1	95.76	5.65	151.91	West Bengal	Rabi	286.16
+coconut	24.2	20.08	31.35	32.54	90.34	7.99	148.46	Punjab	Rabi	218.03
+coconut	21.65	21.85	33.6	26.79	95.67	6.22	148.77	Maharashtra	Zaid	71.21
+coconut	21.56	24.0	27.42	33.97	94.32	6.44	152.99	Uttar Pradesh	Kharif	164.16
+coconut	17.72	21.84	29.92	26.05	89.89	6.46	148.15	Maharashtra	Zaid	233.93
+coconut	21.53	18.24	25.14	31.6	89.76	6.16	149.01	Uttar Pradesh	Zaid	202.55
+coconut	17.29	23.28	29.74	28.65	88.51	7.19	152.91	Uttar Pradesh	Zaid	102.34
+coconut	20.69	22.99	34.37	31.6	90.95	6.28	152.2	Uttar Pradesh	Kharif	174.21
+coconut	24.18	18.42	29.28	25.17	95.47	5.27	152.21	Maharashtra	Rabi	181.37
+coconut	19.51	19.97	33.05	25.6	94.43	7.43	145.18	West Bengal	Post-Monsoon	293.15
+coconut	21.67	15.71	33.67	29.96	89.09	6.98	146.5	Uttar Pradesh	Rabi	175.76
+coconut	22.52	19.3	34.47	29.04	92.26	6.94	149.06	Maharashtra	Post-Monsoon	72.53
+coconut	16.65	19.91	29.84	25.8	92.82	7.31	146.32	Punjab	Post-Monsoon	205.74
+coconut	15.28	24.59	31.95	34.64	92.28	6.43	150.45	Tamil Nadu	Rabi	253.79
+coconut	24.36	24.41	31.85	34.0	93.59	5.93	146.15	Uttar Pradesh	Post-Monsoon	105.36
+coconut	16.88	24.54	31.72	32.86	93.1	5.55	146.25	Uttar Pradesh	Rabi	45.1
+coconut	15.69	23.42	32.75	29.86	91.03	7.98	150.63	Karnataka	Zaid	149.18
+coconut	22.11	15.01	29.21	30.61	91.17	5.93	151.65	Karnataka	Post-Monsoon	126.26
+coconut	20.72	20.93	34.23	33.85	88.71	7.45	148.86	Tamil Nadu	Post-Monsoon	210.28
+coconut	15.34	23.58	25.33	29.07	90.82	7.1	149.7	Uttar Pradesh	Post-Monsoon	292.76
+coconut	20.65	21.16	34.63	29.41	88.88	6.9	151.5	West Bengal	Post-Monsoon	74.59
+coconut	17.06	21.95	30.94	32.19	89.43	6.05	146.62	West Bengal	Post-Monsoon	129.92
+coconut	17.06	18.0	34.87	33.53	92.91	7.75	151.21	Maharashtra	Zaid	187.4
+coconut	18.49	17.82	31.57	27.48	95.78	7.26	153.75	Tamil Nadu	Rabi	99.14
+coconut	17.57	15.73	33.97	31.12	91.16	7.78	150.89	Maharashtra	Rabi	251.8
+coconut	24.45	17.58	30.78	27.85	92.6	5.81	149.1	Uttar Pradesh	Rabi	52.37
+coconut	15.48	18.28	29.2	31.05	91.82	7.81	154.88	Punjab	Zaid	38.93
+coconut	16.58	24.67	34.98	32.6	91.56	5.18	146.73	Karnataka	Kharif	148.89
+coconut	18.01	23.52	28.48	27.87	93.68	6.24	148.37	Maharashtra	Rabi	259.15
+coconut	16.26	17.44	25.43	27.78	91.46	5.91	154.29	West Bengal	Rabi	174.31
+coconut	23.23	16.41	32.37	28.56	89.09	5.34	152.34	Karnataka	Zaid	258.96
+coconut	23.64	20.29	30.95	26.9	92.66	6.88	153.4	Uttar Pradesh	Post-Monsoon	291.55
+coconut	15.79	20.74	27.18	25.69	93.65	6.66	146.89	Punjab	Zaid	125.0
+coconut	17.21	15.72	34.35	30.51	88.38	5.61	153.9	West Bengal	Post-Monsoon	55.7
+coconut	21.71	16.36	33.58	26.95	91.66	5.55	149.07	Punjab	Kharif	15.43
+coconut	17.32	19.51	30.79	30.04	93.55	7.4	148.96	Maharashtra	Kharif	19.47
+coconut	22.91	24.89	31.51	32.11	95.18	6.71	147.81	Maharashtra	Kharif	54.37
+coconut	23.05	15.9	31.63	29.87	95.11	5.19	147.63	Uttar Pradesh	Zaid	70.27
+coconut	18.19	16.55	30.37	32.91	90.93	5.14	146.62	Maharashtra	Zaid	132.42
+coconut	18.38	19.48	28.37	33.72	95.38	5.48	147.01	Maharashtra	Rabi	190.85
+coconut	17.34	16.36	26.34	29.01	95.93	5.65	153.78	West Bengal	Kharif	73.64
+coconut	17.54	19.68	25.68	31.92	93.36	6.28	149.56	Uttar Pradesh	Post-Monsoon	258.21
+coconut	16.42	19.78	31.1	32.51	90.52	7.7	145.57	Tamil Nadu	Zaid	71.08
+coconut	15.78	24.04	34.1	32.35	92.45	5.77	149.88	West Bengal	Kharif	72.87
+coconut	22.17	24.51	26.32	26.27	90.37	5.2	154.72	Maharashtra	Kharif	36.35
+coconut	22.18	24.58	31.62	26.32	88.42	6.12	149.39	Punjab	Post-Monsoon	275.72
+coconut	17.59	23.83	29.63	32.76	88.81	7.75	151.42	Punjab	Post-Monsoon	103.12
+coconut	17.6	16.06	32.87	31.01	94.9	7.78	145.5	Tamil Nadu	Rabi	165.68
+coconut	24.2	16.54	31.78	31.29	90.72	7.62	145.64	West Bengal	Zaid	183.65
+coconut	23.03	20.85	31.88	28.85	94.07	5.85	147.55	Maharashtra	Rabi	284.67
+coconut	19.85	21.27	29.51	32.69	88.61	5.56	146.3	Uttar Pradesh	Kharif	44.58
+coconut	19.58	20.14	27.36	28.47	93.51	6.25	154.18	Maharashtra	Kharif	204.19
+coconut	23.91	23.99	29.54	25.49	94.6	5.87	145.36	Punjab	Rabi	183.5
+coconut	18.53	20.88	31.19	27.52	90.84	6.79	152.35	Uttar Pradesh	Post-Monsoon	39.59
+coconut	16.76	24.05	34.45	32.48	90.0	6.67	146.82	Uttar Pradesh	Zaid	258.57
+coconut	16.5	16.13	26.76	31.79	93.48	5.78	153.79	Karnataka	Rabi	273.54
+coconut	22.4	15.02	30.4	26.96	95.81	5.88	149.43	Uttar Pradesh	Zaid	155.64
+coconut	20.19	20.09	30.8	28.31	90.17	5.06	146.66	Tamil Nadu	Post-Monsoon	232.13
+coconut	21.84	15.71	32.66	28.13	94.3	6.34	147.57	Punjab	Rabi	125.21
+coconut	21.35	17.09	34.48	30.98	90.53	5.7	146.85	Karnataka	Post-Monsoon	102.48
+coconut	16.7	24.12	30.67	25.18	88.64	6.2	150.43	West Bengal	Rabi	18.06
+coconut	18.69	22.25	26.58	30.93	88.94	5.97	153.65	Karnataka	Rabi	22.19
+coconut	20.91	18.16	31.65	30.82	89.86	5.73	151.68	West Bengal	Post-Monsoon	59.98
+coconut	21.22	17.97	32.64	26.8	91.45	5.23	151.63	Maharashtra	Kharif	197.43
+coconut	20.51	15.97	27.05	26.07	93.24	7.28	145.4	Tamil Nadu	Rabi	214.27
+coconut	16.57	23.19	25.84	33.51	88.75	7.49	152.82	Tamil Nadu	Zaid	158.29
+coconut	24.12	16.13	28.72	26.54	91.48	6.25	150.0	Karnataka	Zaid	269.15
+coconut	16.04	20.83	30.31	27.62	92.3	6.17	154.89	West Bengal	Kharif	22.35
+coconut	18.88	20.7	30.02	34.32	91.54	6.57	147.45	Tamil Nadu	Zaid	235.02
+coconut	24.6	21.38	27.82	33.7	93.99	7.33	146.19	Karnataka	Rabi	73.14
+coconut	21.59	16.12	26.41	34.3	94.47	5.54	146.93	Uttar Pradesh	Zaid	210.15
+coconut	15.45	16.63	27.53	27.17	95.78	5.84	149.86	Maharashtra	Kharif	36.11
+cotton	138.82	46.16	23.25	24.03	81.09	7.95	71.11	Punjab	Kharif	198.99
+cotton	123.12	39.98	22.35	22.1	77.19	6.86	76.39	Punjab	Rabi	214.81
+cotton	102.81	43.7	16.97	22.81	78.37	7.09	67.54	Uttar Pradesh	Kharif	103.31
+cotton	102.09	55.24	17.7	26.43	83.99	7.1	60.08	Tamil Nadu	Rabi	278.22
+cotton	137.91	50.4	21.6	24.82	81.11	6.12	75.92	Punjab	Post-Monsoon	57.56
+cotton	120.58	45.9	17.44	23.14	83.44	7.99	68.27	Maharashtra	Post-Monsoon	205.22
+cotton	139.72	40.1	23.15	24.04	82.47	7.01	85.4	Punjab	Post-Monsoon	61.34
+cotton	120.47	41.2	20.52	26.83	76.09	7.95	67.59	Punjab	Rabi	68.33
+cotton	110.15	50.22	15.99	24.7	80.08	7.94	73.97	West Bengal	Post-Monsoon	223.78
+cotton	132.77	36.58	19.77	25.54	82.64	7.88	60.79	Karnataka	Post-Monsoon	121.84
+cotton	129.28	45.56	21.29	23.85	80.82	6.01	95.95	Maharashtra	Kharif	258.33
+cotton	136.59	41.18	15.75	22.64	81.07	7.91	64.67	Maharashtra	Kharif	112.18
+cotton	126.7	49.49	20.33	23.23	81.93	6.7	79.9	Punjab	Kharif	297.3
+cotton	136.99	38.77	18.91	23.84	84.53	6.8	75.38	West Bengal	Zaid	176.68
+cotton	104.24	43.09	17.04	25.08	80.93	7.78	66.5	Tamil Nadu	Rabi	184.68
+cotton	130.2	50.71	15.09	24.22	77.98	6.27	94.47	Uttar Pradesh	Post-Monsoon	87.75
+cotton	121.38	54.12	19.12	24.95	84.97	6.13	77.51	Maharashtra	Post-Monsoon	150.49
+cotton	125.31	48.83	20.95	23.53	81.8	6.51	74.08	Maharashtra	Zaid	127.63
+cotton	103.39	47.73	23.03	26.01	83.47	6.23	78.48	Tamil Nadu	Post-Monsoon	160.51
+cotton	128.35	40.16	22.33	24.68	80.33	7.99	71.72	Maharashtra	Kharif	86.91
+cotton	114.22	54.81	16.67	25.2	83.06	7.75	73.07	West Bengal	Kharif	252.35
+cotton	144.4	39.1	16.4	24.29	78.97	6.58	84.07	Uttar Pradesh	Kharif	253.56
+cotton	108.06	48.37	17.53	24.6	82.7	6.0	95.09	Maharashtra	Rabi	263.73
+cotton	136.2	43.25	18.05	26.07	80.51	7.24	89.48	Tamil Nadu	Kharif	170.47
+cotton	118.72	56.64	15.15	26.63	79.47	6.74	60.51	Uttar Pradesh	Rabi	23.32
+cotton	115.52	44.76	21.79	22.51	83.89	7.56	74.24	West Bengal	Kharif	274.24
+cotton	142.76	44.69	15.97	23.31	80.65	7.65	99.15	Punjab	Zaid	135.28
+cotton	125.63	47.57	19.8	25.61	75.2	6.24	78.88	Karnataka	Kharif	19.06
+cotton	128.4	40.1	18.72	25.44	75.48	6.54	71.83	Tamil Nadu	Rabi	184.42
+cotton	142.22	44.83	17.74	23.71	79.22	7.8	76.03	Tamil Nadu	Rabi	97.26
+cotton	101.74	38.54	22.78	22.58	84.1	7.22	77.45	Karnataka	Rabi	101.47
+cotton	119.15	39.46	24.39	22.9	81.09	6.66	68.62	Punjab	Zaid	137.48
+cotton	101.32	47.47	19.8	23.94	80.41	7.37	73.03	Maharashtra	Rabi	184.23
+cotton	114.68	37.41	23.24	23.16	77.25	6.01	93.22	West Bengal	Zaid	106.57
+cotton	115.65	37.54	22.02	26.31	80.96	6.01	69.97	West Bengal	Rabi	284.49
+cotton	141.87	36.7	22.17	24.36	84.23	7.28	85.33	Karnataka	Post-Monsoon	55.55
+cotton	134.76	48.4	20.46	23.23	78.47	6.64	87.0	Maharashtra	Zaid	59.58
+cotton	126.3	42.63	21.81	23.73	82.13	6.63	76.24	Maharashtra	Zaid	151.88
+cotton	127.67	46.22	15.55	26.58	80.29	7.27	74.53	Maharashtra	Kharif	84.91
+cotton	120.43	41.73	17.3	23.83	77.15	7.54	71.9	Maharashtra	Zaid	42.52
+cotton	135.53	46.53	18.56	23.5	83.06	7.14	67.98	Tamil Nadu	Rabi	20.63
+cotton	110.41	47.76	15.3	22.98	80.3	6.84	94.95	Uttar Pradesh	Rabi	79.5
+cotton	128.99	57.96	24.8	24.14	75.37	6.95	81.4	West Bengal	Kharif	112.26
+cotton	107.83	48.58	16.96	23.43	80.55	6.37	87.37	Tamil Nadu	Rabi	45.45
+cotton	131.12	45.21	23.32	23.06	78.27	6.45	92.49	Maharashtra	Kharif	39.44
+cotton	125.4	37.68	19.25	24.39	77.93	7.74	79.86	Punjab	Post-Monsoon	138.38
+cotton	117.05	39.06	23.09	24.94	75.65	6.62	68.4	Karnataka	Rabi	180.42
+cotton	125.9	57.22	21.29	24.15	84.72	6.68	84.38	Maharashtra	Kharif	209.95
+cotton	105.05	48.31	20.54	24.4	80.77	7.06	69.36	Punjab	Zaid	57.48
+cotton	131.69	48.51	19.1	24.61	84.05	6.34	71.79	Tamil Nadu	Zaid	189.58
+cotton	142.26	55.98	21.15	24.29	78.71	6.34	96.43	Tamil Nadu	Post-Monsoon	105.29
+cotton	131.95	43.71	20.2	26.73	82.42	7.69	62.05	West Bengal	Kharif	137.92
+cotton	126.27	53.28	21.09	26.49	83.46	7.68	92.8	Tamil Nadu	Rabi	195.4
+cotton	140.83	46.3	15.82	22.07	78.28	7.16	71.97	Tamil Nadu	Zaid	245.16
+cotton	135.55	54.87	17.06	24.48	83.74	7.05	75.65	Maharashtra	Kharif	34.07
+cotton	132.68	50.95	17.1	24.51	82.52	7.7	64.56	Uttar Pradesh	Rabi	186.83
+cotton	144.36	55.86	15.8	26.73	78.37	6.02	92.84	Punjab	Rabi	251.68
+cotton	120.04	49.43	18.7	22.74	83.61	7.85	83.41	West Bengal	Zaid	35.93
+cotton	137.31	42.83	20.05	25.75	82.55	6.93	89.96	Punjab	Zaid	66.6
+cotton	130.3	35.5	22.44	22.61	77.41	7.17	60.42	Maharashtra	Rabi	257.32
+cotton	144.31	42.68	21.46	23.58	76.21	7.45	61.69	Uttar Pradesh	Zaid	249.64
+cotton	135.89	56.39	22.17	22.21	78.28	7.76	71.97	Punjab	Post-Monsoon	69.91
+cotton	103.14	43.58	21.97	25.94	79.96	6.76	76.08	Karnataka	Kharif	72.94
+cotton	115.69	53.02	19.01	23.23	78.53	7.6	62.41	Uttar Pradesh	Zaid	167.92
+cotton	143.89	59.41	23.42	24.15	78.67	7.91	78.01	West Bengal	Kharif	198.69
+cotton	138.73	55.51	17.39	24.44	76.86	6.69	95.09	Uttar Pradesh	Post-Monsoon	94.15
+cotton	117.68	51.97	15.43	22.67	80.08	6.48	79.45	Karnataka	Kharif	258.03
+cotton	124.51	45.55	22.66	23.89	75.05	7.83	71.8	Maharashtra	Kharif	119.54
+cotton	111.47	36.72	22.05	24.06	75.35	6.21	99.97	Karnataka	Zaid	194.04
+cotton	109.21	48.39	23.18	26.6	79.1	6.53	99.01	Uttar Pradesh	Kharif	64.78
+cotton	125.21	35.03	19.9	23.07	77.64	6.97	68.34	West Bengal	Kharif	86.36
+cotton	111.66	41.76	16.16	25.77	77.3	6.63	68.46	Uttar Pradesh	Post-Monsoon	176.79
+cotton	102.02	47.38	17.6	25.78	84.17	7.72	85.07	Punjab	Kharif	175.2
+cotton	107.79	48.41	23.58	26.69	80.09	7.53	94.85	Tamil Nadu	Kharif	258.15
+cotton	110.67	55.79	18.29	25.74	79.54	7.69	64.93	Tamil Nadu	Rabi	16.17
+cotton	143.55	55.15	24.6	26.93	82.89	7.52	93.57	Tamil Nadu	Kharif	68.9
+cotton	142.62	49.77	22.6	26.51	80.07	6.41	78.8	Punjab	Zaid	288.92
+cotton	110.01	40.85	19.05	25.8	79.5	7.66	63.77	Punjab	Kharif	185.46
+cotton	128.02	37.82	24.52	22.97	83.26	7.75	98.77	West Bengal	Rabi	124.81
+cotton	115.69	54.69	24.7	26.62	75.68	7.69	94.49	West Bengal	Kharif	187.25
+cotton	132.59	43.9	19.62	22.04	82.58	6.13	62.26	Punjab	Post-Monsoon	209.95
+cotton	137.75	41.8	20.65	22.8	78.71	7.56	93.61	Punjab	Kharif	27.25
+cotton	121.72	50.4	15.99	25.17	76.44	7.5	81.76	Karnataka	Kharif	180.34
+cotton	133.09	46.87	22.44	26.91	83.66	7.15	68.19	West Bengal	Zaid	32.66
+cotton	122.32	42.46	16.44	23.45	77.65	7.78	85.83	West Bengal	Rabi	131.57
+cotton	104.85	55.71	15.52	22.96	78.83	6.86	87.5	West Bengal	Kharif	147.72
+cotton	106.72	44.98	21.94	22.85	84.34	6.3	61.41	Maharashtra	Zaid	236.04
+cotton	110.64	57.33	19.14	22.68	80.71	6.39	98.34	Maharashtra	Kharif	12.89
+cotton	120.92	50.12	15.3	22.48	77.43	6.67	91.92	Uttar Pradesh	Kharif	241.57
+cotton	109.73	46.54	16.9	25.89	81.54	6.34	63.74	West Bengal	Post-Monsoon	174.25
+cotton	133.45	46.82	15.76	23.95	76.43	6.24	92.17	Tamil Nadu	Zaid	262.34
+cotton	131.95	41.98	19.08	22.56	79.96	7.14	81.89	Uttar Pradesh	Post-Monsoon	251.93
+cotton	120.47	42.66	19.07	26.92	76.45	6.45	72.06	West Bengal	Rabi	114.56
+cotton	104.18	44.93	16.44	22.91	84.11	6.54	63.29	Punjab	Kharif	179.17
+cotton	113.73	55.58	22.98	24.37	76.8	7.23	68.33	West Bengal	Post-Monsoon	196.05
+cotton	115.89	37.36	24.23	24.35	75.79	6.93	92.73	Punjab	Kharif	291.45
+cotton	130.47	41.76	18.45	25.46	80.84	6.7	75.29	West Bengal	Kharif	40.83
+cotton	130.03	42.99	24.3	24.91	83.42	6.34	77.19	Karnataka	Zaid	222.43
+cotton	136.11	57.12	17.55	24.78	82.91	7.82	80.55	Karnataka	Rabi	72.03
+cotton	117.07	36.47	15.1	24.63	78.12	6.52	80.45	West Bengal	Post-Monsoon	248.05
+jute	82.3	37.21	40.65	25.29	79.81	7.24	178.36	Uttar Pradesh	Post-Monsoon	97.22
+jute	62.01	49.28	42.26	25.12	86.48	7.79	198.72	Karnataka	Rabi	251.75
+jute	91.42	59.49	37.79	24.08	78.74	6.9	197.53	Maharashtra	Rabi	44.01
+jute	82.96	48.19	38.19	24.73	72.96	7.71	158.41	West Bengal	Rabi	225.61
+jute	79.67	58.47	36.48	23.06	88.05	6.0	160.41	West Bengal	Kharif	27.68
+jute	60.73	47.97	37.49	24.17	84.29	6.81	161.96	Uttar Pradesh	Kharif	10.97
+jute	80.84	54.2	40.68	23.36	75.04	6.81	150.13	Maharashtra	Kharif	121.5
+jute	90.12	50.69	43.2	23.56	79.89	7.87	187.11	Maharashtra	Post-Monsoon	224.6
+jute	84.71	44.71	40.42	25.93	76.0	7.98	197.55	Maharashtra	Post-Monsoon	149.21
+jute	70.32	41.12	35.51	26.69	86.32	7.94	175.75	Punjab	Rabi	82.22
+jute	64.75	37.42	43.35	26.81	71.65	6.19	194.12	Tamil Nadu	Kharif	202.02
+jute	82.21	44.23	37.59	25.0	85.18	7.93	165.45	Uttar Pradesh	Rabi	194.42
+jute	92.2	51.62	35.68	23.81	85.25	6.56	170.56	Karnataka	Zaid	118.77
+jute	82.99	49.93	37.83	26.56	75.47	6.81	172.08	Punjab	Kharif	37.69
+jute	82.02	41.67	41.44	23.06	72.79	7.54	195.51	Punjab	Rabi	276.99
+jute	86.1	47.83	40.96	26.07	89.36	6.3	194.53	West Bengal	Kharif	163.95
+jute	80.03	36.75	37.62	24.3	72.72	6.45	195.64	Punjab	Rabi	129.36
+jute	66.39	58.26	38.44	24.82	70.17	6.17	180.99	Maharashtra	Rabi	169.98
+jute	73.28	48.72	41.87	26.75	82.57	7.57	198.73	Tamil Nadu	Kharif	93.19
+jute	94.65	44.94	43.83	23.24	82.03	6.44	163.23	Karnataka	Kharif	25.6
+jute	65.11	41.06	36.43	23.35	71.79	7.76	195.37	West Bengal	Rabi	174.66
+jute	99.61	50.68	35.69	23.36	70.59	7.81	197.33	Punjab	Zaid	13.34
+jute	89.42	45.88	38.25	26.82	85.44	7.46	198.68	Tamil Nadu	Zaid	120.73
+jute	61.84	56.88	41.55	26.58	89.57	6.84	160.94	Punjab	Zaid	121.02
+jute	98.66	37.68	35.88	23.95	77.32	7.44	189.93	West Bengal	Zaid	152.63
+jute	65.96	40.87	40.58	24.69	79.82	6.82	158.45	Tamil Nadu	Kharif	227.34
+jute	65.05	46.47	44.53	24.58	89.74	7.02	192.37	Punjab	Post-Monsoon	281.13
+jute	97.28	54.58	44.53	26.42	75.52	6.15	196.33	Karnataka	Post-Monsoon	257.17
+jute	77.68	56.41	37.7	25.49	79.47	7.66	183.12	Maharashtra	Kharif	195.34
+jute	74.46	35.91	44.75	23.44	80.21	7.0	174.17	Tamil Nadu	Rabi	46.41
+jute	72.53	41.8	37.09	23.21	84.52	7.76	187.7	Maharashtra	Rabi	284.77
+jute	66.03	43.41	41.37	26.37	82.09	7.5	158.18	Tamil Nadu	Rabi	14.99
+jute	75.99	52.27	43.01	25.57	71.76	6.25	183.53	Maharashtra	Post-Monsoon	234.49
+jute	81.87	37.01	36.47	24.0	87.14	6.86	165.34	Tamil Nadu	Zaid	155.13
+jute	94.56	55.16	42.24	25.11	75.54	7.6	176.84	Karnataka	Post-Monsoon	85.3
+jute	90.97	43.68	35.98	23.4	70.87	6.18	190.76	Tamil Nadu	Zaid	66.86
+jute	89.99	37.06	42.26	23.99	70.59	7.42	152.55	Maharashtra	Post-Monsoon	11.22
+jute	97.84	47.42	36.0	25.92	87.45	6.77	199.37	West Bengal	Rabi	28.12
+jute	87.95	37.63	39.47	26.31	82.46	7.82	152.47	Uttar Pradesh	Zaid	19.41
+jute	60.53	42.45	44.37	26.25	74.81	7.5	174.82	Uttar Pradesh	Post-Monsoon	230.96
+jute	82.19	36.14	42.49	26.54	85.15	7.77	157.78	Tamil Nadu	Kharif	219.31
+jute	70.33	49.55	37.85	26.91	79.33	7.05	193.37	Uttar Pradesh	Kharif	32.34
+jute	98.33	43.52	38.38	23.66	72.39	6.95	158.32	Maharashtra	Post-Monsoon	161.55
+jute	60.14	38.44	39.68	26.04	84.3	6.94	197.27	Uttar Pradesh	Post-Monsoon	17.97
+jute	87.61	37.78	41.16	26.9	73.09	7.79	183.84	Maharashtra	Post-Monsoon	82.88
+jute	79.62	38.02	36.98	24.36	74.53	6.89	170.96	Uttar Pradesh	Kharif	62.8
+jute	71.47	35.37	42.23	25.2	85.69	6.93	198.51	Uttar Pradesh	Kharif	59.22
+jute	70.28	56.7	36.94	26.07	74.27	6.79	159.31	Uttar Pradesh	Post-Monsoon	179.67
+jute	91.57	44.61	41.69	24.53	77.05	6.91	169.92	Karnataka	Kharif	122.79
+jute	77.7	52.07	35.66	25.48	72.37	7.16	199.13	Tamil Nadu	Rabi	35.94
+jute	62.2	37.89	39.07	24.19	72.9	6.15	174.02	Uttar Pradesh	Rabi	67.31
+jute	61.86	58.53	43.13	25.09	75.16	7.56	164.1	West Bengal	Kharif	189.8
+jute	94.63	49.45	37.89	26.42	80.07	6.44	150.51	Uttar Pradesh	Post-Monsoon	184.2
+jute	92.38	55.35	38.16	23.91	72.95	6.74	153.56	Karnataka	Zaid	231.46
+jute	88.57	59.73	41.98	24.62	85.88	6.46	193.39	Maharashtra	Zaid	77.48
+jute	82.0	37.34	38.26	26.28	87.61	6.55	174.93	Tamil Nadu	Rabi	152.27
+jute	92.81	49.63	39.24	26.84	76.4	6.49	166.85	Punjab	Kharif	49.68
+jute	90.82	57.65	44.08	24.32	71.97	6.47	168.61	Maharashtra	Post-Monsoon	156.94
+jute	73.65	41.49	38.76	26.76	70.91	7.34	179.93	West Bengal	Rabi	222.96
+jute	60.75	42.39	37.93	26.03	86.85	6.74	164.01	Karnataka	Post-Monsoon	50.99
+jute	74.32	46.04	35.27	23.81	86.54	6.93	168.08	Tamil Nadu	Post-Monsoon	164.15
+jute	85.65	40.75	41.65	23.24	71.95	6.64	198.94	Maharashtra	Kharif	235.13
+jute	95.55	42.41	35.73	24.21	86.93	7.41	183.59	Karnataka	Kharif	56.98
+jute	66.91	41.49	42.52	25.74	78.06	6.3	172.54	Maharashtra	Zaid	299.14
+jute	77.95	45.72	36.36	24.78	87.85	7.37	157.19	Uttar Pradesh	Rabi	283.49
+jute	68.33	48.71	44.21	24.9	83.83	6.72	156.27	Maharashtra	Post-Monsoon	219.39
+jute	93.44	50.18	39.06	25.69	70.6	6.53	195.93	Maharashtra	Post-Monsoon	181.48
+jute	69.35	36.44	38.35	24.48	74.71	6.01	189.41	Punjab	Rabi	147.54
+jute	83.11	53.56	44.57	24.31	87.08	6.86	162.87	Uttar Pradesh	Zaid	65.64
+jute	86.25	43.04	39.5	25.95	80.0	7.76	174.99	Tamil Nadu	Zaid	83.86
+jute	77.45	36.92	42.04	23.11	86.62	7.05	157.36	West Bengal	Post-Monsoon	70.92
+jute	76.1	55.93	39.55	23.82	71.19	6.35	197.18	West Bengal	Post-Monsoon	39.95
+jute	90.46	55.9	43.3	25.6	79.8	7.21	198.44	Uttar Pradesh	Post-Monsoon	57.67
+jute	91.18	38.94	43.83	24.49	75.78	7.67	170.21	Maharashtra	Rabi	19.39
+jute	67.03	37.59	39.25	25.31	74.15	7.71	158.96	Uttar Pradesh	Rabi	226.59
+jute	99.8	59.6	42.95	23.06	89.94	7.78	159.22	Karnataka	Zaid	153.68
+jute	63.1	45.56	35.25	23.29	79.29	7.77	150.97	West Bengal	Kharif	126.02
+jute	67.76	57.18	35.39	24.37	70.22	6.07	179.17	West Bengal	Rabi	129.85
+jute	78.35	41.35	37.8	25.31	87.06	7.73	172.03	Maharashtra	Zaid	236.93
+jute	77.33	41.04	40.55	25.16	89.16	6.07	169.88	Tamil Nadu	Zaid	27.65
+jute	95.24	50.39	41.13	26.95	76.5	7.4	160.95	Maharashtra	Rabi	46.89
+jute	88.03	59.78	39.93	25.16	71.74	7.79	155.89	Karnataka	Rabi	110.94
+jute	61.91	59.37	40.63	24.72	72.51	6.86	170.99	Karnataka	Zaid	248.98
+jute	78.14	39.16	41.45	24.42	74.11	6.98	181.17	Punjab	Zaid	16.78
+jute	88.91	47.64	40.46	24.21	70.06	7.5	199.69	Karnataka	Kharif	59.2
+jute	81.83	51.63	44.22	25.26	86.85	6.34	152.32	West Bengal	Kharif	272.19
+jute	91.07	58.61	43.82	23.95	70.65	6.52	178.62	Uttar Pradesh	Rabi	60.27
+jute	66.28	58.93	37.47	23.69	89.15	6.49	153.36	West Bengal	Zaid	272.7
+jute	92.21	43.6	44.73	23.45	87.69	6.45	166.88	Tamil Nadu	Kharif	75.55
+jute	76.19	47.61	40.54	25.24	83.9	6.42	159.68	West Bengal	Rabi	263.79
+jute	71.78	41.16	44.19	25.37	72.65	7.62	151.33	Maharashtra	Rabi	45.51
+jute	93.27	54.72	42.53	23.36	87.59	6.12	189.0	Maharashtra	Post-Monsoon	100.79
+jute	94.98	50.03	36.34	23.23	72.85	7.93	170.07	Uttar Pradesh	Post-Monsoon	143.34
+jute	83.52	41.95	35.66	23.06	73.65	7.55	163.41	Uttar Pradesh	Rabi	271.49
+jute	73.68	59.65	35.98	23.53	77.91	6.15	161.45	Karnataka	Zaid	77.31
+jute	76.03	58.6	43.55	24.1	76.37	7.34	175.43	Karnataka	Zaid	121.1
+jute	95.89	38.55	35.25	25.48	72.41	7.62	161.43	Uttar Pradesh	Rabi	201.35
+jute	95.17	57.56	38.15	23.55	71.22	6.33	155.29	Tamil Nadu	Rabi	259.42
+jute	74.19	42.94	37.71	25.88	72.79	7.16	155.25	West Bengal	Kharif	160.05
+jute	77.66	57.93	39.61	23.56	79.32	7.95	168.72	Punjab	Zaid	259.39
+coffee	86.13	20.06	30.45	26.54	53.82	7.2	140.71	Maharashtra	Kharif	181.3
+coffee	109.44	39.32	28.03	25.71	57.39	6.65	165.72	Maharashtra	Rabi	288.88
+coffee	115.23	34.67	30.89	27.93	56.45	6.14	184.81	Uttar Pradesh	Rabi	108.69
+coffee	108.66	32.64	34.6	24.37	63.25	6.5	155.28	Tamil Nadu	Rabi	250.57
+coffee	101.66	39.4	28.21	25.19	61.91	6.2	178.08	Uttar Pradesh	Zaid	125.39
+coffee	85.01	30.86	26.68	24.53	53.25	7.17	184.99	Punjab	Zaid	33.24
+coffee	103.42	21.71	26.59	23.92	55.26	7.13	157.66	Tamil Nadu	Post-Monsoon	58.72
+coffee	115.32	24.6	26.72	25.06	58.83	6.38	129.42	Uttar Pradesh	Kharif	256.81
+coffee	86.78	21.58	34.22	23.44	58.55	6.26	115.92	Uttar Pradesh	Post-Monsoon	124.38
+coffee	113.26	27.75	26.34	24.99	53.93	7.25	142.42	Uttar Pradesh	Zaid	134.79
+coffee	87.4	28.5	27.85	23.2	60.76	6.92	118.99	Uttar Pradesh	Rabi	81.23
+coffee	110.52	29.85	26.78	23.8	62.55	6.14	190.97	West Bengal	Post-Monsoon	257.13
+coffee	107.79	27.24	25.21	25.64	56.92	6.99	140.63	Tamil Nadu	Post-Monsoon	42.16
+coffee	107.4	27.2	33.41	25.37	56.54	6.19	137.51	Punjab	Zaid	12.99
+coffee	102.9	23.02	26.73	24.36	51.35	7.24	167.72	West Bengal	Kharif	69.62
+coffee	114.69	22.36	29.1	23.06	64.05	6.93	137.65	Uttar Pradesh	Post-Monsoon	96.9
+coffee	117.55	33.74	28.89	24.38	62.26	6.17	174.91	Karnataka	Rabi	144.54
+coffee	106.34	26.54	28.62	27.76	63.41	7.13	148.76	Punjab	Rabi	239.11
+coffee	104.18	21.96	34.75	27.09	63.2	7.21	152.87	Tamil Nadu	Kharif	158.36
+coffee	97.66	39.96	33.36	25.47	59.23	6.28	138.98	West Bengal	Kharif	265.84
+coffee	91.48	22.82	28.08	26.86	51.17	6.74	132.52	Tamil Nadu	Post-Monsoon	236.46
+coffee	111.85	29.02	28.89	24.28	58.55	7.5	128.24	Tamil Nadu	Zaid	226.15
+coffee	95.14	34.74	29.18	25.84	54.21	6.7	130.83	Karnataka	Zaid	28.33
+coffee	80.48	39.06	30.96	24.14	63.12	6.94	140.04	Punjab	Zaid	60.57
+coffee	95.63	24.13	28.21	25.95	50.24	7.2	161.52	West Bengal	Post-Monsoon	164.75
+coffee	90.47	27.4	28.05	27.23	59.53	7.11	138.49	Karnataka	Zaid	89.98
+coffee	98.28	26.72	28.75	25.71	56.77	6.98	183.49	Karnataka	Zaid	269.87
+coffee	113.96	20.89	33.77	26.78	56.06	7.39	187.11	Uttar Pradesh	Zaid	201.15
+coffee	115.29	19.92	28.73	25.59	59.13	6.05	119.78	Karnataka	Post-Monsoon	278.11
+coffee	86.68	36.55	25.11	25.59	55.02	7.05	166.98	Maharashtra	Post-Monsoon	15.93
+coffee	119.05	25.99	32.53	25.14	55.06	6.05	171.47	Karnataka	Zaid	275.31
+coffee	103.69	23.4	25.27	25.42	56.6	6.32	180.39	Karnataka	Kharif	168.92
+coffee	85.43	34.17	29.21	27.44	57.13	6.86	137.5	Uttar Pradesh	Kharif	233.62
+coffee	98.08	32.23	29.31	24.09	61.4	7.01	179.67	Uttar Pradesh	Post-Monsoon	146.51
+coffee	88.21	27.12	28.05	27.07	60.45	7.04	184.48	Maharashtra	Post-Monsoon	296.35
+coffee	80.96	36.56	32.99	26.19	62.72	7.27	165.94	Maharashtra	Rabi	50.31
+coffee	84.72	28.02	27.62	27.28	56.34	7.05	121.22	Karnataka	Post-Monsoon	18.62
+coffee	95.63	22.11	25.61	23.35	61.45	6.87	191.97	Uttar Pradesh	Post-Monsoon	65.58
+coffee	112.38	30.79	32.67	25.54	59.24	7.01	160.33	Maharashtra	Rabi	152.26
+coffee	102.47	27.21	28.23	27.42	53.06	7.21	152.09	Karnataka	Kharif	164.83
+coffee	112.89	24.78	27.62	25.03	54.38	6.05	172.44	Maharashtra	Rabi	292.02
+coffee	83.48	34.96	34.58	24.51	64.84	6.9	116.54	Tamil Nadu	Zaid	234.78
+coffee	104.42	27.21	25.27	24.9	52.69	6.93	180.56	Karnataka	Rabi	10.58
+coffee	90.34	31.36	26.62	28.0	53.48	7.37	174.4	Tamil Nadu	Rabi	245.4
+coffee	107.89	35.22	31.94	27.11	51.13	7.09	123.93	Karnataka	Kharif	122.05
+coffee	95.08	32.1	31.63	26.39	55.16	6.97	161.39	Uttar Pradesh	Kharif	120.09
+coffee	114.04	37.41	30.81	26.61	52.13	7.27	155.88	Tamil Nadu	Kharif	67.92
+coffee	97.95	19.02	29.76	27.68	64.66	6.62	138.87	Karnataka	Kharif	69.04
+coffee	100.53	29.87	30.18	27.49	64.41	6.1	127.75	West Bengal	Rabi	184.19
+coffee	96.58	21.82	33.7	24.48	54.49	6.79	175.18	Uttar Pradesh	Kharif	142.72
+coffee	100.65	32.51	34.66	27.76	52.76	6.97	165.51	Uttar Pradesh	Kharif	131.5
+coffee	80.09	38.62	31.85	26.6	63.27	6.58	123.81	Karnataka	Post-Monsoon	123.65
+coffee	80.62	18.73	26.33	23.08	59.37	6.68	165.85	West Bengal	Post-Monsoon	66.44
+coffee	116.05	23.82	27.69	24.63	58.92	6.95	129.71	Tamil Nadu	Zaid	299.51
+coffee	107.22	37.25	34.0	23.41	50.16	7.12	179.84	Punjab	Rabi	96.49
+coffee	106.31	26.23	29.08	23.09	51.35	7.39	191.55	Karnataka	Zaid	82.11
+coffee	87.31	38.01	30.7	25.03	62.25	7.06	134.99	Karnataka	Post-Monsoon	10.22
+coffee	116.73	24.46	28.75	23.66	61.47	7.03	118.36	Tamil Nadu	Rabi	212.54
+coffee	97.0	29.03	25.79	25.66	56.59	6.55	190.33	Punjab	Kharif	291.56
+coffee	114.95	36.2	27.72	27.39	57.65	6.22	143.18	Punjab	Post-Monsoon	299.44
+coffee	89.95	26.13	34.39	25.0	52.28	6.3	125.17	Karnataka	Kharif	120.54
+coffee	112.27	31.3	31.25	25.64	54.26	6.11	144.83	Tamil Nadu	Post-Monsoon	290.66
+coffee	114.21	32.66	26.74	26.74	64.27	6.28	156.95	West Bengal	Rabi	288.76
+coffee	102.55	20.83	28.84	24.99	64.5	7.42	160.54	Karnataka	Rabi	64.85
+coffee	93.79	31.43	30.9	27.45	59.01	7.23	162.04	Punjab	Rabi	72.45
+coffee	110.06	34.17	33.65	25.0	57.72	7.07	151.08	West Bengal	Zaid	275.75
+coffee	97.35	24.62	27.47	25.63	50.73	7.42	179.6	Maharashtra	Rabi	37.74
+coffee	88.01	29.61	26.9	26.82	51.27	7.49	147.2	Uttar Pradesh	Kharif	270.07
+coffee	91.58	19.09	34.79	26.49	63.95	6.22	164.36	Punjab	Kharif	287.41
+coffee	92.2	32.35	27.27	23.17	54.26	7.4	120.66	Tamil Nadu	Kharif	14.84
+coffee	100.66	30.65	28.21	27.51	62.65	6.71	117.65	Maharashtra	Post-Monsoon	196.88
+coffee	113.31	26.44	26.6	26.93	64.1	6.2	187.69	Tamil Nadu	Rabi	26.13
+coffee	87.31	25.41	27.32	25.85	57.27	6.64	163.69	Uttar Pradesh	Zaid	172.02
+coffee	104.82	20.75	34.38	27.7	62.41	6.82	192.82	Uttar Pradesh	Zaid	126.67
+coffee	85.27	18.09	29.74	24.82	59.42	6.0	164.25	Karnataka	Kharif	281.57
+coffee	97.22	25.33	29.8	26.79	59.77	7.1	192.09	Tamil Nadu	Kharif	99.79
+coffee	111.82	24.76	27.58	26.55	54.77	7.45	167.53	Karnataka	Zaid	256.62
+coffee	83.88	19.14	29.9	23.98	52.54	6.74	192.65	Uttar Pradesh	Rabi	131.52
+coffee	110.3	34.76	26.79	23.22	60.43	7.25	174.54	Maharashtra	Kharif	181.33
+coffee	100.63	22.25	29.6	23.95	60.98	7.22	183.14	Tamil Nadu	Zaid	255.52
+coffee	91.46	31.4	32.8	25.47	50.39	7.12	157.76	West Bengal	Rabi	101.41
+coffee	82.63	39.31	25.05	27.18	56.2	6.11	175.56	Uttar Pradesh	Post-Monsoon	192.66
+coffee	119.1	33.14	33.53	27.87	51.35	7.04	191.88	West Bengal	Zaid	32.75
+coffee	94.07	22.24	27.56	26.03	51.1	7.19	155.71	Tamil Nadu	Zaid	167.94
+coffee	83.16	34.21	25.95	27.48	56.78	6.41	179.06	Karnataka	Zaid	82.17
+coffee	106.66	38.28	25.47	25.46	57.09	6.08	115.9	West Bengal	Kharif	217.88
+coffee	92.76	24.86	30.4	27.92	64.92	6.37	188.85	Punjab	Rabi	61.68
+coffee	112.17	18.53	27.09	24.91	61.53	7.15	174.07	Uttar Pradesh	Rabi	158.99
+coffee	116.61	29.97	28.99	27.74	59.43	7.04	116.68	Karnataka	Kharif	53.95
+coffee	92.87	31.38	28.38	27.85	55.73	7.04	171.74	West Bengal	Rabi	219.49
+coffee	93.7	27.19	27.0	27.66	59.07	6.7	136.09	Uttar Pradesh	Kharif	231.01
+coffee	113.62	28.72	30.06	27.82	58.38	7.49	118.4	West Bengal	Kharif	293.92
+coffee	108.63	31.19	31.15	25.7	60.84	7.04	185.86	Tamil Nadu	Rabi	32.87
+coffee	87.99	36.84	26.45	24.95	51.5	6.5	137.05	Tamil Nadu	Kharif	109.44
+coffee	112.01	23.3	31.58	23.56	59.84	6.05	194.54	Punjab	Rabi	52.55
+coffee	92.54	31.21	29.7	23.04	57.16	6.41	171.89	Tamil Nadu	Post-Monsoon	220.66
+coffee	118.34	19.25	30.32	27.46	61.59	7.38	186.63	Uttar Pradesh	Post-Monsoon	227.71
+coffee	91.57	34.41	33.23	25.86	60.94	6.86	148.7	Karnataka	Post-Monsoon	299.36
+coffee	85.29	26.96	27.48	26.52	58.64	7.38	144.06	Uttar Pradesh	Rabi	227.22
+coffee	82.95	29.76	25.16	24.87	62.19	7.36	115.48	Karnataka	Post-Monsoon	24.04
