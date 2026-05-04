@@ -1,9 +1,12 @@
 document.addEventListener("DOMContentLoaded", () => {
-  // Always point to the Node.js gateway on port 3000.
-  // Works whether the page is opened via Live Server (5500) or directly via Node (3000).
-  const API_BASE_URL = (window.location.port === "3000")
+  // Always point to the Node.js gateway.
+  // On Render the page is served by the same Node server, so same-origin works.
+  // On Live Server (port 5500) or any other port, fall back to the Render URL.
+  const API_BASE_URL = (window.location.hostname === "localhost" && window.location.port === "3000")
     ? window.location.origin
-    : "http://localhost:3000";
+    : (window.location.hostname === "localhost" || window.location.hostname === "127.0.0.1")
+      ? "http://localhost:3000"
+      : window.location.origin;
   const ASSETS_BASE_URL = "assets";
   const AUTH_STORAGE_KEY = "cropsense_user";
   const AUTH_TOKEN_STORAGE_KEY = "cropsense_token";
